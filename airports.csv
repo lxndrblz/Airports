@@ -46,7 +46,6 @@ AQY,America/Anchorage,Alyeska,AQY,US,POINT (-149.11667 60.966667),150,,"",,,
 ATP,Pacific/Port_Moresby,Airstrip,ATP,PG,POINT (142.28334 -3.166667),10,,AYAI,,,
 AUP,Pacific/Port_Moresby,Agaun,AUP,PG,POINT (149.58333 -9.983333),3200,,AYAG,,,
 YBE,America/Regina,Uranium City,YBE,CA,POINT (-108.48333 59.566666),1044,,CYBE,,,
-VBM,America/Anchorage,Blue Mountain,VBM,US,POINT (-157.08667 57.8575),0,,,,,
 YHU,America/Montreal,St. Hubert Airport,YMQ,CA,POINT (-73.6 45.5),90,http://www.dashl.ca/,CYHU,,,
 YIV,America/Winnipeg,Island Lake Airport,YIV,CA,POINT (-94.78333 54.2),770,,CYIV,,,
 QMK,America/Godthab,Heliport,QMK,GL,POINT (-52.833332 68.25),0,,,,,
@@ -54,6 +53,7 @@ YJF,America/Yellowknife,Fort Liard,YJF,CA,POINT (-123.46667 60.25),708,,CYJF,,,
 CSP,America/Juneau,Cape Spencer C G Heliport,CSP,US,POINT (-136.639007568 58.1991004944),3,,,,,
 PQT,America/Godthab,Qeqertaq Heliport,PQT,GL,POINT (-51.3037 69.9994),3,,,,,
 AEI,Europe/Madrid,Algeciras,AEI,ES,POINT (-5.441301 36.1289),0,,,Algeciras,Provincia de Cadiz,Andalusia
+VBM,America/Anchorage,Blue Mountain,VBM,US,POINT (-157.08667 57.8575),184,,,,,
 QKS,America/Denver,Keystone Airport,QKS,US,POINT (-79.211098 39.7728),0,,,Elk Lick Township,Somerset County,Pennsylvania
 AME,Africa/Maputo,Alto Molocue,AME,MZ,POINT (37.583332 -15.833333),1950,,"",,,
 BCP,Pacific/Port_Moresby,Bambu,BCP,PG,POINT (146.48334 -5.85),6790,,AYBC,,,
@@ -172,7 +172,6 @@ JRD,America/Los_Angeles,Heliport,RAL,US,POINT (-117.36667 33.983334),0,,,,,
 BWE,Europe/Berlin,Braunschweig,BWE,DE,POINT (10.533333 52.266666),295,http://www.flughafen-braunschweig-wolfsburg.de/,EDVE,,,
 BAU,Europe/Rome,Bauru,BRI,IT,POINT (-49.0525 -22.343056),0,,,,,
 CHI,America/Chicago,Chicago FSS,CHI,US,POINT (-87.6297982 41.8781136),0,,,,,
-XYP,Europe/Stockholm,Avesta Krylbo,XYP,SE,POINT (0 0),0,,,,,
 JGR,America/Godthab,Heliport,JGR,GL,POINT (-48.1 61.233334),0,,,,,
 CWS,America/Los_Angeles,Center Island,CWS,US,POINT (-122.83139 47.485),115,,"78WA",,,
 AFT,Pacific/Guadalcanal,Afutara Aerodrome,AFT,SB,POINT (160.85 -9.2),23,,AGAF,,,
@@ -182,6 +181,7 @@ YCV,America/Montreal,Cartierville,YCV,CA,POINT (-73.75 45.516666),0,,,,,
 AIE,Pacific/Port_Moresby,Aiome,AIE,PG,POINT (144.66667 -5.166667),350,,AYAO,,,
 AIC,Pacific/Majuro,Airok,AIC,MH,POINT (170.83333 7.5),16,,"",,,
 JHL,America/Edmonton,Albian,HZP,CA,POINT (-111.41889 57.22389),1048,,CAL4,,,
+XYP,Europe/Stockholm,Avesta Krylbo,XYP,SE,POINT (16.215858548 60.1312969721),285,,,,,
 HEL,Europe/Helsinki,Helsinki-Vantaa Airport,HEL,FI,POINT (24.96645 60.31795),179,http://www.finavia.fi/en/helsinki-airport,EFHK,,,
 YMC,America/Montreal,Maricourt Airstrip,YMC,CA,POINT (-70.816666 56.566666),0,,,,,
 MUV,America/New_York,Mustin Alf,PHL,US,POINT (-75.24861 39.868057),0,,,,,
@@ -5264,6 +5264,7 @@ ATK,America/Anchorage,Atqasuk Airport,ATK,US,POINT (-157.33333 70.5),96,,PATQ,,,
 AUK,America/Nome,Alakanuk Airport,AUK,US,POINT (-164.61084 62.689167),10,,PAUK,,,
 UMT,America/Anchorage,Umiat,UMT,US,POINT (-152.33333 69.416664),267,,PAUM,,,
 UNK,America/Anchorage,Unalakleet Airport,UNK,US,POINT (-160.79944 63.881927),27,,PAUN,,,
+AWB,Pacific/Port_Moresby,Awaba Airport,AWB,PG,POINT (142.75 -8.016667),32,,AYAW,Awaba,,Western Province
 VAK,America/Nome,Chevak Airport,VAK,US,POINT (-165.59027 61.52861),75,,PAVA,,,
 KVC,America/Nome,King Cove,KVC,US,POINT (-162.31334 55.055),155,,PAVC,,,
 KVL,America/Nome,Kivalina Airport,KVL,US,POINT (-164.54723 67.73167),13,,PAVL,,,
@@ -5301,7 +5302,6 @@ SGK,Pacific/Port_Moresby,Sangapi,SGK,PG,POINT (144.76666 -5.083333),6242,,AYSK,,
 KII,Pacific/Port_Moresby,Kibuli,KII,PG,POINT (142.69528 -9.016389),54,,AYLI,,,
 AKG,Pacific/Port_Moresby,Anguganak,AKG,PG,POINT (142.01666 -3.633333),937,,AYGU,,,
 TAJ,Pacific/Port_Moresby,Tadji,ATP,PG,POINT (142.41667 -3.183333),33,,AYTJ,,,
-AWB,Pacific/Port_Moresby,Awaba,AWB,PG,POINT (142.75 -8.016667),32,,AYAW,,,
 BAA,Pacific/Port_Moresby,Bialla,BAA,PG,POINT (151.03334 -5.316667),51,,AYBL,,,
 CVB,Pacific/Port_Moresby,Chungribu,CVB,PG,POINT (144.7 -4.8),130,,AYCB,,,
 GMI,Pacific/Port_Moresby,Gasmata Island,GMI,PG,POINT (150.33333 -6.3),23,,AYGT,,,
@@ -8875,7 +8875,7 @@ UYN,Asia/Shanghai,Yulin Yuyang Airport,UYN,CN,POINT (109.73038 38.274155),0,http
 UYU,America/La_Paz,Uyuni,UYU,BO,POINT (-66.8484 -20.4463),11136,,SLUY,Uyuni,,Potosi
 UZC,Europe/Belgrade,Uzice-Ponikve,UZC,RS,POINT (19.697403 43.898834),0,,,Bajina Basta,Zlatiborski Okrug,Central Serbia
 UZH,Asia/Riyadh,Unayzah,UZH,SA,POINT (43.933334 26.1),0,,,Unaizah,,Al-Qassim
-UZR,Asia/Almaty,Urzhar Airport,UZR,KZ,POINT (81.6652 47.0911),0,,UASU,Urzhar,,East Kazakhstan
+UZR,Asia/Almaty,Urzhar Airport,UZR,KZ,POINT (81.6652 47.0911),1650,,UASU,Urzhar,,East Kazakhstan
 UZU,America/Argentina/Cordoba,Curuzu Cuatia,UZU,AR,POINT (-58.095554 -29.778889),229,,SATU,Curuzu Cuatia,,Corrientes
 VAA,Europe/Helsinki,Vaasa Airport,VAA,FI,POINT (21.760122 63.04355),19,http://www.finavia.fi/en/vaasa/,EFVA,Ristinummi,Vaasa,Ostrobothnia
 VAB,America/Bogota,Yavarate,VAB,CO,POINT (-70.75 1.116667),0,,,Mitu,,Vaupes
