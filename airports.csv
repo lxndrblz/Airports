@@ -12,6 +12,7 @@ YHA,America/St_Johns,Port Hope Simpson,YHA,CA,POINT (-56.3 52.533333),347,,CCP4,
 LHB,America/Nome,Lost Harbor Sea Port,LHB,US,POINT (-165.6 54.233334),0,,,,,
 OBY,America/Scoresbysund,Ittoqqortoormiit,OBY,GL,POINT (-21.666668 70.583336),0,,,,,
 AIB,America/Sitka,Anita Bay,AIB,US,POINT (-132.38333 56.233334),0,,,,,
+KFZ,Europe/Tirane,Kukës International Airport,KFZ,AL,POINT (20.414944 42.032833),1135,https://kuiport.al/,LAKU,Kukës,,
 YFL,America/Yellowknife,Fort Reliance,YFL,CA,POINT (-109.13333 62.7),514,,CJN8,,,
 YPF,America/Vancouver,Esquimalt,YPF,CA,POINT (-123.4 48.433334),0,,,,,
 YEP,America/Vancouver,Estevan Point,YEP,CA,POINT (-126.53333 49.38333),0,,,,,
@@ -190,13 +191,13 @@ TRP,America/Anchorage,Coast Guard Heliport,TRP,US,POINT (0 0),0,,,,,
 CLC,America/Chicago,Metroport,CLC,US,POINT (-95.1375 29.556944),0,,,,,
 DEI,Indian/Mahe,Denis Island,DEI,SC,POINT (55.666668 -3.8),10,,FSSD,,,
 AKM,Africa/Ndjamena,Zakouma,AKM,TD,POINT (19.816668 10.883333),1370,,"",,,
-JOJ,America/Cambridge_Bay,Doris Lake,UZM,CA,POINT (-106.585281372 68.1252746582),50,,"",,,
 NDP,America/Chicago,Ellyson NAS,PNS,US,POINT (-87.18833 30.4725),0,,,,,
 DDG,Asia/Shanghai,Langtou Airport,DDG,CN,POINT (124.28081 40.032368),30,http://www.ddcei.gov.cn/english/index.html,ZYDD,,,
 DAO,Pacific/Port_Moresby,Dabo,DAO,PG,POINT (147.84944 -8.433056),118,,"",,,
 FCT,America/Los_Angeles,Firing Center AAF,YKM,US,POINT (-120.51667 46.6),0,,,,,
 FLU,America/New_York,Flushing,NYC,US,POINT (-73.83444 40.775555),0,,,,,
 NIE,America/Anchorage,Niblack,NIE,US,POINT (-132.15 55.066666),0,,,,,
+JOJ,America/Cambridge_Bay,Doris Lake Aerodrome,UZM,CA,POINT (-106.585278 68.125278),72,,,Doris Lake,,
 NKV,America/Anchorage,Nichen Cove,NKV,US,POINT (-133.21666 55.85),0,,,,,
 NOL,America/Anchorage,Nakolik River,NOL,US,POINT (-160.71666 67.9),0,,,,,
 NOH,America/Chicago,Chicago NAS,CHI,US,POINT (-87.61667 41.880554),0,,,,,
@@ -232,7 +233,7 @@ SIL,Pacific/Port_Moresby,Sila,SIL,PG,POINT (147.5 -8.333333),2230,,AYSG,,,
 DOS,Pacific/Port_Moresby,Dios,DOS,PG,POINT (154.83333 -5.533333),335,,"",,,
 CWG,America/New_York,Callaway Gardens,CWG,US,POINT (-84.8825 32.84028),0,,,,,
 XNK,Europe/London,North Gate Rail Station,XNK,GB,POINT (0 0),0,,,,,
-JLB,America/Los_Angeles,Heliport,LGB,US,POINT (-118.15111 33.8175),0,,,,,
+JLB,America/Los_Angeles,Long Beach Heliport,LGB,US,POINT (-118.190323 33.749293),16,,,Long Beach,,California
 JGC,America/Phoenix,Heliport,GCN,US,POINT (-112.1475 35.951942),0,,,,,
 JMD,America/Chicago,Market Centre Heliport,DFW,US,POINT (-97.333336 32.8),0,,,,,
 DDI,Australia/Brisbane,Daydream Island,DDI,AU,POINT (148.81667 -20.266666),0,,,,,
@@ -2783,6 +2784,7 @@ GCW,America/Phoenix,Grand Canyon West,GCW,US,POINT (-113.9495 36.07211),4825,,K1
 GCY,America/New_York,Municipal,GCY,US,POINT (-82.85 36.216667),1608,http://www.greenevilleaviation.com/,KGCY,Greeneville,Greene County,Tennessee
 GDC,America/New_York,Donaldson Center,GSP,US,POINT (-82.35 34.8),955,,KGYH,Mauldin,Greenville County,South Carolina
 GDE,Africa/Addis_Ababa,Gode/Iddidole Airport,GDE,ET,POINT (43.628334 5.902222),834,,HAGO,Yeed,,Bakool
+GEN,Europe/Madrid,Oslo Gardermoen Airport,GEN,NO,POINT (11.10022295251 60.19824876818),666,,ENGM,Gardermoen,,
 DNX,Africa/Khartoum,Galegu,DNX,SD,POINT (33.066666 14.1),1640,,HSGG,Kinana,,Sinnar
 EBD,Africa/Khartoum,El Obeid,EBD,SD,POINT (30.234167 13.159722),1927,,HSOB,El Obeid,,Shamal Kurdufan
 EGN,Africa/Khartoum,Geneina Airport,EGN,SD,POINT (22.469444 13.4875),2650,,HSGN,Geneina,,Western Darfur
@@ -2806,7 +2808,6 @@ GED,America/New_York,Sussex County,GED,US,POINT (-75.3575 38.68833),53,https://w
 GBU,Africa/Khartoum,Khashm El Girba,GBU,SD,POINT (35.88889 14.926389),1560,,HSKG,,,
 GEG,America/Los_Angeles,Spokane International Airport,GEG,US,POINT (-117.537636 47.62515),2376,http://www.spokaneairports.net/,KGEG,Airway Heights,Spokane County,Washington
 GEL,America/Sao_Paulo,Sepe Tiaraju,GEL,BR,POINT (-54.168056 -28.28111),1056,,SBNM,Santo Angelo,Santo Angelo,Rio Grande do Sul
-GEN,Europe/Madrid,Oslo - Gardermoen Airport,GEN,ES,POINT (-4.766667 37.38333),0,,,Puente-Genil,Province of Cordoba,Andalusia
 GEO,America/Guyana,Cheddi Jagan International Airport,GEO,GY,POINT (-58.25308 6.503833),95,http://www.cjairport-gy.com/,SYCJ,Vreed-en-Hoop,,Essequibo Islands-West Demerara
 KBD,Australia/Perth,Kimberley Downs,KBD,AU,POINT (124.35 -17.333332),0,,"",,,
 KDE,Pacific/Port_Moresby,Koroba,KDE,PG,POINT (142.73334 -5.683333),5638,,AYOW,,,
@@ -5337,7 +5338,7 @@ MDY,Pacific/Midway,Sand Island Field,MDY,UM,POINT (-177.38333 28.2),13,,PMDY,,,
 PIZ,America/Anchorage,Dew Station Airport,PIZ,US,POINT (-163.16667 69.75),22,,PPIZ,,,
 PPX,Pacific/Port_Moresby,Param,PPX,PG,POINT (149.59166 -9.995833),4490,,"",,,
 HUN,Asia/Taipei,Hualien Airport,HUN,TW,POINT (121.613434 24.025764),52,http://www.hulairport.gov.tw/,RCYU,Hualien City,Hualien County,
-PUA,Pacific/Port_Moresby,Puas,PUA,PG,POINT (150.23334 -2.4),45,,"",,,
+PUA,Pacific/Port_Moresby,Puas,PUA,PG,POINT (150.23334 -2.4),45,,,Puas Mission,,New Ireland
 PUI,Pacific/Port_Moresby,Pureni,PUI,PG,POINT (142.83333 -5.833333),5512,,"",,,
 AWK,Pacific/Wake,Wake Island,AWK,UM,POINT (166.63333 19.283333),14,,PWAK,,,
 PWR,America/Anchorage,Port Walter,PWR,US,POINT (-134.65 56.38333),0,,PWR,,,
