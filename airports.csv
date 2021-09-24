@@ -13,8 +13,10 @@ LHB,America/Nome,Lost Harbor Sea Port,LHB,US,POINT (-165.6 54.233334),0,,,,,
 OBY,America/Scoresbysund,Ittoqqortoormiit,OBY,GL,POINT (-21.666668 70.583336),0,,,,,
 AIB,America/Sitka,Anita Bay,AIB,US,POINT (-132.38333 56.233334),0,,,,,
 KFZ,Europe/Tirane,Kukës International Airport,KFZ,AL,POINT (20.414944 42.032833),1135,https://kuiport.al/,LAKU,Kukës,,
+GDR,America/Sao_Paulo,Angra dos Reis Airport,GDR,BR,POINT (-44.307222 -22.975278),7,http://angraeroportos.com.br/,SDAG,Angra dos Reis,,
 YFL,America/Yellowknife,Fort Reliance,YFL,CA,POINT (-109.13333 62.7),514,,CJN8,,,
 YPF,America/Vancouver,Esquimalt,YPF,CA,POINT (-123.4 48.433334),0,,,,,
+EES,Africa/Cairo,Berenice International Airport,IUP,EG,POINT (35.4651135268 23.98986901318),108,,,Berenice City,,
 YEP,America/Vancouver,Estevan Point,YEP,CA,POINT (-126.53333 49.38333),0,,,,,
 YGA,America/Montreal,Gagnon,YGA,CA,POINT (-68.13333 51.95),700,,CTU4,,,
 YSV,America/Goose_Bay,Saglek,YSV,CA,POINT (-62.5 58.583332),0,,,,,
@@ -24,7 +26,10 @@ NSX,America/Tortola,Hovercraft/Launch Pt,NSX,VG,POINT (-64.36667 18.5),0,,,,,
 ANT,Europe/Vienna,St Anton,ANT,AT,POINT (10.283333 47.15),0,,,Sankt Anton am Arlberg,Politischer Bezirk Landeck,Tyrol
 AZJ,Asia/Shanghai,Zhenjiang Dalu,AZJ,CN,POINT (119.78395645531 31.912266555746),30,http://czjc.changzhou.gov.cn/,,Changzhou,Xinbei District,Jiangsu
 AGK,Pacific/Port_Moresby,Kagua,AGK,PG,POINT (143.84666 -6.403333),5350,,"",,,
+RDL,Africa/Cairo,Al Bardawil International Airport,RDL,EG,POINT (33.1515706592 30.4095794591708),1049,,,El Hassana,,North Sinai Governorate
 HIT,Pacific/Port_Moresby,Haivaro,HIT,PG,POINT (143.06667 -6.933333),180,,AYHO,,,
+JSB,America/Fortaleza,Walfrido Salmito de Almeida Airport,JSB,BR,POINT (-40.883333 -4.05),2874,,SWBE,São Benedito,,Ceará
+VCC,America/Sao_Paulo,New Vacaria Airport,VCC,BR,POINT (-51.022778 -28.431944),2953,,SNEE,Vacaria,,
 BIU,Atlantic/Reykjavik,Bildudalur,BIU,IS,POINT (-23.983334 65.833336),18,,BIBD,,,
 YLE,America/Yellowknife,Wha Ti,YLE,CA,POINT (-117.26667 63.15),882,,CEM3,,,
 CBA,America/Sitka,Corner Bay,CBA,US,POINT (-135.2 57.716667),0,,,,,
@@ -1433,6 +1438,7 @@ BYD,Asia/Aden,Beidah,BYD,YE,POINT (46.55 14.133333),6120,,OYBI,Marbat,Hatib,Shab
 BYF,Europe/Paris,Albert-Bray Airport,BYF,FR,POINT (2.697659969 49.9715004),364,,LFAQ,Bray-sur-Somme,Departement de la Somme,Picardie
 BYG,America/Denver,Municipal,BYG,US,POINT (-106.7 44.35),4968,,KBYG,Buffalo,Johnson County,Wyoming
 BYI,America/Boise,Rupert,BYI,US,POINT (-113.77417 42.54139),4150,http://burleyidaho.org/city-of-burley/airport/,KBYI,Burley,Cassia County,Idaho
+BZT,America/Phoenix,Eagle Air Park,BZT,US,POINT (-114.61603755344 34.89139607951),476,,"2TE0",Brazoria,Brazoria County,Texas
 BEM,Africa/Casablanca,Beni Mellal Airport,BEM,MA,POINT (-6.316667 32.4),1694,http://ww.onda.ma,GMMD,Beni Mellal,Beni-Mellal,Tadla-Azilal
 BNB,Africa/Kinshasa,Boende,BNB,CD,POINT (20.87 -0.233056),1168,,FZGN,Boende,,Equateur
 BOH,Europe/London,Bournemouth Airport,BOH,GB,POINT (-1.832476 50.77827),38,http://www.bournemouthairport.com/,EGHH,St Leonards,Dorset,England
@@ -8015,6 +8021,7 @@ SNK,America/Chicago,Winston Field,SNK,US,POINT (-100.9 32.716667),2430,,KSNK,Sny
 SNL,America/Chicago,Shawnee Municipal,SNL,US,POINT (-96.916664 35.333332),1073,http://www.shawneeairport.com/,KSNL,Shawnee,Pottawatomie County,Oklahoma
 SNN,Europe/Dublin,Shannon Airport,SNN,IE,POINT (-8.92039 52.69248),46,http://www.shannonairport.com/,EINN,Shannon,An Clar,Munster
 SNO,Asia/Bangkok,Sakon Nakhon Airport,SNO,TH,POINT (104.1 17.283333),529,,VTUI,Sakon Nakhon,,Sakon Nakhon
+SOO,Europe/Stockholm,Helsinge Airport,SOO,SE,POINT (17.098333 61.261389),88,http://www.flygstaden.se/flygf-ltet,ESNY,Soderhamn,Soderhamns Kommun,Gaevleborg
 SNQ,America/Santa_Isabel,San Quintin,SNQ,MX,POINT (-116 30.5),68,,"",Pueblo Benito Garcia,Ensenada,Baja California
 SNR,Europe/Paris,Montoir Airport,SNR,FR,POINT (-2.182222 47.29111),13,,LFRZ,Saint-Nazaire,Departement de la Loire-Atlantique,Pays de la Loire
 SNS,America/Los_Angeles,Salinas,SNS,US,POINT (-121.65 36.666668),85,http://www.ci.salinas.ca.us/services/airport/airport.cfm,KSNS,Salinas,Monterey County,California
@@ -8198,6 +8205,7 @@ SWM,America/Cuiaba,Suia-Missu,SWM,BR,POINT (-53.25 -11.216667),0,,"",Sinop,Sinop
 SWN,Asia/Karachi,Sahiwal,SWN,PK,POINT (73.13333 30.75),570,,OPSW,Sahiwal,Sahiwal District,Punjab
 SWO,America/Chicago,Searcy Field,SWO,US,POINT (-97.085556 36.15889),1000,http://stillwater.org/government/city_facilities/stillwater_regional_airport/,KSWO,Stillwater,Payne County,Oklahoma
 SWQ,Asia/Makassar,Sultan Muhammad Kaharuddin III Airport,SWQ,ID,POINT (117.416664 -8.5),16,,WADS,Karangbugis,,West Nusa Tenggara
+SWS,Europe/London,Swansea Airport,SWS,GB,POINT (-4.067778 51.605278),299,https://www.swansea-airport.wales/,EGFH,Fairwood Common,City and County of Swansea,Wales
 SWT,Asia/Novosibirsk,Strezhevoy Airport,SWT,RU,POINT (77 60.5),164,,UNSS,Izluchinsk,,Khanty-Mansiyskiy Avtonomnyy Okrug
 SWU,Asia/Seoul,Suwon,SWU,KR,POINT (127.01667 37.283333),88,,RKSW,Suwon-si,,Gyeonggi-do
 SWV,Asia/Karachi,Severo-Evensk Airport,SWV,RU,POINT (159.231111 61.924444),0,,UHMW,Evensk,,Magadan
