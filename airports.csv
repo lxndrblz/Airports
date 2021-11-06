@@ -20,7 +20,10 @@ EES,Africa/Cairo,Berenice International Airport,IUP,EG,POINT (35.4651135268 23.9
 YEP,America/Vancouver,Estevan Point,YEP,CA,POINT (-126.53333 49.38333),0,,,,,
 JTA,America/Fortaleza,Pedro Teixeira Castelo Airport,JTA,BR,POINT (-40.2975 -5.933333),1457,,SDZG,Tauá,,
 HLJ,Asia/Shanghai,Beidahuang General Airport,HLJ,CN,POINT (130.27009854 46.7932345403),266,,,Zhaodong,,
+EHU,Asia/Shanghai,Ezhou Huahu Airport,EHU,CN,POINT (115.0474 30.346),89,,ZHEC,Ezhou,,
+JTN,America/Sao_Paulo,Antônio Ribeiro Nogueira Jr. State Airport,JTN,BR,POINT (-46.785556 -24.164722),10,,SDIM,Itanhaém,,
 YGA,America/Montreal,Gagnon,YGA,CA,POINT (-68.13333 51.95),700,,CTU4,,,
+KJB,Asia/Kolkata,Uyyalawada Narasimha Reddy Airport,KJB,IN,POINT (78.160833 15.706111),920,,VOKU,Orvakal,Kurnool,
 YSV,America/Goose_Bay,Saglek,YSV,CA,POINT (-62.5 58.583332),0,,,,,
 YTI,America/Vancouver,Triple Island,YTI,CA,POINT (142.06223 -29.456944),0,,,,,
 YAZ,America/Vancouver,Tofino Airport,YAZ,CA,POINT (-125.77639 49.076942),80,http://www.acrd.bc.ca/long-beach-airport,CYAZ,,,
@@ -33,6 +36,7 @@ HIT,Pacific/Port_Moresby,Haivaro,HIT,PG,POINT (143.06667 -6.933333),180,,AYHO,,,
 JSB,America/Fortaleza,Walfrido Salmito de Almeida Airport,JSB,BR,POINT (-40.883333 -4.05),2874,,SWBE,São Benedito,,Ceará
 VCC,America/Sao_Paulo,New Vacaria Airport,VCC,BR,POINT (-51.022778 -28.431944),2953,,SNEE,Vacaria,,
 RMZ,Asia/Yekaterinburg,Tobolsk Remezov Airport,RMZ,RU,POINT (68.348611 58.058333),157,,USTJ,Tobolsk,,
+QDV,America/Sao_Paulo,Comte. Rolim Adolfo Amaro State Airport,JDE,BR,POINT (-46.943611 -23.181667),2470,,SBJD,Jundiaí,,
 BIU,Atlantic/Reykjavik,Bildudalur,BIU,IS,POINT (-23.983334 65.833336),18,,BIBD,,,
 YLE,America/Yellowknife,Wha Ti,YLE,CA,POINT (-117.26667 63.15),882,,CEM3,,,
 CBA,America/Sitka,Corner Bay,CBA,US,POINT (-135.2 57.716667),0,,,,,
@@ -66,6 +70,8 @@ VBM,America/Anchorage,Blue Mountain,VBM,US,POINT (-157.08667 57.8575),184,,,,,
 QKS,America/Denver,Keystone Airport,QKS,US,POINT (-79.211098 39.7728),0,,,Elk Lick Township,Somerset County,Pennsylvania
 JCS,America/Fortaleza,Aeroporto De Crateus Airport,JCS,BR,POINT (-40.7045819389 -5.21230869969),1049,http://www.crateus.ce.gov.br/,SNWS,Crateus,,
 DIA,Asia/Qatar,Doha International Airport,DIA,QA,POINT (51.565 25.261111),35,,OTBD,Doha,,
+SDW,Asia/Kolkata,Sindhudurg Airport,SDW,IN,POINT (73.533333 16),203,,VOSR,Sindhudurg,,
+YCM,America/Toronto,Niagara District Airport,YCM,CA,POINT (-79.171111 43.191667),321,,CYSN,Niagara-on-the-Lake,,Ontario
 AME,Africa/Maputo,Alto Molocue,AME,MZ,POINT (37.583332 -15.833333),1950,,"",,,
 BCP,Pacific/Port_Moresby,Bambu,BCP,PG,POINT (146.48334 -5.85),6790,,AYBC,,,
 BCZ,Australia/Darwin,Bickerton Island,BCZ,AU,POINT (137.8 -13.783333),85,,"",,,
@@ -81,6 +87,9 @@ YUD,America/Montreal,Umiujaq,YUD,CA,POINT (-76.51833 56.53611),250,,CYMU,,,
 CWP,Asia/Karachi,Campbellpore,CWP,PK,POINT (72.433334 33.766666),0,,,Sanjwal,,Punjab
 JPO,America/Recife,Brigadeiro Firmino Ayres Airport,NVM,BR,POINT (-37.25184761766 -7.037496939556),850,,SNTS,Patos,,
 DSY,Asia/Phnom_Penh,Dara Sakor International Airport,DSY,KH,POINT (103.2285741767 10.90882341818),33,,,Koh Kong,,
+JPE,America/Sao_Paulo,Nagib Demachki Airport,JPE,BR,POINT (-47.316389 -3.019722),443,,SNEB,Paragominas,,
+JPY,America/Sao_Paulo,Paraty Airport,JPY,BR,POINT (-44.720278 -23.224444),10,,SDTK,Paraty,,
+CTV,Africa/Luanda,Catoca Airport,CTV,AO,POINT (20.311478 -9.430985),3484,,,Saurimo,,Lunda Sul Province
 BNF,America/Sitka,Warm Spring Bay SPB,BNF,US,POINT (-135 57),0,,"",,,
 BJN,Africa/Maputo,Bajone,BJN,MZ,POINT (38.083332 -17.183332),0,,,,,
 YFJ,America/Yellowknife,Snare Lake,YFJ,CA,POINT (-114.075554 64.19056),1208,,CYWE,,,
@@ -95,6 +104,7 @@ XOF,Europe/London,Stratford International Rail Station,LON,GB,POINT (0.06 51.51)
 YXN,America/Rankin_Inlet,Whale Cove,YXN,CA,POINT (-92.6 62.233334),40,,CYXN,,,
 VSK,America/Los_Angeles,Vista Field,VSK,US,POINT (-119.212546 46.21861),0,,,Kennewick,Benton County,Washington
 OOD,Australia/Perth,Gudai-Darri Airstrip,OOD,AU,POINT (119.07625111164 -22.503574253549),1467,,YKDD,Newman,,Western Australia
+YTW,Asia/Urumqi,Yutian Wanfang Airport,YTW,CN,POINT (81.780833 36.810833),4728,,ZWYT,,Yutian County,Xinjiang
 DUN,America/Godthab,Dundas,DUN,GL,POINT (-68.77556 76.577225),0,,,,,
 NOR,Atlantic/Reykjavik,Nordfjordur,NOR,IS,POINT (-22 65.166664),13,,BINF,,,
 LEG,Africa/Nouakchott,Aleg,LEG,MR,POINT (-13.95 17.166668),0,,,,,
@@ -112,6 +122,8 @@ EFB,America/Juneau,Eight Fathom Bight,EFB,US,POINT (-135.73334 58),0,,,,,
 YTQ,America/Montreal,Tasiujuaq Airport,YTQ,CA,POINT (-69.95633 58.6678),122,,CYTQ,,,
 YCK,America/Yellowknife,Colville Lake,YCK,CA,POINT (-126.09047 67.03993),870,,CYVL,,,
 DWF,America/New_York,Wright AFB,DAY,US,POINT (-84.183334 39.666668),0,,,Kettering,Montgomery County,Ohio
+DBR,Asia/Kolkata,Darbhanga Airport,DBR,IN,POINT (85.9175 26.194722),171,,VE89,Darbhanga,,Bihar
+OYC,America/Cayenne,Camopi Airport,OYC,GF,POINT (-52.336111 3.172222),237,,,Camopi,,
 WTC,America/New_York,World Trade Center,NYC,US,POINT (-74.01667 40.7),0,,,,,
 BYX,Australia/Darwin,Baniyala,BYX,AU,POINT (136.23334 -13.2),20,,"",,,
 YPB,America/Vancouver,Port Alberni,YPB,CA,POINT (-124.8 49.233334),250,http://www.acrd.bc.ca/avra,CBS8,,,
@@ -122,6 +134,7 @@ YVM,America/Pangnirtung,Qikiqtarjuaq,YVM,CA,POINT (-63.833332 67.583336),21,,CYV
 DIO,America/Nome,Diomede Island,DIO,US,POINT (-168.95 65.75),0,,,,,
 YYL,America/Winnipeg,Lynn Lake,YYL,CA,POINT (-101.066666 56.86667),1170,,CYYL,,,
 IBM,Australia/Perth,Iron Bridge Mine Airport,IBM,AU,POINT (118.88711754386 -21.288219641995),656,,YIBO,Marble Bar,,Western Australia
+HCZ,Asia/Shanghai,Chenzhou Beihu Airport,HCZ,CN,POINT (112.8454 25.7535),1096,,ZGCZ,Chenzhou,,Hunan
 YYU,America/Toronto,Kapuskasing Airport,YYU,CA,POINT (-82.47083 49.4125),743,,CYYU,,,
 BAO,Asia/Bangkok,Udorn,BAO,TH,POINT (102.79278 17.385),0,,,,,
 RNA,Pacific/Guadalcanal,Ulawa Airport,RNA,SB,POINT (161.98306 -9.864444),40,,AGAR,,,
@@ -141,6 +154,7 @@ YTD,America/Winnipeg,Thicket Portage,YTD,CA,POINT (-97.7 55.316666),678,,CZLQ,,,
 ZPB,America/Winnipeg,Sachigo Lake Airport,ZPB,CA,POINT (-92.195274 53.890556),876,,CZPB,,,
 DLO,America/Sitka,Dolomi,DLO,US,POINT (-132.05 55.122223),0,,,,,
 HRF,Indian/Maldives,Hoarafushi Airport,HRF,MV,POINT (72.895833 6.980556),7,http://www.macl.aero/,VRAH,Hoarafushi,,
+WHB,Australia/Perth,Eliwana Airport,WHB,AU,POINT (116.8867811 -22.4282217625),1585,,,Eliwana,,Western Australia
 XGL,America/Winnipeg,Granville Lake,XGL,CA,POINT (-100.55 56.233334),0,,,,,
 DWN,America/Chicago,Downtown Airpark,OKC,US,POINT (-97.53333 35.45),0,,,,,
 PRS,Pacific/Guadalcanal,Parasi,PRS,SB,POINT (158 -8.166667),0,,AGGP,,,
@@ -5103,6 +5117,7 @@ AHB,Asia/Riyadh,Abha Regional Airport,AHB,SA,POINT (42.657574 18.23429),6858,,OE
 SLF,Asia/Riyadh,Sulayel,SLF,SA,POINT (45.61667 20.466667),2021,,OESL,,,
 OGE,Pacific/Port_Moresby,Ogeranang,OGE,PG,POINT (147.46666 -6.466667),5850,,AYOG,,,
 OGM,America/Panama,Ogobsucum,OGM,PA,POINT (-77.933266 83.382225),13,,"",,,
+BUZ,Asia/Tehran,Bushehr Airport,BUZ,IR,POINT (50.825424 28.958284),68,http://booshehr.airport.ir/,OIBB,Bushehr,,
 AEU,Asia/Tehran,Abu Musa,AEU,IR,POINT (55.041668 25.8875),23,,OIBA,,,
 ACP,Asia/Tehran,Sahand,ACP,IR,POINT (46.145115 37.347244),4396,,OITM,Bonab,,East Azerbaijan
 JSK,America/Chicago,Municipalcipal Heliport,STC,US,POINT (-94.166664 45.55),19,,OIZJ,,,
