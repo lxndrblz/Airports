@@ -5,6 +5,7 @@ NET,America/Nassau,New Bight,NET,BS,POINT (-75.45 24.32),0,,,,,
 NKI,America/Anchorage,Naukiti,NKI,US,POINT (-133.21666 55.36667),0,,AK62,,,
 SXW,Pacific/Port_Moresby,Sauren,SXW,PG,POINT (148.95305 -5.971389),46,,AYSV,,,
 NGR,Pacific/Port_Moresby,Ningerum,NGR,PG,POINT (141 -6.5),0,,,,,
+HZU,Asia/Shanghai,Chengdu Huaizhou Airport,HZU,CN,POINT (104.5295206131 30.67744769548),1453,,,Majialin Village,Jintang County,Chengdu
 EAP,Europe/Zurich,EuroAirport Basel-Mulhouse-Freiburg Airport,EAP,CH,POINT (7.529167 47.59),839,,,Basel,,
 BCV,America/Belize,Belmopan,BCV,BZ,POINT (-88.78333 17.266666),150,http://www.flightstats.com/go/Airport/airportDetails.do?airportCode=BCV,"",,,
 YIG,America/Vancouver,Big Bay Marina,YIG,CA,POINT (-125.13333 50.38333),0,,CAF6,,,
@@ -41,6 +42,7 @@ QDV,America/Sao_Paulo,Comte. Rolim Adolfo Amaro State Airport,JDE,BR,POINT (-46.
 BIU,Atlantic/Reykjavik,Bildudalur,BIU,IS,POINT (-23.983334 65.833336),18,,BIBD,,,
 TXC,Europe/Minsk,Balbasovo Air Base,TXC,BY,POINT (30.296667 54.44),620,,UMIO,Orsha,,
 YLE,America/Yellowknife,Wha Ti,YLE,CA,POINT (-117.26667 63.15),882,,CEM3,,,
+JHF,America/Sao_Paulo,São Paulo Catarina Executive Airport,JHF,BR,POINT (-47.165658 -23.426886),2547,,SBJH,São Roque,,Sao Paulo
 CBA,America/Sitka,Corner Bay,CBA,US,POINT (-135.2 57.716667),0,,,,,
 YOG,America/Toronto,Ogoki,YOG,CA,POINT (-85.916664 51.666668),594,,CYKP,,,
 YAL,America/Vancouver,Alert Bay,YAL,CA,POINT (-126.916664 50.583332),240,,CYAL,,,
@@ -76,6 +78,7 @@ DIA,Asia/Qatar,Doha International Airport,DIA,QA,POINT (51.565 25.261111),35,,OT
 SDW,Asia/Kolkata,Sindhudurg Airport,SDW,IN,POINT (73.533333 16),203,,VOSR,Sindhudurg,,
 YCM,America/Toronto,Niagara District Airport,YCM,CA,POINT (-79.171111 43.191667),321,,CYSN,Niagara-on-the-Lake,,Ontario
 GNJ,Asia/Baku,Ganja International Airport,GNJ,AZ,POINT (46.3175 40.737778),1083,http://ganjaairport.com/,UBBG,Ganja,,
+NVM,America/Cuiaba,Brigadeiro Eduardo Gomes Airport,NVM,BR,POINT (-56.0349239329 -13.81380253609),1401,,,Nova Mutum,,Mato Grosso
 AME,Africa/Maputo,Alto Molocue,AME,MZ,POINT (37.583332 -15.833333),1950,,"",,,
 BCP,Pacific/Port_Moresby,Bambu,BCP,PG,POINT (146.48334 -5.85),6790,,AYBC,,,
 BCZ,Australia/Darwin,Bickerton Island,BCZ,AU,POINT (137.8 -13.783333),85,,"",,,
