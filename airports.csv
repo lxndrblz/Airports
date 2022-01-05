@@ -28,6 +28,7 @@ KJB,Asia/Kolkata,Uyyalawada Narasimha Reddy Airport,KJB,IN,POINT (78.160833 15.7
 LMV,Indian/Maldives,Madivaru Airport,LMV,MV,POINT (73.3703800969 5.45798469788),39,,,Madivaru,,
 FZL,Asia/Baku,Fuzuli International Airport,FZL,AZ,POINT (47.1966 39.5944),1204,,UBBF,Fuzuli,,
 DZH,Asia/Shanghai,Dazhou Jinya Airport,DZH,CN,POINT (107.44 31.04),0,,,Dazhou,,Sinjuan
+KXB,Asia/Makassar,Sangia Nibandera Airport,PUM,ID,POINT (121.52158602599054 -4.3417098607),88,,WAWP,Kolaka,,Sulawesi Tenggara
 YSV,America/Goose_Bay,Saglek,YSV,CA,POINT (-62.5 58.583332),0,,,,,
 YTI,America/Vancouver,Triple Island,YTI,CA,POINT (142.06223 -29.456944),0,,,,,
 YAZ,America/Vancouver,Tofino Airport,YAZ,CA,POINT (-125.77639 49.076942),80,http://www.acrd.bc.ca/long-beach-airport,CYAZ,,,
@@ -48,6 +49,7 @@ JHF,America/Sao_Paulo,São Paulo Catarina Executive Airport,JHF,BR,POINT (-47.16
 CBA,America/Sitka,Corner Bay,CBA,US,POINT (-135.2 57.716667),0,,,,,
 UHS,Asia/Sakhalin,Aleksandrovsk-Sakhalinskiy Airport,UHS,RU,POINT (142.174682 50.878037),13,,,Aleksandrovsk-Sakhalinskiy,,Sakhalin
 YOG,America/Toronto,Ogoki,YOG,CA,POINT (-85.916664 51.666668),594,,CYKP,,,
+MXQ,America/Sao_Paulo,Lorenzo Airport,MXQ,BR,POINT (-38.91 -13.389444),23,,SNCL,Cairu,,
 YAL,America/Vancouver,Alert Bay,YAL,CA,POINT (-126.916664 50.583332),240,,CYAL,,,
 ZMF,Europe/Rome,Beverello Harbor,NAP,IT,POINT (14.2516357 40.8400969),0,,,,,
 YEL,America/Toronto,Elliot Lake,YEL,CA,POINT (-82.56306 46.352222),1087,http://cyelont.tripod.com/cyel/,CYEL,,,
