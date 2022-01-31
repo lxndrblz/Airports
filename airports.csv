@@ -30,6 +30,8 @@ FZL,Asia/Baku,Fuzuli International Airport,FZL,AZ,POINT (47.1966 39.5944),1204,,
 DZH,Asia/Shanghai,Dazhou Jinya Airport,DZH,CN,POINT (107.44 31.04),0,,,Dazhou,,Sinjuan
 KXB,Asia/Makassar,Sangia Nibandera Airport,PUM,ID,POINT (121.52158602599054 -4.3417098607),88,,WAWP,Kolaka,,Sulawesi Tenggara
 YSV,America/Goose_Bay,Saglek,YSV,CA,POINT (-62.5 58.583332),0,,,,,
+HSF,Asia/Shanghai,Suifenhe Dongning Airport,HSF,CN,POINT (130.8433 44.454),1368,,,Suifenhe,,Heilongjiang
+TYC,Asia/Shanghai,Taiyuan Yaocheng Airport,TYC,CN,POINT (112.4229 37.5027),2487,,ZBXX,Mengfeng,Qingxu,Shanxi
 YTI,America/Vancouver,Triple Island,YTI,CA,POINT (142.06223 -29.456944),0,,,,,
 YAZ,America/Vancouver,Tofino Airport,YAZ,CA,POINT (-125.77639 49.076942),80,http://www.acrd.bc.ca/long-beach-airport,CYAZ,,,
 NSX,America/Tortola,Hovercraft/Launch Pt,NSX,VG,POINT (-64.36667 18.5),0,,,,,
