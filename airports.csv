@@ -470,6 +470,7 @@ LFW,Africa/Lome,Lome Airport,LFW,TG,POINT (1.2560093951906006 6.17020235),72,,DX
 LGA,America/New_York,LaGuardia Airport,NYC,US,POINT (-73.87336398511545 40.7757145),21,https://www.laguardiaairport.com/,KLGA,The Bronx,Bronx,New York
 LGB,America/Los_Angeles,Long Beach Airport,LGB,US,POINT (-118.15342922166721 33.815565899999996),60,http://www.lgb.org/,KLGB,Signal Hill,Los Angeles County,California
 AIY,America/New_York,Bader Field,AIY,US,POINT (-74.4254622 39.3859082),-3,,,,,
+BAJ,Pacific/Port_Moresby,Bali,BAJ,PG,POINT (149.13333 -4.833333),0,,"",,,
 LGD,America/Los_Angeles,La Grande,LGD,US,POINT (-118.00772054151332 45.2891675),2717,http://union-county.org/public-works/airport/,KLGD,La Grande,Union County,Oregon
 LGG,Europe/Brussels,Liege Airport,LGG,BE,POINT (5.440920445172662 50.6385382),659,http://www.liegeairport.be/,EBLG,Awans,Province de Liege,Wallonia
 LGI,America/Nassau,Deadmans Cay Airport,LGI,BS,POINT (-75.0883369563434 23.1785489),9,,MYLD,Clarence Town,,Long Island
@@ -565,7 +566,6 @@ SXL,Europe/Dublin,Sligo,SXL,IE,POINT (-8.466667 54.283333),22,http://www.sligoai
 CIB,America/Los_Angeles,Ap In The Sky,AVX,US,POINT (-118.41389 33.406113),1578,,,,,
 TON,Pacific/Port_Moresby,Tonu,TON,PG,POINT (155.59166 -6.35),300,,AYVO,,,
 YNX,America/Yellowknife,Snap Lake,YNX,CA,POINT (-110.90408549820063 63.593511500000005),1557,,CSK6,,,
-BAJ,Pacific/Port_Moresby,Bali,BAJ,PG,POINT (149.13333 -4.833333),0,,"",,,
 DDG,Asia/Shanghai,Langtou Airport,DDG,CN,POINT (124.2815411011791 40.02644170000001),29,http://www.ddcei.gov.cn/english/index.html,ZYDD,,,
 DEI,Indian/Mahe,Denis Island,DEI,SC,POINT (55.667200670657294 -3.80192305),49,,FSSD,,,
 BAM,America/Los_Angeles,Lander County,BAM,US,POINT (-116.933334 40.63333),4494,http://www.battlemountainairport.com/default.htm,KBAM,Battle Mountain,Lander County,Nevada
@@ -1474,6 +1474,7 @@ MTG,America/Cuiaba,Mato Grosso,MTG,BR,POINT (-55 -14),1423,,SWVB,Diamantino,Diam
 FOU,Africa/Libreville,Fougamou,FOU,GA,POINT (10.783333 -1.2),931,,FOGF,,,
 GEO,America/Guyana,Cheddi Jagan International Airport,GEO,GY,POINT (-58.25592779458964 6.498248800000001),65,http://www.cjairport-gy.com/,SYCJ,Vreed-en-Hoop,,Essequibo Islands-West Demerara
 IGE,Africa/Libreville,Iguela,IGE,GA,POINT (9.316667 -1.916667),22,,FOOI,,,
+BPY,Indian/Antananarivo,Besalampy,BPY,MG,POINT (44.4803872 -16.7452789),108,,FMNQ,,,
 MTI,Atlantic/Cape_Verde,Mosteiros,MTI,CV,POINT (-24.433332 15),1660,,GVMT,Porto dos Mosteiros,,Mosteiros
 MTL,Australia/Sydney,Maitland,MTL,AU,POINT (151.55 -32.733334),36,http://rnac.com.au,YMND,Maitland,Maitland Municipality,New South Wales
 RLK,Asia/Shanghai,Bayannur Tianjitai Airport,RLK,CN,POINT (107.73447335946133 40.928311699999995),3362,,ZBYZ,Xamba,,Inner Mongolia
@@ -1626,6 +1627,7 @@ CMR,Europe/Paris,Colmar-houssen,CMR,FR,POINT (7.359451562910726 48.10875115),603
 CMT,America/Belem,Cameta,CMT,BR,POINT (-49.5 -2.2),32,,"",Cameta,Cameta,Para
 CMW,America/Havana,Ign Agramonte International Airport,CMW,CU,POINT (-77.849724 21.418612),400,,MUCM,Camaguey,,Camaguey
 CNA,America/Hermosillo,Cananea,CNA,MX,POINT (-110.333336 31),5495,,MMCA,Cananea,,Sonora
+BRJ,Australia/Melbourne,Bright,BRJ,AU,POINT (146.93333 -36.7),944,,,,,
 CND,Europe/Bucharest,Kogalniceanu Airport,CND,RO,POINT (28.48645083006126 44.364428399999994),308,,LRCK,Mihail Kogalniceanu,Comuna Mihail Kogalniceanu,Constanta
 GWL,Asia/Kolkata,Gwalior Airport,GWL,IN,POINT (78.22278188888617 26.2972939),574,,VIGR,Morar,Gwalior,Madhya Pradesh
 GWO,America/Chicago,Leflore,GWO,US,POINT (-90.0861945 33.4945655),127,http://greenwoodms.com/index.aspx?nid=113,KGWO,Greenwood,Leflore County,Mississippi
@@ -1925,8 +1927,6 @@ BHO,Asia/Kolkata,Raja Bhoj Airport,BHO,IN,POINT (77.34177 23.284761),1722,http:/
 BHS,Australia/Sydney,Raglan Airport,BHS,AU,POINT (149.65518 -33.41387),2440,,YBTH,Kelso,Bathurst Regional,New South Wales
 BHV,Asia/Karachi,Bahawalpur Airport,BHV,PK,POINT (71.683334 29.4),396,,OPBW,Bahawalpur,,Punjab
 BIF,America/Denver,Biggs AAF,ELP,US,POINT (-106.48333 31.75),3733,https://www.bliss.army.mil/biggs/,KBIF,El Paso,El Paso County,Texas
-BPY,Indian/Antananarivo,Besalampy,BPY,MG,POINT (44.4803872 -16.7452789),108,,FMNQ,,,
-BRJ,Australia/Melbourne,Bright,BRJ,AU,POINT (146.93333 -36.7),944,,,,,
 CSV,America/Chicago,Memorial,CSV,US,POINT (-85.084724 35.95111),1873,http://www.crossvilletn.gov/index.php/departments/airport,KCSV,Crossville,Cumberland County,Tennessee
 CSY,Europe/Moscow,Cheboksary Airport,CSY,RU,POINT (47.266666 56.13333),416,,UWKS,Cheboksary,Cheboksarskiy Rayon,Chuvashia
 CSZ,America/Argentina/Buenos_Aires,Brigadier Hector Ruiz,CSZ,AR,POINT (-61.88333 -37.433334),754,,SAZC,Coronel Suarez,Partido de Coronel Suarez,Buenos Aires
@@ -2025,6 +2025,7 @@ BLQ,Europe/Rome,Guglielmo Marconi Airport,BLQ,IT,POINT (11.293289 44.529266),157
 SZK,Africa/Johannesburg,Skukuza Airport,SZK,ZA,POINT (31.589971351596645 -24.9611745),1020,,FASZ,,,
 ANK,Europe/Istanbul,Etimesgut,ANK,TR,POINT (32.68941441008361 39.951794199999995),2627,,LTAD,Batikent,,Ankara
 NAT,America/Fortaleza,Sao Goncalo do Amarante-Governador Aluizio Alves Intl Airport,NAT,BR,POINT (-35.250244 -5.916787),190,http://www.natal.aero,SBSG,Parnamirim,Parnamirim,Rio Grande do Norte
+NIS,Pacific/Port_Moresby,Simberi,NIS,PG,POINT (151.99549443410396 -2.6615375500000003),26,,AYSE,,,
 ANS,America/Lima,Andahuaylas,ANS,PE,POINT (-73.35160446460571 -13.709079),11581,,SPHY,San Jeronimo,Provincia de Andahuaylas,Apurimac
 BLU,America/Los_Angeles,Blue Canyon,BLU,US,POINT (-120.7095717681865 39.2743038),5236,,KBLU,Foresthill,Placer County,California
 BLV,America/Chicago,Belleville,BLV,US,POINT (-89.85183 38.65178),456,,KBLV,Lebanon,Saint Clair County,Illinois
@@ -2075,6 +2076,7 @@ BNC,Africa/Lubumbashi,Beni,BNC,CD,POINT (29.466667 0.566667),3408,,FZNP,,,
 NDY,Europe/London,Sanday,NDY,GB,POINT (-2.5752648917172283 59.2504586),19,,EGES,,,
 BNE,Australia/Brisbane,Brisbane Airport,BNE,AU,POINT (153.1214764569645 -27.3874138),19,http://www.bne.com.au/,YBBN,Ascot,Brisbane,Queensland
 BNG,America/Los_Angeles,Banning,BNG,US,POINT (-116.85052999055571 33.9231279),2152,http://www.ci.banning.ca.us/index.aspx?NID=23,KBNG,Banning,Riverside County,California
+NWA,Indian/Comoro,Moheli,NWA,KM,POINT (43.76644801260554 -12.2981305),45,,FMCI,Djoyezi,,Moheli
 REZ,America/Sao_Paulo,Resende,REZ,BR,POINT (-44.47716871796958 -22.47720015),1315,,SDRS,Resende,Resende,Rio de Janeiro
 BNW,America/Chicago,Boone,BNW,US,POINT (-93.88333 42.066666),1158,,KBNW,Boone,Boone County,Iowa
 BOD,Europe/Paris,Bordeaux Airport,BOD,FR,POINT (-0.70217 44.83102),226,https://www.bordeaux.aeroport.fr/,LFBD,Le Haillan,Departement de la Gironde,Aquitaine
@@ -2125,6 +2127,7 @@ TSV,Australia/Brisbane,Townsville Airport,TSV,AU,POINT (146.77447438460155 -19.2
 NEW,America/Chicago,Lakefront Airport,MSY,US,POINT (-90.026665 30.039444),36,http://www.lakefrontairport.com/,KNEW,Arabi,Saint Bernard Parish,Louisiana
 BOW,America/New_York,Bartow,BOW,US,POINT (-81.833336 27.9),72,http://www.bartow-airport.com/,KBOW,Bartow,Polk County,Florida
 NFB,America/Detroit,Detroit NAF,MTC,US,POINT (-82.96667 42.966667),764,,,Capac,Saint Clair County,Michigan
+AYD,Australia/Darwin,Alroy Downs,AYD,AU,POINT (135.95 -19.3),688,,"",,,
 BPI,America/Denver,Big Piney-marbleton,BPI,US,POINT (-110.11667 42.533333),6824,,KBPI,Marbleton,Sublette County,Wyoming
 BPL,Asia/Shanghai,Bole Airport,BPL,CN,POINT (82.024185 44.904232),1745,,ZWBL,Dostyq,,Almaty Oblysy
 NFG,Asia/Yekaterinburg,Nefteyugansk,NFG,RU,POINT (73.05 61.13333),134,http://www.nuatc.ru/,USRN,Barsovo,,Khanty-Mansiyskiy Avtonomnyy Okrug
@@ -2270,6 +2273,7 @@ GLY,Australia/Perth,Goldsworthy,GLY,AU,POINT (119.666664 -20.083332),29,,,,,
 ONT,America/Los_Angeles,Ontario International Airport,ONT,US,POINT (-117.59915769373036 34.05414245),889,http://www.lawa.org/welcomeONT.aspx,KONT,Rancho Cucamonga,San Bernardino County,California
 OBT,America/New_York,Oakland/Coliseum Stat,OBT,US,POINT (-79.416664 39.4),2450,,,,,
 OOL,Australia/Brisbane,Gold Coast Airport,OOL,AU,POINT (153.5081045532748 -28.164853),39,,YBCG,Tugun,Gold Coast,Queensland
+NTL,Australia/Sydney,Newcastle Airport,NTL,AU,POINT (151.84011416276277 -32.79461255),19,,YWLM,Medowie,Port Stephens Shire,New South Wales
 OPF,America/New_York,Opa-locka Executive Airport,MIA,US,POINT (-80.27515077349665 25.90619265),29,http://www.miami-airport.com/html/opalocka.html,KOPF,Miami Lakes,Miami-Dade County,Florida
 OSD,Europe/Stockholm,Are Ostersund Airport,OSD,SE,POINT (14.499010830385984 63.19562795),1131,https://www.swedavia.com/ostersund/,ESNZ,Krokom,Krokoms Kommun,Jaemtland
 PNR,Africa/Brazzaville,Pointe Noire Airport,PNR,CG,POINT (11.886634070093734 -4.81575645),95,,FCPP,Pointe-Noire,,Pointe-Noire
@@ -2322,7 +2326,6 @@ PMU,America/Anchorage,SPB,PMU,US,POINT (-160.33333 61.983334),226,,,,,
 NWT,Pacific/Port_Moresby,Nowata,NWT,PG,POINT (149.72788924937038 -9.98549835),2057,,"",,,
 OCM,Australia/Perth,Boolgeeda,OCM,AU,POINT (117.27020102828958 -22.540644),1817,,YBGD,,,
 NTG,Asia/Shanghai,Nantong Xingdong Airport,NTG,CN,POINT (120.97825429793333 32.07183535),19,,ZSNT,Xingdong,,Jiangsu Sheng
-NTL,Australia/Sydney,Newcastle Airport,NTL,AU,POINT (151.84011416276277 -32.79461255),19,,YWLM,Medowie,Port Stephens Shire,New South Wales
 NYA,Asia/Yekaterinburg,Nyagan Airport,NYA,RU,POINT (65.61141073357436 62.11053750000001),314,,USHN,Nyagan,,Khanty-Mansiyskiy Avtonomnyy Okrug
 NYM,Asia/Yekaterinburg,Nadym Airport,NYM,RU,POINT (72.69457227373331 65.4843896),45,,USMM,Staryy Nadym,,Yamalo-Nenetskiy Avtonomnyy Okrug
 ORS,Australia/Brisbane,Waterport,ORS,AU,POINT (146.48334 -18.633333),0,,,,,
@@ -2471,7 +2474,6 @@ ORL,America/New_York,Orlando Executive,ORL,US,POINT (-81.33163591314123 28.54617
 VAN,Europe/Istanbul,Van Ferit Melen Airport,VAN,TR,POINT (43.3304160093347 38.46787005),5442,,LTCI,Van,,Van
 ORU,America/La_Paz,Oruro,ORU,BO,POINT (-67.07636218484333 -17.954718200000002),12155,http://en.wikipedia.org/wiki/Juan_Mendoza_Airport,SLOR,Oruro,,Oruro
 OSB,America/Chicago,Osage Beach,OSB,US,POINT (-92.6758441 38.1077033),859,,,Osage Beach,Camden County,Missouri
-NIS,Pacific/Port_Moresby,Simberi,NIS,PG,POINT (151.99549443410396 -2.6615375500000003),26,,AYSE,,,
 VAR,Europe/Sofia,Varna Airport,VAR,BG,POINT (27.823302249448076 43.23393595),206,,LBWN,Aksakovo,Obshtina Aksakovo,Varna
 OSM,Asia/Baghdad,Mosul,OSM,IQ,POINT (43.148121645696165 36.30509415),708,,ORBM,Mosul,,Ninawa
 NGP,America/Chicago,NAS,CRP,US,POINT (-97.28333 27.7),32,,,,,
@@ -2622,7 +2624,6 @@ BZZ,Europe/London,Raf Brize Norton,BZZ,GB,POINT (-1.5793933009655508 51.7511241)
 CFD,America/Chicago,Coulter Field,CFD,US,POINT (-96.36667 30.666668),374,http://www.bryantx.gov/coulterairfield/,KCFD,Bryan,Brazos County,Texas
 NYG,America/New_York,Quantico NAS,NYG,US,POINT (-77.28333 38.516666),0,,,Quantico Station,Prince William County,Virginia
 NYK,Africa/Nairobi,Nanyuki,NYK,KE,POINT (37.066666 0.016667),6299,,HKNL,Nanyuki,,Laikipia
-NWA,Indian/Comoro,Moheli,NWA,KM,POINT (43.76644801260554 -12.2981305),45,,FMCI,Djoyezi,,Moheli
 CBO,Asia/Manila,Awang Airport,CBO,PH,POINT (124.21221000578096 7.164494899999999),150,,RPMC,Awang,Province of Maguindanao,Autonomous Region in Muslim Mindanao
 SGJ,Pacific/Port_Moresby,Sagarai,SGJ,PG,POINT (150.15 -10.466667),95,,,,,
 GMT,America/Anchorage,Granite Mountain,GMT,US,POINT (-161.2775 65.405556),1272,,PAGZ,,,
@@ -2672,6 +2673,7 @@ OPB,Pacific/Port_Moresby,Open Bay,OPB,PG,POINT (151.66667 -4.933333),42,,AYOY,,,
 CDC,America/Denver,Cedar City Airport,CDC,US,POINT (-113.0986 37.7003),5636,,KCDC,Cedar City,Iron County,Utah
 ONE,Pacific/Guadalcanal,Onepusu,ONE,SB,POINT (161.06667 -9.166667),2060,,,,,
 OUK,Europe/London,Outer Skerries,OUK,GB,POINT (-0.75 60.416668),0,,EGOU,,,
+WYB,America/Anchorage,SPB,WYB,US,POINT (-131.83333 55.916668),456,,"78K",,,
 OHA,Pacific/Auckland,Royal Air Force Base,OHA,NZ,POINT (175.38667 -40.208332),111,http://www.airforce.mil.nz/about/hqbases/boh.htm,NZOH,Bulls,Rangitikei District,Manawatu-Wanganui
 ENJ,America/Guatemala,El Naranjo,ENJ,GT,POINT (-90.166664 17.333332),354,,"",,,
 OHI,Africa/Windhoek,Oshakati,OHI,NA,POINT (15.8 -17.783333),3605,,FYOS,Ongwediva,,Oshana
@@ -2723,6 +2725,7 @@ OPA,Atlantic/Reykjavik,Kopasker,OPA,IS,POINT (-16.483334 66.416664),42,,BIKP,Hus
 OMA,America/Chicago,Eppley Airfield,OMA,US,POINT (-95.88987091468039 41.3011252),994,http://www.eppleyairfield.com,KOMA,Carter Lake,Pottawattamie County,Iowa
 SHK,Africa/Maseru,Sehonghong,SHK,LS,POINT (27.833332 -29.475),7132,,FXSH,,,
 CFB,America/Sao_Paulo,Cabo Frio International Airport,CFB,BR,POINT (-42.076586063102596 -22.923360950000003),26,http://www.grupolibra.com.br/libra-aeroporto/cabo-frio/institucional,SBCB,Cabo Frio,Cabo Frio,Rio de Janeiro
+SMJ,Pacific/Port_Moresby,Sim,SMJ,PG,POINT (146.98334 -7.566667),5898,,AYXI,,,
 CFC,America/Sao_Paulo,Cacador,CFC,BR,POINT (-50.940058269051605 -26.788347950000002),3339,,SBCD,Cacador,Cacador,Santa Catarina
 OMC,Asia/Manila,Ormoc,OMC,PH,POINT (124.56586093882021 11.059772800000001),49,,RPVO,Libertad,Ormoc City,Eastern Visayas
 OMF,Asia/Amman,King Hussein,OMF,JO,POINT (36.25881956987236 32.35176025),2178,,OJMF,Mafraq,,Mafraq
@@ -2771,6 +2774,7 @@ OWA,America/Chicago,Owatonna,OWA,US,POINT (-93.166664 44.1),1220,http://ci.owato
 OWB,America/Chicago,Daviess County Airport,OWB,US,POINT (-87.16583 37.740833),396,,KOWB,Owensboro,Daviess County,Kentucky
 AEO,Africa/Nouakchott,Aioun El Atrouss,AEO,MR,POINT (-9.638219081447929 16.71068715),964,,GQNA,,,
 OWD,America/New_York,Memorial,OWD,US,POINT (-71 42),101,http://www.ci.norwood.ma.us/Airport/Default.htm,KOWD,West Bridgewater,Plymouth County,Massachusetts
+AZZ,Africa/Luanda,Ambriz,AZZ,AO,POINT (13.15 -7.883333),88,,FNAM,Nzeto,,Zaire
 OYS,America/Los_Angeles,Yosemite Ntl Park,OYS,US,POINT (-119.55 37.85),9222,,,Yosemite Valley,Mariposa County,California
 OZA,America/Chicago,Ozona Municipalcipal,OZA,US,POINT (-101.21667 30.716667),2391,http://www.ozona.com/articles/view/ozona-municipal-airport-52b1db2c-3ff8-4122-8b3f-1a349bf0d2c8,KOZA,Ozona,Crockett County,Texas
 OZC,Asia/Manila,Labo Airport,OZC,PH,POINT (123.84191227879472 8.17931945),134,,RPMO,Lapase,Province of Misamis Occidental,Northern Mindanao
@@ -2963,10 +2967,6 @@ AMH,Africa/Addis_Ababa,Arba Mintch Airport,AMH,ET,POINT (37.576942 6.036111),391
 AQY,America/Anchorage,Alyeska,AQY,US,POINT (-149.1234394 60.9659745),118,,"",,,
 PNG,America/Sao_Paulo,Paranagua,PNG,BR,POINT (-48.53062440956646 -25.53969285),32,,SSPG,Paranagua,Paranagua,Parana
 PNN,America/New_York,Princeton,PNN,US,POINT (-67.566666 45.233334),154,,KPNN,Calais,Washington County,Maine
-AYD,Australia/Darwin,Alroy Downs,AYD,AU,POINT (135.95 -19.3),688,,"",,,
-WYB,America/Anchorage,SPB,WYB,US,POINT (-131.83333 55.916668),456,,"78K",,,
-SMJ,Pacific/Port_Moresby,Sim,SMJ,PG,POINT (146.98334 -7.566667),5898,,AYXI,,,
-AZZ,Africa/Luanda,Ambriz,AZZ,AO,POINT (13.15 -7.883333),88,,FNAM,Nzeto,,Zaire
 DIW,Asia/Colombo,Mawella Lagoon Airport,DIW,LK,POINT (80.73323 5.990751),0,,"",,,
 DOE,America/Paramaribo,Djoemoe,DOE,SR,POINT (-55.483334 4.016667),288,,SMDJ,,,
 PNU,America/Denver,Panguitch,PNU,US,POINT (-112.392345 37.848623),6738,http://panguitch.com/business-directory/1300/panguitch-municipal-airport/,U55,Panguitch,Garfield County,Utah
@@ -3407,6 +3407,7 @@ BOK,America/Los_Angeles,Brookings State,BOK,US,POINT (-124.28333 42.05),98,,KBOK
 DNO,America/Araguaina,Dianopolis,DNO,BR,POINT (-46.8466988 -11.5953999),2365,,SWDN,Taguatinga,Taguatinga,Tocantins
 DNQ,Australia/Sydney,Deniliquin,DNQ,AU,POINT (144.94788406467342 -35.556630999999996),308,http://www.deniliquin.nsw.gov.au/index.php?option=com_content&view=article&id=46786:deniliquin-airport&catid=350&Itemid=1540,YDLQ,Deniliquin,Deniliquin,New South Wales
 DNR,Europe/Paris,Pleurtuit Airport,DNR,FR,POINT (-2.083611 48.587776),193,,LFRD,Pleurtuit,Departement d'Ille-et-Vilaine,Brittany
+MRH,Pacific/Port_Moresby,May River,MRH,PG,POINT (145.33333 -8.466667),0,,AYRV,,,
 DNS,America/Chicago,Municipal,DNS,US,POINT (-95.35 42.016666),1266,http://www.denisonia.com/community/airport.asp,KDNS,Denison,Crawford County,Iowa
 DNT,America/Los_Angeles,Downtown Heliport,SNA,US,POINT (-117.86667 33.766666),78,,,Santa Ana,Orange County,California
 YRR,America/Vancouver,Stuart Island,YRR,CA,POINT (-125.166664 50.416668),360,,"",,,
@@ -3456,7 +3457,6 @@ DPE,Europe/Paris,Dieppe,DPE,FR,POINT (1.241111 49.961388),390,,LFAB,Saint-Martin
 DPG,America/Denver,Michael AAF,DPG,US,POINT (-112.75 40.233334),4908,,KDPG,Grantsville,Tooele County,Utah
 DPK,America/New_York,Deer Park,DPK,US,POINT (-73.53333 41),0,,,Old Greenwich,Fairfield County,Connecticut
 DRY,Australia/Perth,Drysdale River,DRY,AU,POINT (126.416664 -15.666667),1217,,YDRD,,,
-MRH,Pacific/Port_Moresby,May River,MRH,PG,POINT (145.33333 -8.466667),0,,AYRV,,,
 MSG,Africa/Maseru,Matsaile,MSG,LS,POINT (28.75 -29.733334),5885,,,,,
 MTF,Africa/Addis_Ababa,Mizan Teferi,MTF,ET,POINT (35.533333 6.966667),4222,,HAMT,,,
 NEK,Africa/Addis_Ababa,Nekemt,NEK,ET,POINT (36.5 9.066667),6794,,HANK,,,
@@ -3739,6 +3739,7 @@ RVE,America/Bogota,Los Colonizadores,RVE,CO,POINT (-71.9 6.916667),875,,SKSA,Mun
 RVI,Europe/Moscow,Rostov Airport,ROV,RU,POINT (39.75 47.25),272,,,Imeni Chkalova,,Rostov
 YDT,America/Vancouver,Boundary Bay Airport,YVR,CA,POINT (-123.183334 49.183334),6,http://http://czbb.com/,CZBB,,,
 RVK,Europe/Oslo,Ryumsjoen Airport,RVK,NO,POINT (11.233333 64.88333),318,https://avinor.no/en/airport/rorvik-airport/,ENRM,Rorvik,Vikna,Nord-Trondelag
+EOI,Europe/London,Eday Airport,EOI,GB,POINT (-2.7696008051153758 59.19167795),32,,EGED,,,
 RVO,Africa/Johannesburg,Reivilo,RVO,ZA,POINT (24.133333 -27.6),4698,,FARI,Pampierstad,,North-West
 RVR,America/Denver,Green River,RVR,US,POINT (-110.25 38.966667),4248,,KU34,East Carbon City,Carbon County,Utah
 RVS,America/Chicago,R.Lloyd Jones,TUL,US,POINT (-95.96667 36.15),731,http://www.tulsaairports.com/general-aviation/r-l-jones/,KRVS,Tulsa,Tulsa County,Oklahoma
@@ -3887,7 +3888,6 @@ YGL,America/Montreal,La Grande Airport,YGL,CA,POINT (-77.70639 53.629723),639,,C
 KNE,Pacific/Port_Moresby,Kanainj,KNE,PG,POINT (144.709290875 -5.288931),4064,,AYKJ,,,
 ENW,America/Chicago,Kenosha Regional Airport,ENW,US,POINT (-87.816666 42.583332),583,http://www.kenosha.org/departments/airport/,KENW,Kenosha,Kenosha County,Wisconsin
 EOH,America/Bogota,Enrique Olaya Herrera Airport,MDE,CO,POINT (-75.5864 6.218666),4891,,SKMD,Itagui,,Antioquia
-EOI,Europe/London,Eday Airport,EOI,GB,POINT (-2.7696008051153758 59.19167795),32,,EGED,,,
 EOK,America/Chicago,Keokuk,EOK,US,POINT (-91.42688362865425 40.459676),643,http://www.cityofkeokuk.org/airport.html,KEOK,Keokuk,Lee County,Iowa
 EOZ,America/Caracas,Elorza,EOZ,VE,POINT (-69.53333 7.166667),278,,SVEZ,Elorza,Municipio Romulo Gallegos,Apure
 EPA,America/Argentina/Buenos_Aires,El Palomar,EPA,AR,POINT (-58.60976216632794 -34.6150101),95,,SADP,Hurlingham,,Buenos Aires
@@ -4232,6 +4232,7 @@ FKS,Asia/Tokyo,Fukushima Airport,FKS,JP,POINT (140.4306 37.2272),1194,http://www
 FLA,America/Bogota,Capitolio Airport,FLA,CO,POINT (-75.55889 1.588889),761,,SKFL,Florencia,,Caqueta
 FLB,America/Fortaleza,Cangapara,FLB,BR,POINT (-43.033333 -6.8),442,,SNQG,Floriano,Floriano,Piaui
 FLC,Australia/Melbourne,Falls Creek,FLC,AU,POINT (143.28334 -36.833332),1151,,,Maryborough,Central Goldfields,Victoria
+CVL,Pacific/Port_Moresby,Cape Vogel,CVL,PG,POINT (150.5 -9.466667),741,,"",,,
 FLD,America/Chicago,Fond Du Lac,FLD,US,POINT (-88.48444 43.771667),790,http://www.fdlco.wi.gov/departments/departments-a-e/airport,KFLD,North Fond du Lac,Fond du Lac County,Wisconsin
 FLF,Europe/Berlin,Schaferhaus,FLF,DE,POINT (9.37996456704682 54.77174585),111,,EDXF,Harrislee,,Schleswig-Holstein
 FLG,America/Phoenix,Flagstaff Pulliam Airport,GCN,US,POINT (-111.67020441781051 35.140398250000004),7004,,KFLG,Kachina Village,Coconino County,Arizona
@@ -4376,6 +4377,7 @@ UVE,Pacific/Noumea,Ouvea Airport,UVE,NC,POINT (166.57158652129007 -20.6391071999
 UVF,America/St_Lucia,Hewanorra Airport,SLU,LC,POINT (-60.95388420129784 13.7342774),42,http://www.slaspa.com/contentPages/view/hewanorra-international-airport,TLPL,Vieux Fort,,Vieux-Fort
 UVL,Africa/Cairo,Kharga,UVL,EG,POINT (30.5859709913301 25.46922955),173,,HEKG,Al Kharijah,,Muhafazat al Wadi al Jadid
 UZC,Europe/Belgrade,Uzice-Ponikve,UZC,RS,POINT (19.682303078044633 43.8993239),2988,,,Bajina Basta,Zlatiborski Okrug,Central Serbia
+WWD,America/New_York,Cape May County,WWD,US,POINT (-74.9080999 39.0080873),29,,KWWD,Erma,Cape May County,New Jersey
 VAM,Indian/Maldives,Villa International Airport Maamigili,VAM,MV,POINT (72.83512809829097 3.4717292),0,,VRMV,Mahibadhoo,,North Central
 VAS,Europe/Istanbul,Sivas Airport,VAS,TR,POINT (36.89970901198242 39.8128659),5187,http://www.sivas.dhmi.gov.tr/havaalanlari/default.aspx?hv=35,LTAR,Sivas,,Sivas
 VAV,Pacific/Tongatapu,Lupepau'u Airport,VAV,TO,POINT (-173.9637047315632 -18.58558155),262,,NFTV,Neiafu,,Vava`u
@@ -4476,6 +4478,7 @@ VXE,Atlantic/Cape_Verde,Cesaria Evora International Airport,VXE,CV,POINT (-25.05
 AVW,America/Phoenix,Avra Valley,TUS,US,POINT (-111.21748791631757 32.4113732),2004,,KAVQ,Marana,Pima County,Arizona
 COB,Australia/Darwin,Coolibah,COB,AU,POINT (130.9620056 -15.5482998),101,,"",,,
 VXO,Europe/Stockholm,Vaxjo Airport,VXO,SE,POINT (14.72916420418904 56.928141749999995),570,,ESMX,Vaexjoe,Vaxjo Kommun,Kronoberg
+YCY,America/Iqaluit,Clyde River,YCY,CA,POINT (-68.5 70.416664),87,,CYCY,,,
 VYD,Africa/Johannesburg,Vryheid,VYD,ZA,POINT (30.79519172870966 -27.78928405),3766,,FAVY,Vryheid,Zululand District Municipality,KwaZulu-Natal
 WHA,Asia/Shanghai,Wuhu Xuanzhou Airport,WHA,CN,POINT (118.66472096651194 31.10427305),68,,,Xinfeng,,Anhui Sheng
 FUB,Pacific/Port_Moresby,Fulleborn,FUB,PG,POINT (150.65 -6.066667),1715,,"",,,
@@ -4528,7 +4531,6 @@ GDQ,Africa/Addis_Ababa,Gondar Airport,GDQ,ET,POINT (37.431602248601635 12.51886)
 GDV,America/Denver,Dawson Community Airport,GDV,US,POINT (-104.80864332732662 47.13812935),2460,,KGDV,West Glendive,Dawson County,Montana
 WUZ,Asia/Shanghai,Changzhoudao,WUZ,CN,POINT (111.24874690075387 23.4573358),118,,ZGWZ,Longxu,,Guangxi Zhuangzu Zizhiqu
 GDW,America/Detroit,Gladwin,GDW,US,POINT (-84.4754327 43.9708308),767,http://www.gladwin.org/airport/airport.htm,KGDW,Gladwin,Gladwin County,Michigan
-WWD,America/New_York,Cape May County,WWD,US,POINT (-74.9080999 39.0080873),29,,KWWD,Erma,Cape May County,New Jersey
 CEH,Africa/Blantyre,Chelinda,CEH,MW,POINT (33.7979301 -10.5575399),7726,,FWCD,Livingstonia,Rumphi District,Northern Region
 WWK,Pacific/Port_Moresby,Boram Airport,WWK,PG,POINT (143.66909229313853 -3.5802372),29,,AYWK,Wewak,Wewak,East Sepik
 YWA,America/Toronto,Petawawa,YWA,CA,POINT (-77.28333 45.9),427,,CYWA,,,
@@ -4632,7 +4634,6 @@ VUS,Europe/Moscow,Velikij Ustyug Airport,VUS,RU,POINT (46.266067439927596 60.793
 VVO,Asia/Vladivostok,Vladivostok International Airport,VVO,RU,POINT (132.14617665194015 43.3925287),36,http://www.vladivostokavia.ru/en/airport/,UHWW,Artem,,Primorskiy
 WAZ,Australia/Brisbane,Warwick,WAZ,AU,POINT (151.94322804581208 -28.14902855),1512,,YWCK,Warwick,Southern Downs,Queensland
 WBA,Asia/Jayapura,Wahai,WBA,ID,POINT (129.4855084818511 -2.8114998),488,,WAPV,Wahai,,Maluku
-YCY,America/Iqaluit,Clyde River,YCY,CA,POINT (-68.5 70.416664),87,,CYCY,,,
 WBE,Indian/Antananarivo,Bealanana,WBE,MG,POINT (48.6897102 -14.5400804),3651,,FMNB,Bealanana,,Sofia
 WBG,Europe/Berlin,Schleswig-jagel,WBG,DE,POINT (9.519220361389436 54.46404005),36,,ETNS,Jagel,,Schleswig-Holstein
 WBK,America/Detroit,Community,WBK,US,POINT (-84.179802 44.244801),849,http://www.westbranch.com/airport.pdf,"",West Branch,Ogemaw County,Michigan
@@ -4684,7 +4685,6 @@ ZQZ,Asia/Shanghai,Zhangjiakou Ningyuan Airport,ZQZ,CN,POINT (114.93866671510466 
 ZTS,America/Vancouver,Tahsis,ZTS,CA,POINT (-126.6534942 49.9218048),0,,CAL9,Tofino,Regional District of Alberni-Clayoquot,British Columbia
 ZUM,America/Goose_Bay,Churchill Falls,ZUM,CA,POINT (-64.1063995 53.5619011),1442,,CZUM,Labrador City,,Newfoundland and Labrador
 WIU,Pacific/Port_Moresby,Witu,WIU,PG,POINT (149.5 -4.666667),0,,AYIX,Kimbe,,West New Britain
-CVL,Pacific/Port_Moresby,Cape Vogel,CVL,PG,POINT (150.5 -9.466667),741,,"",,,
 DAR,Africa/Dar_es_Salaam,Julius Nyerere International Airport,DAR,TZ,POINT (39.20752396159325 -6.8741937),75,http://www.tanzaniairports.com/,HTDA,Dar es Salaam,,Dar es Salaam
 ZVK,Asia/Vientiane,Savannakhet,ZVK,LA,POINT (104.76031944401174 16.556469),509,,VLSK,Savannakhet,,Savannahkhet
 WGE,Australia/Sydney,Walgett,WGE,AU,POINT (148.12542342678233 -30.0321528),439,,YWLG,Lightning Ridge,Walgett,New South Wales
@@ -4877,6 +4877,7 @@ GLI,Australia/Sydney,Glen Innes,GLI,AU,POINT (151.6914255 -29.6752835),3421,,YGL
 GUG,Pacific/Port_Moresby,Guari,GUG,PG,POINT (146.9 -8.516667),2769,,AYGF,,,
 LRQ,America/Winnipeg,Laurie River,LRQ,CA,POINT (-101 56.216667),921,,CJC8,,,
 GWT,Europe/Berlin,Westerland - Sylt Airport,GWT,DE,POINT (8.343056 54.91528),26,,EDXW,Tinnum,,Schleswig-Holstein
+YRF,America/Goose_Bay,Cartwright,YRF,CA,POINT (-57.04176422196099 53.6826849),40,,CYCA,,,
 GWV,America/New_York,Glendale,GWV,US,POINT (-87.95 43.11667),613,,WV66,Glendale,Milwaukee County,Wisconsin
 RDA,Australia/Darwin,Rockhampton Downs,RDA,AU,POINT (135.1992998 -18.9522653),728,,"",,,
 SPV,Pacific/Port_Moresby,Sepik Plains,SPV,PG,POINT (144.5 -3.816667),26,,AYSQ,,,
@@ -4928,6 +4929,7 @@ GNI,Asia/Taipei,Green Island,GNI,TW,POINT (121.46667 23.1),0,,RCGI,Taitung,Taitu
 GNM,America/Bahia,Guanambi,GNM,BR,POINT (-42.783333 -14.3),1729,,SNGI,Guanambi,Guanambi,Bahia
 GNN,Africa/Addis_Ababa,Ghinnir,GNN,ET,POINT (40.7152085 7.1455035),6325,,HAGH,Ginir,,Oromiya
 GNR,America/Argentina/Salta,General Roca,GNR,AR,POINT (-67.6 -39.983334),1446,,SAHR,Sierra Colorada,,Rio Negro
+YGX,America/Winnipeg,Gillam,YGX,CA,POINT (-94.7121796275236 56.356811949999994),476,,CYGX,,,
 HAD,Europe/Stockholm,Halmstad Airport,HAD,SE,POINT (12.820655511825056 56.69265085000001),32,,ESMT,Halmstad,Halmstads Kommun,Halland
 YVP,America/Montreal,Kuujjuaq Airport,YVP,CA,POINT (-68.42739348649496 58.0906856),129,,CYVP,,,
 XLB,America/Winnipeg,Lac Brochet,XLB,CA,POINT (-101.46968211120176 58.61344095),1211,,CZWH,,,
@@ -4978,8 +4980,6 @@ YTE,America/Iqaluit,Cape Dorset,YTE,CA,POINT (-76.52438761760335 64.2301779),164
 KOF,Africa/Johannesburg,Komatipoort,KOF,ZA,POINT (31.9300219 -25.4405985),541,,FAKP,,,
 GYI,Africa/Kigali,Gisenyi,GYI,RW,POINT (29.259052480220763 -1.6788652499999999),5026,,HRYG,Gisenyi,,Western Province
 HHI,Pacific/Honolulu,Wheeler AFB,HHI,US,POINT (-158.03334 21.5),869,,PHHI,Wahiawa,Honolulu County,Hawaii
-YRF,America/Goose_Bay,Cartwright,YRF,CA,POINT (-57.04176422196099 53.6826849),40,,CYCA,,,
-YGX,America/Winnipeg,Gillam,YGX,CA,POINT (-94.7121796275236 56.356811949999994),476,,CYGX,,,
 KFA,Africa/Nouakchott,Kiffa,KFA,MR,POINT (-11.41207796210941 16.58686265),430,,GQNF,,,
 HHN,Europe/Berlin,Frankfurt - Hahn Airport,FRA,DE,POINT (7.261210336785306 49.944633350000004),1692,,EDFH,Lautzenhausen,,Rheinland-Pfalz
 AWE,Africa/Libreville,Alowe,AWE,GA,POINT (9.45 -0.75),360,,FOGW,,,
@@ -5979,6 +5979,7 @@ JAP,America/Costa_Rica,Punta Renes,JAP,CR,POINT (-84.833336 9.966667),0,,MRCH,Pu
 JAR,Asia/Tehran,Jahrom,JAR,IR,POINT (53.55 28.516666),3441,,OISJ,Jahrom,,Fars
 JAU,America/Lima,Jauja Airport,JAU,PE,POINT (-75.25 -11.75),14947,,SPJJ,Masma Chicche,Provincia de Jauja,Junin
 KRO,Asia/Yekaterinburg,Kurgan Airport,KRO,RU,POINT (65.3 55.433334),240,,USUU,Kurgan,,Kurgan
+KBM,Pacific/Port_Moresby,Kabwum,KBM,PG,POINT (147.19190660256731 -6.1551721),4450,,AYKB,,,
 KRR,Europe/Moscow,Krasnodar International Airport,KRR,RU,POINT (39.18144291163304 45.03371395),118,http://basel.aero/en/krasnodar/,URKK,Pashkovskiy,,Krasnodarskiy
 KSH,Asia/Tehran,Kermanshah Airport,KSH,IR,POINT (47.1688282549366 34.347537349999996),4307,,OICC,Kermanshah,,Kermanshah
 JBB,Asia/Jakarta,Notohadinegoro Airport,JBB,ID,POINT (113.69370831834904 -8.2421527),223,,WARE,Renes,,East Java
@@ -6028,6 +6029,7 @@ JCN,Asia/Seoul,Incheon Heliport,JCN,KR,POINT (126.6 37.466667),16,,,Incheon,,Inc
 JCO,Europe/Malta,Heliport,JCO,MT,POINT (14.333333 36.016666),42,,,Qala,,Il-Qala
 JCT,America/Chicago,Kimble County,JCT,US,POINT (-99.76556102069245 30.510357550000002),1666,,KJCT,Junction,Kimble County,Texas
 JCU,Africa/Ceuta,Ceuta Heliport,JCU,ES,POINT (-5.338333 35.899166),0,,,Ceuta,Ceuta,Ceuta
+KGZ,America/Anchorage,Glacier Creek,KGZ,US,POINT (-142.38333 61.45),2380,,KGZ,,,
 JCY,America/Chicago,Johnson,JCY,US,POINT (-98.416664 30.283333),1200,,"0TE7",Johnson City,Blanco County,Texas
 JDA,America/Los_Angeles,John Day,JDA,US,POINT (-118.97729130421767 44.403653399999996),3638,,KGCD,John Day,Grant County,Oregon
 KTU,Asia/Kolkata,Kota,KTU,IN,POINT (76.5 25),896,,VIKO,Baran,Baran,Rajasthan
@@ -6412,6 +6414,7 @@ LWL,America/Los_Angeles,Harriet Field,LWL,US,POINT (-114.96667 41.11667),5603,ht
 LWM,America/New_York,Lawrence,LWM,US,POINT (-71.1225 42.7175),114,http://www.lawrencemunicipalairport.com/,KLWM,North Andover,Essex County,Massachusetts
 LWN,Asia/Yerevan,Leninakan Airport,LWN,AM,POINT (43.833332 40.716667),4881,http://www.aviation.am/eng/gorc/aeroport.htm,UDSG,Azatan,,Shirak
 LWO,Europe/Kiev,Lviv International Airport,LWO,UA,POINT (23.955318 49.816418),1043,http://www.airport.lviv.ua/index.php?id=home&L=1,UKLL,Rudne,,Lviv
+KOY,America/Anchorage,Olga Bay SPB,KOY,US,POINT (-154.2275 57.162224),0,,KOY,,,
 LWR,Europe/Amsterdam,Leeuwarden,LWR,NL,POINT (5.8 53.25),36,http://www.defensie.nl/luchtmacht/luchtmachtbases/leeuwarden/,EHLW,Britsum,Gemeente Leeuwarderadeel,Friesland
 LWS,America/Los_Angeles,Lewiston-Nez Perce County Regional Airport,LWS,US,POINT (-117.01444 46.37472),1443,,KLWS,Lewiston Orchards,Nez Perce County,Idaho
 LWT,America/Denver,Municipal,LWT,US,POINT (-109.47111 47.05111),4127,,KLWT,Lewistown,Fergus County,Montana
@@ -6462,7 +6465,6 @@ BDR,America/New_York,Igor I. Sikorsky Memorial,BDR,US,POINT (-73.12617523031957 
 BEC,America/Chicago,Beech,ICT,US,POINT (-97.333336 37.683334),1295,,KBEC,,,
 BFM,America/Chicago,Mobile Downtown Airport,MOB,US,POINT (-88.23333 30.683332),200,,KBFM,,,
 KBE,America/Sitka,Hot Springs SPB,KBE,US,POINT (-131.57 55.929443),0,,KBE,,,
-KBM,Pacific/Port_Moresby,Kabwum,KBM,PG,POINT (147.19190660256731 -6.1551721),4450,,AYKB,,,
 BFP,America/New_York,Beaver Falls,BFP,US,POINT (-80.4 40.766666),1187,,KBVI,West Mayfield,Beaver County,Pennsylvania
 BML,America/New_York,Berlin Municipal Airport,BML,US,POINT (-71.17547494910397 44.57479855),1089,,KBML,,,
 BQK,America/New_York,Glynco Jetport,SSI,US,POINT (-81.48333 31.166668),36,,KBQK,,,
@@ -6519,7 +6521,6 @@ GCN,America/Phoenix,National Park,GCN,US,POINT (-112.1475 35.951942),6591,http:/
 KGX,America/Anchorage,Grayling Airport,KGX,US,POINT (-160.06731907546552 62.8890322),99,,PAGX,,,
 GWS,America/Denver,Glenwood Springs,GWS,US,POINT (-107.41441 39.583168),7145,http://www.glenwoodspringsairport.com/,KGWS,,,
 KGW,Pacific/Port_Moresby,Kagi,KGW,PG,POINT (146.83333 -9.05),4200,,AYKQ,,,
-KGZ,America/Anchorage,Glacier Creek,KGZ,US,POINT (-142.38333 61.45),2380,,KGZ,,,
 HOU,America/Chicago,William P. Hobby Airport,HOU,US,POINT (-95.27692608634595 29.64714905),49,http://www.fly2houston.com/hobbyHome,KHOU,,,
 HTW,America/New_York,Lawrence County Airpark,HTW,US,POINT (-76.28333 36.833332),29,,KHTW,,,
 IAB,America/Chicago,Mcconnell AFB,ICT,US,POINT (-97.27617 37.68114),1377,http://public.mcconnell.amc.af.mil/,KIAB,,,
@@ -6574,7 +6575,6 @@ KOM,Pacific/Port_Moresby,Komo-Manda,KOM,PG,POINT (143.63333 -6.133333),5057,,AYO
 KOR,Pacific/Port_Moresby,Kokoro,KOR,PG,POINT (146.55 -7.808333),230,,AYRO,,,
 ESD,America/Los_Angeles,Orcas Island Airport,ESD,US,POINT (-122.9107622489896 48.70740765),22,http://www.portoforcas.com/,KORS,,,
 GLB,America/Phoenix,San Calos Apache,GLB,US,POINT (-10.033333 5.95),36,,P13,,,
-KOY,America/Anchorage,Olga Bay SPB,KOY,US,POINT (-154.2275 57.162224),0,,KOY,,,
 KPB,America/Anchorage,Point Baker SPB,KPB,US,POINT (-133.58333 56.333332),0,,KPB,,,
 KPE,Pacific/Port_Moresby,Yapsiei,KPE,PG,POINT (141.16667 -4.05),600,,AYYP,,,
 KPL,Pacific/Port_Moresby,Kapal,KPL,PG,POINT (142.82360395 -8.6303459),170,,"",,,
@@ -7813,6 +7813,7 @@ MIV,America/New_York,Millville,MIV,US,POINT (-75.0718554 39.3688419),75,,KMIV,Mi
 MHZ,Europe/London,Mildenhall Airport,MHZ,GB,POINT (0.483333 52.36667),26,http://www.mildenhall.af.mil/,EGUN,Lakenheath,Suffolk,England
 MJP,Australia/Perth,Manjimup,MJP,AU,POINT (116.1368076 -34.2635031),882,http://www.manjimupwa.com,YMJM,Manjimup,Manjimup,Western Australia
 MIE,America/Indiana/Indianapolis,Delaware County,MIE,US,POINT (-85.39445 40.239723),928,,KMIE,Muncie,Delaware County,Indiana
+MOH,Asia/Makassar,Maleo Airport,MOH,ID,POINT (121.660278 -2.203333),19,https://en.wikipedia.org/wiki/Maleo_Airport,"",Malili,,South Sulawesi
 MIF,America/Chicago,Roy Hurd Memorial,MIF,US,POINT (-102.9 31.6),2618,http://www.cityofmonahans.org/index.asp?SEC=63860F5B-0F7B-4986-B494-851041B4C76D&Type=B_BASIC,E01,Monahans,Ward County,Texas
 MIG,Asia/Shanghai,Mianyang Nanjiao Airport,MIG,CN,POINT (104.73805 31.43111),1666,,ZUMY,Mianyang,,Sichuan
 MII,America/Sao_Paulo,Dr Gastao Vidigal Airport,MII,BR,POINT (-49.933334 -22.2),2014,,SBML,Marilia,Marilia,Sao Paulo
@@ -7862,7 +7863,7 @@ MNZ,America/New_York,Manassas Regional Airport/Harry P. Davis Field,MNZ,US,POINT
 MOA,America/Havana,Orestes Acosta,MOA,CU,POINT (-74.88333 20.5),2854,,MUMO,Moa,,Holguin
 MOG,Asia/Rangoon,Mong Hsat,MOG,MM,POINT (99.26262107388541 20.51560855),1870,,VYMS,Mae Ai,,Chiang Mai
 MOD,America/Los_Angeles,Modesto Municipal Airport,MOD,US,POINT (-120.95528 37.626945),42,,KMOD,Bystrom,Stanislaus County,California
-MOH,Asia/Makassar,Maleo Airport,MOH,ID,POINT (121.660278 -2.203333),19,https://en.wikipedia.org/wiki/Maleo_Airport,"",Malili,,South Sulawesi
+NDE,Africa/Nairobi,Mandera,NDE,KE,POINT (41.8433732 3.9337923),675,,HKMA,Mandera,,Mandera
 MOJ,America/Paramaribo,Moengo,MOJ,SR,POINT (-54.333332 5.75),95,,SMMO,Moengo,,Marowijne
 MOM,Africa/Nouakchott,Moudjeria,MOM,MR,POINT (-12.5 17.75),239,,GQNL,Barkewol,,Assaba
 MOP,America/Detroit,Municipal,MOP,US,POINT (-84.73333 43.61667),748,,,Mount Pleasant,Isabella County,Michigan
@@ -7963,7 +7964,6 @@ NAK,Asia/Bangkok,Nakhon Ratchasima,NAK,TH,POINT (102.083336 14.933333),698,,VTUQ
 NAL,Europe/Moscow,Nalchik Airport,NAL,RU,POINT (43.7 43.533333),1210,,URMN,Nartan,,Kabardino-Balkariya
 NAM,Asia/Jayapura,Namlea,NAM,ID,POINT (127.1 -3.3),0,,WAPR,Namlea,,Maluku
 NAO,Asia/Shanghai,Nanchong Airport,NAO,CN,POINT (106.066666 30.8),905,,ZUNC,Nanchong,,Sichuan
-NDE,Africa/Nairobi,Mandera,NDE,KE,POINT (41.8433732 3.9337923),675,,HKMA,Mandera,,Mandera
 NDL,Africa/Bangui,Ndele,NDL,CF,POINT (20.635557191670586 8.4247438),1578,,FEFN,Ndele,,Bamingui-Bangoran
 NEG,America/Jamaica,Negril,NEG,JM,POINT (-78.3360557 18.3398797),49,,MKNG,Negril,,Westmoreland
 NCO,America/New_York,NAS,NCO,US,POINT (-71 41),0,,KOQU,West Tisbury,Dukes County,Massachusetts
@@ -8349,6 +8349,7 @@ PYM,America/New_York,Plymouth,PYM,US,POINT (-70.683334 41.966667),108,,KPYM,Nort
 PYN,America/Bogota,Payan,PYN,CO,POINT (-78.13333 1.816667),337,,,Payan,,Narino
 PYO,America/Guayaquil,Putumayo,PYO,EC,POINT (-75.9 0.083333),748,,SEPT,Puerto Asis,,Putumayo
 QOW,Africa/Lagos,Sam Mbakwe International Airport,QOW,NG,POINT (7.204520853248672 5.42797015),373,http://www.faannigeria.org/nigeria-airport.php?airport=17,DNIM,Ihuo,,Imo
+RLT,Africa/Niamey,Arlit,RLT,NE,POINT (7.368073637080116 18.7905162),1361,,DRZL,Arlit,,Agadez
 QLU,Europe/Warsaw,Lublin Radawiec Airport,QLU,PL,POINT (22.713611 51.240278),0,,,Swidnik,Powiat swidnicki,Lublin Voivodeship
 QHU,Europe/Berlin,Husum,QHU,DE,POINT (9.138333320620001 54.5099983215),134,,EDXJ,Schwesing,,Schleswig-Holstein
 QMV,America/New_York,Montvale,QMV,US,POINT (-74.01667 41.033333),0,,,Montvale,Bergen County,New Jersey
@@ -8429,7 +8430,6 @@ RIX,Europe/Riga,Riga International Airport,RIX,LV,POINT (23.97264338931523 56.92
 RIY,Asia/Aden,Riyan Mukalla,RIY,YE,POINT (49.37876752804668 14.660666299999999),49,,OYRN,Ghayl Ba Wazir,Ghayl Ba Wazir,Muhafazat Hadramawt
 RJB,Asia/Kathmandu,Rajbiraj,RJB,NP,POINT (86.833336 26.483334),209,,VNRB,Rajbiraj,,Eastern Region
 RLR,Indian/Antananarivo,Relais de la Reine,RLR,MG,POINT (45.3258098 -22.6415869),2618,,,Ranohira,,Ihorombe
-RLT,Africa/Niamey,Arlit,RLT,NE,POINT (7.368073637080116 18.7905162),1361,,DRZL,Arlit,,Agadez
 RMB,Asia/Muscat,Buraimi,RMB,OM,POINT (55.78885539166737 24.23882485),967,,OOBR,Al Buraymi,,Al Buraimi
 RMD,Asia/Kolkata,Ramagundam,RMD,IN,POINT (79.4 18.766666),610,,VORG,Ramgundam,Karimnagar,Telangana
 RME,America/New_York,Griffiss AFB,RME,US,POINT (-75.45 43.216667),479,http://www.ocgov.net/oneida/airport,KRME,Rome,Oneida County,New York
@@ -8967,6 +8967,7 @@ TSU,Pacific/Tarawa,Tabiteuea South,TSU,KI,POINT (174.83333 -1.416667),0,,NGTS,Te
 TSY,Asia/Jakarta,Tasikmalaya,TSY,ID,POINT (108.2 -7.3),1148,,WICM,Jati,,West Java
 TSZ,Asia/Ulaanbaatar,Tsetserleg,TSZ,MN,POINT (101.76667 47.733334),5530,,ZMTG,Jargalant,,Arhangay
 TTA,Africa/Casablanca,Tan Tan Airport,TTA,MA,POINT (-11.083333 28.45),653,,GMAT,Tan-Tan,,Guelmim-Es Smara
+TXU,Africa/Abidjan,Tabou,TXU,CI,POINT (-7.3627281 4.4378095),39,,DITB,Tabou,,Bas-Sassandra
 TTD,America/Los_Angeles,Troutdale,TTD,US,POINT (-122.65 45.9),39,https://www2.portofportland.com/Airports/Troutdale/,KTTD,La Center,Clark County,Washington
 TTG,America/Argentina/Salta,Tartagal,TTG,AR,POINT (-63.833332 -22.533333),1472,,SAST,Tartagal,,Salta
 TTH,Asia/Muscat,Thumrait,TTH,OM,POINT (54 17.633333),1570,,OOTH,Salalah,,Zufar
@@ -9017,7 +9018,6 @@ TXN,Asia/Shanghai,Huangshan Tunxi International Airport,TXN,CN,POINT (118.255678
 TYT,America/Montevideo,Treinta-y-Tres,TYT,UY,POINT (-54.283333 -33.266666),337,,SUTR,Treinta y Tres,,Treinta y Tres
 TZA,America/Belize,Municipal,BZE,BZ,POINT (-88.191666 17.51639),8,,MZBE,Belize City,,Belize
 TZL,Europe/Sarajevo,Tuzla International Airport,TZL,BA,POINT (18.709167 44.40972),784,http://www.tuzla-airport.ba/,LQTZ,Svojat,,
-TXU,Africa/Abidjan,Tabou,TXU,CI,POINT (-7.3627281 4.4378095),39,,DITB,Tabou,,Bas-Sassandra
 UAB,Europe/Istanbul,Adana-Incirlik Airbase,ADA,TR,POINT (35.41833 37.00028),238,,LTAG,Yuregir,,Adana
 UAK,America/Godthab,Narsarsuaq Airport,UAK,GL,POINT (-45.316666 61.166668),112,,BGBW,Narsaq,,Kujalleq
 UAL,Africa/Luanda,Luau,UAL,AO,POINT (22.5 -11),3609,,FNUA,Luau,,Moxico
@@ -9391,6 +9391,7 @@ XWA,America/Toronto,Williston Basin International Airport,XWA,CA,POINT (-103.746
 XXK,Europe/Stockholm,Katrineholm,XXK,SE,POINT (16.2222304 59.0167742),0,,,Katrineholm,Katrineholms Kommun,Soedermanland
 XYA,Pacific/Guadalcanal,Yandina,XYA,SB,POINT (159.2190933 -9.0932316),60,,AGGY,Honiara,,Guadalcanal
 XYE,Asia/Rangoon,Ye,XYE,MM,POINT (97.85 15.25),32,,VYYE,Sangkhla Buri,,Kanchanaburi
+YEI,Europe/Istanbul,Yenisehir Airport,YEI,TR,POINT (29.56209181082114 40.25584005),764,,LTBR,Hamzabey,,Bursa
 YAG,America/Winnipeg,Fort Frances Municipal Airport,YAG,CA,POINT (-93.44405183970974 48.65356595),1135,,CYAG,International Falls,Koochiching County,Minnesota
 YAM,America/Toronto,Sault Ste. Marie Airport,YAM,CA,POINT (-84.50019623151833 46.484818000000004),597,http://www.saultairport.com/,CYAM,Sault Ste. Marie,Chippewa County,Michigan
 YAO,Africa/Douala,Yaounde Airport,YAO,CM,POINT (11.521790801578737 3.8360955),2398,,FKKY,Yaounde,,Centre
@@ -9437,7 +9438,6 @@ YEM,America/Toronto,East Manitoulin,YEM,CA,POINT (-81.858055 45.842777),869,,CYE
 YEN,America/Regina,Estevan,YEN,CA,POINT (-102.98333 49.166668),1905,,CYEN,Estevan,,Saskatchewan
 YEO,Europe/London,Yeovilton,YEO,GB,POINT (-2.55 51.016666),75,,EGDY,Sherborne,Dorset,England
 YGJ,Asia/Tokyo,Miho Airport,YGJ,JP,POINT (133.2428347112177 35.4933476),20,,RJOH,Sakaiminato,,Shimane
-YEI,Europe/Istanbul,Yenisehir Airport,YEI,TR,POINT (29.56209181082114 40.25584005),764,,LTBR,Hamzabey,,Bursa
 YES,Asia/Tehran,Yasouj,YES,IR,POINT (51.55276 30.699774),5939,,OISY,Yasuj,,Kohgiluyeh va Buyer Ahmad
 YFE,America/Montreal,Forestville,YFE,CA,POINT (-69.0880375 48.7455867),293,,CYFE,Forestville,Cote-Nord,Quebec
 YEY,America/Montreal,Amos,YEY,CA,POINT (-78.25 48.552223),1068,,CYEY,Amos,Abitibi-Temiscamingue,Quebec
@@ -9524,6 +9524,7 @@ YPA,America/Regina,Glass Field,YPA,CA,POINT (-105.675088 53.2166982),1405,,CYPA,
 YPE,America/Edmonton,Peace River,YPE,CA,POINT (-117.45390176565917 56.225776100000004),1873,,CYPE,Peace River,,Alberta
 YPD,America/Toronto,Parry Sound,YPD,CA,POINT (-79.916664 45.416668),832,http://www.seguin.ca/en/municipalairport.asp,CNK4,Parry Sound,Parry Sound District,Ontario
 YQA,America/Toronto,Muskoka,YQA,CA,POINT (-79.30674035378686 44.9754065),925,,CYQA,Bracebridge,,Ontario
+YXZ,America/Toronto,Wawa Airport,YXZ,CA,POINT (-84.78941127387685 47.9641218),942,,CYXZ,Hornepayne,Algoma,Ontario
 YQB,America/Montreal,Quebec City Jean Lesage International Airport,YQB,CA,POINT (-71.38577821056776 46.792174849999995),244,http://www.aeroportdequebec.com/,CYQB,L'Ancienne-Lorette,,Quebec
 YQF,America/Edmonton,Red Deer Regional Airport,YQF,CA,POINT (-113.88599970807856 52.18576525),2968,,CYQF,Penhold,,Alberta
 YQH,America/Whitehorse,Watson Lake,YQH,CA,POINT (-128.81643855172976 60.11951655),2255,,CYQH,Watson Lake,,Yukon
@@ -9620,7 +9621,6 @@ YYA,America/Vancouver,Big Bay Yacht Club,YYA,CA,POINT (-123.13333 50.4),230,,ZGY
 YYB,America/Toronto,Jack Garland Airport,YYB,CA,POINT (-79.42725 46.356823),1215,https://yyb.ca/,CYYB,North Bay,Nipissing District,Ontario
 YYH,America/Cambridge_Bay,Taloyoak,YYH,CA,POINT (-93.57816844804634 69.54798305),92,,CYYH,Gjoa Haven,,Nunavut
 YYI,America/Winnipeg,Rivers,YYI,CA,POINT (-100.23333 50.033333),1550,,"",Rivers,,Manitoba
-YXZ,America/Toronto,Wawa Airport,YXZ,CA,POINT (-84.78941127387685 47.9641218),942,,CYXZ,Hornepayne,Algoma,Ontario
 YYM,America/Edmonton,Cowley,YYM,CA,POINT (-114.166664 49.86667),3876,,CYYM,Pincher Creek,,Alberta
 YYN,America/Swift_Current,Swift Current,YYN,CA,POINT (-107.833336 50.283333),2680,http://www.swiftcurrentairport.com/,CYYN,Swift Current,,Saskatchewan
 YYC,America/Edmonton,Calgary International Airport,YYC,CA,POINT (-114.01057234296194 51.120751),3557,http://www.calgaryairport.com/,CYYC,Calgary,,Alberta
@@ -9747,3 +9747,6 @@ ZZO,Asia/Sakhalin,Zonalnoye,ZZO,RU,POINT (142.77230001516781 50.660627399999996)
 ZZN,Europe/Oslo,Nationaltheatret RailS,OSL,NO,POINT (10.7522454 59.9138688),0,,,Oslo,Oslo,Oslo
 ZZV,America/New_York,Zanesville,ZZV,US,POINT (-82.01667 39.933334),900,,KZZV,Zanesville,Muskingum County,Ohio
 ZZU,Africa/Blantyre,Mzuzu,ZZU,MW,POINT (34.01193333198202 -11.443044350000001),4115,,FWUU,Mzuzu,Mzimba District,Northern Region
+HQL,Asia/Urumqi,Tashkurgan Airport,HQL,CN,POINT (75.29227 37.66271),10499,,,Taxkorgan Tajik,,Xinjiang
+ACF,Asia/Urumqi,Alaer Talimu Airport,ACF,CN,POINT (81.246944 40.464167),3323,,ZWAL,Aral,,Xinjian Autonomous Region
+BQB,Australia/Perth,Bussellton Regional Airport,BQB,AU,POINT (115.25 -33.716667),45,http://www.busselton.wa.gov.au/facilities/airport,YBLN,Vasse,Busselton,Western Australia
