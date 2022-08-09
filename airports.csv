@@ -9750,3 +9750,8 @@ ZZU,Africa/Blantyre,Mzuzu,ZZU,MW,POINT (34.01193333198202 -11.443044350000001),4
 HQL,Asia/Urumqi,Tashkurgan Airport,HQL,CN,POINT (75.29227 37.66271),10499,,,Taxkorgan Tajik,,Xinjiang
 ACF,Asia/Urumqi,Alaer Talimu Airport,ACF,CN,POINT (81.246944 40.464167),3323,,ZWAL,Aral,,Xinjian Autonomous Region
 BQB,Australia/Perth,Bussellton Regional Airport,BQB,AU,POINT (115.25 -33.716667),45,http://www.busselton.wa.gov.au/facilities/airport,YBLN,Vasse,Busselton,Western Australia
+ZZE,Asia/Baku,Zangilan International Airport,ZZE,AZ,POINT (46.7336184452897 39.09512199158182),1604,,UBBZ,Karabakh,,
+BTZ,Asia/Bangkok,Yala Betong International Airport,BTZ,TH,POINT (101.1475 5.785833),801,,VTSY,Betong,,
+DDR,Asia/Shanghai,Shigatse Tingri Airport,DDR,CN,POINT (86.798 28.604567),14108,,,Xigaze,,
+NSR,America/Fortaleza,São Raimundo Nonato Airport,NSR,BR,POINT (-42.644444 -9.082778),1362,,SWKY,São Raimundo Nonato,,
+OPP,America/Belem,Salinópolis Airport,OPP,BR,POINT (-47.337778 -0.696944),89,,SNSM,Salinópolis,,
