@@ -9756,3 +9756,8 @@ DDR,Asia/Shanghai,Shigatse Tingri Airport,DDR,CN,POINT (86.798 28.604567),14108,
 NSR,America/Fortaleza,São Raimundo Nonato Airport,NSR,BR,POINT (-42.644444 -9.082778),1362,,SWKY,São Raimundo Nonato,,
 OPP,America/Belem,Salinópolis Airport,OPP,BR,POINT (-47.337778 -0.696944),89,,SNSM,Salinópolis,,
 RZV,Europe/Istanbul,Rize–Artvin Airport,RZV,TR,POINT (40.828889 41.169167),0,,LTFO,,,
+MOK,Asia/Samarkand,Muynak Airport,MOK,UZ,POINT (59.030833 43.755),177,,UTMN,Muynak,,
+LZG,Asia/Shanghai,Langzhong Airport,LZG,CN,POINT (106.03535 31.50366),1450,,,Shilong,,Sichuan
+JAW,America/Recife,Aeroporto de Araripina,JAW,BR,POINT (-40.535556 -7.586389),2195,,SNAB,,,
+DGH,Asia/Kolkata,Deoghar International Airport,DGH,IN,POINT (86.7025 24.444722),833,https://www.aai.aero/en/airports/deoghar,VEDO,Deoghar,,Jharkhand
+QGP,America/Recife,Garanhuns Airport,QGP,BR,POINT (-36.471389 -8.834444),2533,,SNGN,Garanhuns,,
