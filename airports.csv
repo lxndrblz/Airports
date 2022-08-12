@@ -9761,3 +9761,6 @@ LZG,Asia/Shanghai,Langzhong Airport,LZG,CN,POINT (106.03535 31.50366),1450,,,Shi
 JAW,America/Recife,Aeroporto de Araripina,JAW,BR,POINT (-40.535556 -7.586389),2195,,SNAB,,,
 DGH,Asia/Kolkata,Deoghar International Airport,DGH,IN,POINT (86.7025 24.444722),833,https://www.aai.aero/en/airports/deoghar,VEDO,Deoghar,,Jharkhand
 QGP,America/Recife,Garanhuns Airport,QGP,BR,POINT (-36.471389 -8.834444),2533,,SNGN,Garanhuns,,
+VRZ,America/Sao_Paulo,Lavras Airport,VRZ,BR,POINT (-44.9639 -21.2406),3156,,SSOL,Lavras,,
+QIG,America/Fortaleza,Dr. Francisco Tomé da Frota Airport,QIG,BR,POINT (-39.298611 -6.347778),692,,SNIG,Iguatu,,
+GOX,Asia/Kolkata,Mopa Airport,GOX,IN,POINT (73.8631 15.7302),518,,VOGA,Mopa,,Goa
