@@ -1,27 +1,27 @@
-"code","time_zone_id","name","city_code","country_id","location","elevation","url","icao","city","county","state"
-BUH,Europe/Bucharest,Bucharest Metropolitan Area,BUH,RO,POINT (26.103889 44.4325),295,,,Bucharest,,
+code,time_zone_id,name,city_code,country_id,location,elevation,url,icao,city,county,state
+BAK,Asia/Baku,Baku Metropolitan Area,BAK,AZ,POINT (49.882222 40.395278),36,,,,,
+BHZ,America/Sao_Paulo,Belo Horizonte Metropolitan Area,BHZ,BR,POINT (-43.933333 -19.916667),2778,,,Belo Horizonte,,Minas Gerais
+BJS,Asia/Shanghai,Beijing Metropolitan Area,BJS,CN,POINT (116.383333 39.933333),173,,,Beijing,,
 BUE,America/Argentina/Buenos_Aires,Buenos Aires Metropolitan Area,BUE,AR,POINT (-58.38 -34.6),114,,,,,
+BUH,Europe/Bucharest,Bucharest Metropolitan Area,BUH,RO,POINT (26.103889 44.4325),295,,,Bucharest,,
 DTT,America/Detroit,Detroit Metropolitan Area,DTT,US,POINT (-83.05 42.333),626,,,Detroit,,Michigan
 IZM,Europe/Istanbul,Izmir Metropolitan Area,IZM,TR,POINT (27.14 38.42),36,,,Izmir,,
-YEA,America/Edmonton,Edmonton Metropolitan Area,YEA,CA,POINT (-113.553 53.533333),2050,,,,,
 JKT,Asia/Jakarta,Jakarta Metropolitan Area,JKT,ID,POINT (106.816667 -6.2),45,,,Jakarta,,
 LON,Europe/London,London Metropolitan Area,LON,GB,POINT (-0.11832 51.50939),62,,,London,,
 MIL,Europe/Rome,Mailand Metropolitan Area,MIL,IT,POINT (9.186389 45.4625),429,,,Milan,,
-YMQ,America/Montreal,Montreal Metropolitan Area,YMQ,CA,POINT (-73.5626 45.5077),76,,,Montreal,,
+MOW,Europe/Moscow,Moscow Metropolitan Area,MOW,RU,POINT(37.618423 55.751244),512,,,Moscow,,
+NCP,Asia/Manila,Luzon Metropolitan Area,NCP,PH,POINT (121 16),1325,,,Digdig,Province of Nueva Ecija,Central Luzon
+NYC,America/New_York,New York Metropolitan Area,NYC,US,POINT (-74.005833 40.712778),91,,,,,
+OSA,Asia/Tokyo,Osaka Metropolitan Area,OSA,JP,POINT (135.502222 34.693889),62,,,,,
 PAR,Europe/Paris,Paris Metropolitan Area,PAR,FR,POINT (2.351667 48.856667),170,,,,,
 REK,Atlantic/Reykjavik,Reykjavik Metropolitan Area,REK,IS,POINT (-21.933333 64.13333299999),26,,,Reykjavik,,
 RIO,Brazil/East,Rio de Janeiro Metropolitan Area,RIO,BR,POINT (-43.196389 -22.908333),59,,,Rio de Janeiro,,
 ROM,Europe/Rome,Rome Metropolitan Area,ROM,IT,POINT (12.483333 41.883333),147,,,,,
 SAO,Brazil/East,Sao Paulo Metropolitan Area,SAO,BR,POINT (-46.633333 -23.55),2483,,,,,
-YTO,America/Toronto,Toronto Metropolitan Area,YTO,CA,POINT (-79.383087 43.66135),325,,,,,
-STO,Europe/Stockholm,Stockholm Metropolitan Area,STO,SE,POINT (18.05 59.325),19,,,Stockholm,,
-WAS,America/New_York,Washington D.C. Metropolitan Area,WAS,US,POINT (-77.036667 38.895),19,,,,,
-TYO,Asia/Tokyo,Tokyo Metropolitan Area,TYO,JP,POINT (136.06 35.156111),266,,,,,
-BAK,Asia/Baku,Baku Metropolitan Area,BAK,AZ,POINT (49.882222 40.395278),36,,,,,
-BHZ,America/Sao_Paulo,Belo Horizonte Metropolitan Area,BHZ,BR,POINT (-43.933333 -19.916667),2778,,,Belo Horizonte,,Minas Gerais
-BJS,Asia/Shanghai,Beijing Metropolitan Area,BJS,CN,POINT (116.383333 39.933333),173,,,Beijing,,
-NYC,America/New_York,New York Metropolitan Area,NYC,US,POINT (-74.005833 40.712778),91,,,,,
-OSA,Asia/Tokyo,Osaka Metropolitan Area,OSA,JP,POINT (135.502222 34.693889),62,,,,,
 SEL,Asia/Seoul,Seoul Metropolitan Area,SEL,KR,POINT (126.966667 37.566667),167,,,Seoul,,
-NCP,Asia/Manila,Luzon Metropolitan Area,NCP,PH,POINT (121 16),1325,,,Digdig,Province of Nueva Ecija,Central Luzon
-MOW,Europe/Moscow,Moscow Metropolitan Area,MOW,RU,POINT(37.618423 55.751244),512,,,Moscow,,
+STO,Europe/Stockholm,Stockholm Metropolitan Area,STO,SE,POINT (18.05 59.325),19,,,Stockholm,,
+TYO,Asia/Tokyo,Tokyo Metropolitan Area,TYO,JP,POINT (136.06 35.156111),266,,,,,
+WAS,America/New_York,Washington D.C. Metropolitan Area,WAS,US,POINT (-77.036667 38.895),19,,,,,
+YEA,America/Edmonton,Edmonton Metropolitan Area,YEA,CA,POINT (-113.553 53.533333),2050,,,,,
+YMQ,America/Montreal,Montreal Metropolitan Area,YMQ,CA,POINT (-73.5626 45.5077),76,,,Montreal,,
+YTO,America/Toronto,Toronto Metropolitan Area,YTO,CA,POINT (-79.383087 43.66135),325,,,,,
