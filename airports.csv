@@ -7262,7 +7262,7 @@ SDV,Asia/Jerusalem,Dov Hoz Airport,TLV,IL,POINT (34.787857 32.104885),26,,LLSD,T
 SDW,Asia/Kolkata,Sindhudurg Airport,SDW,IN,POINT (73.52783617390037 16.0012133),170,,VOSR,Sindhudurg,,
 SDX,America/Phoenix,Sedona,SDX,US,POINT (-111.79062911457635 34.8481983),4773,http://sedonaairport.org/,KSEZ,Sedona,Coconino County,Arizona
 SDY,America/Denver,Richland Municipal Airport,SDY,US,POINT (-104.19194 47.706944),2011,,KSDY,Sidney,Richland County,Montana
-SDZ,Europe/London,Shetland Islands,Metropolitan Area,SDZ,GB,POINT (-1.26169442216 60.31724307915),528,,,,,
+SDZ,Europe/London,Shetland Islands Metropolitan Area,SDZ,GB,POINT (-1.26169442216 60.31724307915),528,,,,,
 SEA,America/Los_Angeles,Seattle-Tacoma International Airport,SEA,US,POINT (-122.3080158569515 47.4475673),206,http://www.portseattle.org/seatac/,KSEA,SeaTac,King County,Washington
 SEB,Africa/Tripoli,Sebha,SEB,LY,POINT (14.466095085170046 26.99269925),1404,,HLLS,Sabha,,Sabha
 SED,Asia/Jerusalem,Min'hat Hashnayim,SED,IL,POINT (35.38333 31.15),-1299,,,`En Boqeq,,Southern District
@@ -7553,7 +7553,7 @@ SPG,America/New_York,Whitted,SPG,US,POINT (-82.62887560406861 27.76423345),13,,K
 SPH,Pacific/Port_Moresby,Sopu,SPH,PG,POINT (147.76666 -9),6837,,AYQO,,,
 SPI,America/Chicago,Capital Airport,SPI,US,POINT (-89.67889 39.844166),564,,KSPI,Springfield,Sangamon County,Illinois
 SPJ,Europe/Athens,Eleftherios Venizelos,SPJ,GR,POINT (22.533333 36.983334),364,,LGSP,Krokeai,Nomos Lakonias,Peloponnese
-SPK,Asia/Tokyo,Sapporo,Metropolitan Area,SPK,JP,POINT (41.3405138551 43.09367523914),3835,,,Sapporo,,Hokaido
+SPK,Asia/Tokyo,Sapporo Metropolitan Area,SPK,JP,POINT (41.3405138551 43.09367523914),3835,,,Sapporo,,Hokaido
 SPM,Europe/Berlin,Spangdahlem,SPM,DE,POINT (6.835917 50.06547),1240,http://www.spangdahlem.af.mil/,ETAD,Pantenburg,,Rheinland-Pfalz
 SPN,Pacific/Saipan,Saipan International Airport,SPN,MP,POINT (145.72962519467052 15.12049075),196,,PGSN,Saipan,,Saipan
 SPO,Europe/Madrid,San Pablo,SPO,ES,POINT (-5.75 37.38333),469,,,Mairena del Alcor,Provincia de Sevilla,Andalusia
