@@ -64,6 +64,7 @@ ACK,America/New_York,Nantucket Memorial Airport,ACK,US,POINT (-70.0642270361515 
 ACL,America/Bogota,Aguaclara,ACL,CO,POINT (-72.9919234 4.7470509),1036,,,Sabanalarga,,Casanare
 ACM,America/Bogota,Arica,ACM,CO,POINT (-71.833336 -2),557,,,Pebas,Mariscal Ramon Castilla,Loreto
 ACN,America/Matamoros,International,ACN,MX,POINT (-100.916664 29.3),944,,MMCC,,,
+ACO,America/Costa_Rica,Cobano Airport,ACO,CR,POINT (-85.091216 9.693365),495,https://www.cobanoairport.com/en/,MRAF,Cobano,,Puntarenas Province
 ACP,Asia/Tehran,Sahand,ACP,IR,POINT (46.12410489796737 37.347790399999994),4340,,OITM,Bonab,,East Azerbaijan
 ACR,America/Bogota,Araracuara,ACR,CO,POINT (-72.3 -0.383333),482,,SKAC,,,
 ACS,Asia/Krasnoyarsk,Achinsk,ACS,RU,POINT (90.57983018239561 56.270123999999996),974,,UNKS,Achinsk,,Krasnoyarskiy
@@ -338,6 +339,7 @@ APF,America/New_York,Naples Municipal Airport,APF,US,POINT (-81.773941382464 26.
 APG,America/New_York,Phillips AAF,APG,US,POINT (-76.166664 39.5),72,,KAPG,Aberdeen,Harford County,Maryland
 APH,America/New_York,Camp A P Hill,APH,US,POINT (-77.35 38.05),173,,KAPH,Bowling Green,Caroline County,Virginia
 API,America/Bogota,Apiay,API,CO,POINT (-73.051903 4.06889),580,,SKAP,Puerto Lopez,,Meta
+APJ,Asia/Shanghai,Ngari Burang Airport,APJ,CN,POINT (81.138611 30.3975),13944,,ZUPL,Burang,Burang County,Ngari Prefecture
 APK,Pacific/Tahiti,Apataki,APK,PF,POINT (-146.08333 -15.416667),0,,NTGD,,,
 APL,Africa/Maputo,Nampula Airport,APL,MZ,POINT (39.287224 -15.101667),1338,,FQNP,Nampula,,Nampula
 APN,America/Detroit,Alpena County Regional Airport,APN,US,POINT (-83.5665547651746 45.07017615),708,,KAPN,Alpena,Alpena County,Michigan
@@ -516,6 +518,7 @@ AYD,Australia/Darwin,Alroy Downs,AYD,AU,POINT (135.95 -19.3),688,,,,,
 AYE,America/New_York,AAF Heliport,AYE,US,POINT (-71.6 42.55),269,,,Ayer,Middlesex County,Massachusetts
 AYG,America/Bogota,Yaguara,AYG,CO,POINT (-73.933334 1.533333),770,,SKYA,,,
 AYI,America/Bogota,Yari,AYI,CO,POINT (-72.333336 -0.333333),485,,,,,
+AYJ,Asia/Kolkata,Maharishi Valmiki International Airport,AYJ,IN,POINT (82.150781 26.748034),335,,VEAY,Faizabad,,Uttar Pradesh
 AYK,Asia/Qyzylorda,Arkalyk,AYK,KZ,POINT (66.94696204582102 50.3151662),1259,,UAUR,Arkalyk,,Qostanay
 AYL,Australia/Darwin,Anthony Lagoon,AYL,AU,POINT (135.5420203 -18.0197941),711,,YANL,,,
 AYM,Asia/Dubai,Yas Island SPB,AUH,AE,POINT (54.6103 24.467),42,,,,,
@@ -535,6 +538,7 @@ AZA,America/Phoenix,Phoenix-Mesa Gateway Airport,PHX,US,POINT (-111.652644115019
 AZB,Pacific/Port_Moresby,Amazon Bay,AZB,PG,POINT (148.81667 -10.15),42,,,,,
 AZD,Asia/Tehran,Yazd Airport,AZD,IR,POINT (54.283264 31.903603),4055,,OIYY,Yazd,,Yazd
 AZG,America/Mexico_City,Apatzingan,AZG,MX,POINT (-102.352776 19.068056),1003,,MMAG,Apatzingan,Apatzingan,Michoacan
+AZH,Asia/Kolkata,Azamgarh Airport,AZH,IN,POINT (83.118333 26.153333),250,,VEAH,Manduri,Azamgarh,Uttar Pradesh
 AZI,Asia/Dubai,Bateen,AUH,AE,POINT (54.451668 24.419167),36,,OMAD,,,
 AZJ,Asia/Shanghai,Zhenjiang Dalu,AZJ,CN,POINT (119.78395645531 31.912266555746),39,http://czjc.changzhou.gov.cn/,,Changzhou,Xinbei District,Jiangsu
 AZL,America/Cuiaba,Fazenda Tucunare Airport,AZL,BR,POINT (-58.866935 -13.465528),2020,,SWTU,,,
@@ -1413,6 +1417,7 @@ CJN,America/Los_Angeles,Gillespie Field,CJN,US,POINT (-116.96667 32.8),433,,WICN
 CJS,America/Ojinaga,Abraham Gonzalez International Airport,CJS,MX,POINT (-106.42801011006628 31.638493750000002),3910,,MMCS,Ciudad Juarez,,Chihuahua
 CJT,America/Mexico_City,Copalar,CJT,MX,POINT (-92.04572634432391 16.1740488),5111,,MMCO,La Trinitaria,,Chiapas
 CJU,Asia/Seoul,Jeju International Airport,CJU,KR,POINT (126.4916441196128 33.50707105),62,,RKPC,,,
+CJZ,America/Fortaleza,Cajazeiras Airport,CJZ,BR,POINT ( -38.615833 -6.882778),1099,,SJZA,Cajazeiras,,
 CKA,America/Chicago,Kegelman Af,CKA,US,POINT (-98.35 36.75),1171,,KCKA,Cherokee,Alfalfa County,Oklahoma
 CKB,America/New_York,Benedum Airport,CKB,US,POINT (-80.22945 39.295555),1148,,KCKB,Bridgeport,Harrison County,West Virginia
 CKC,Europe/Kiev,Cherkassy,CKC,UA,POINT (32 49.416668),380,,UKKE,Cherkasy,,Cherkasy
@@ -7257,7 +7262,7 @@ SDV,Asia/Jerusalem,Dov Hoz Airport,TLV,IL,POINT (34.787857 32.104885),26,,LLSD,T
 SDW,Asia/Kolkata,Sindhudurg Airport,SDW,IN,POINT (73.52783617390037 16.0012133),170,,VOSR,Sindhudurg,,
 SDX,America/Phoenix,Sedona,SDX,US,POINT (-111.79062911457635 34.8481983),4773,http://sedonaairport.org/,KSEZ,Sedona,Coconino County,Arizona
 SDY,America/Denver,Richland Municipal Airport,SDY,US,POINT (-104.19194 47.706944),2011,,KSDY,Sidney,Richland County,Montana
-SDZ,Europe/London,Shetland Islands	Metropolitan Area,SDZ,GB,POINT (-1.26169442216 60.31724307915),528,,,,,
+SDZ,Europe/London,Shetland Islands Metropolitan Area,SDZ,GB,POINT (-1.26169442216 60.31724307915),528,,,,,
 SEA,America/Los_Angeles,Seattle-Tacoma International Airport,SEA,US,POINT (-122.3080158569515 47.4475673),206,http://www.portseattle.org/seatac/,KSEA,SeaTac,King County,Washington
 SEB,Africa/Tripoli,Sebha,SEB,LY,POINT (14.466095085170046 26.99269925),1404,,HLLS,Sabha,,Sabha
 SED,Asia/Jerusalem,Min'hat Hashnayim,SED,IL,POINT (35.38333 31.15),-1299,,,`En Boqeq,,Southern District
@@ -7548,7 +7553,7 @@ SPG,America/New_York,Whitted,SPG,US,POINT (-82.62887560406861 27.76423345),13,,K
 SPH,Pacific/Port_Moresby,Sopu,SPH,PG,POINT (147.76666 -9),6837,,AYQO,,,
 SPI,America/Chicago,Capital Airport,SPI,US,POINT (-89.67889 39.844166),564,,KSPI,Springfield,Sangamon County,Illinois
 SPJ,Europe/Athens,Eleftherios Venizelos,SPJ,GR,POINT (22.533333 36.983334),364,,LGSP,Krokeai,Nomos Lakonias,Peloponnese
-SPK,Asia/Tokyo,Sapporo	Metropolitan Area,SPK,JP,POINT (41.3405138551 43.09367523914),3835,,,Sapporo,,Hokaido
+SPK,Asia/Tokyo,Sapporo Metropolitan Area,SPK,JP,POINT (41.3405138551 43.09367523914),3835,,,Sapporo,,Hokaido
 SPM,Europe/Berlin,Spangdahlem,SPM,DE,POINT (6.835917 50.06547),1240,http://www.spangdahlem.af.mil/,ETAD,Pantenburg,,Rheinland-Pfalz
 SPN,Pacific/Saipan,Saipan International Airport,SPN,MP,POINT (145.72962519467052 15.12049075),196,,PGSN,Saipan,,Saipan
 SPO,Europe/Madrid,San Pablo,SPO,ES,POINT (-5.75 37.38333),469,,,Mairena del Alcor,Provincia de Sevilla,Andalusia
