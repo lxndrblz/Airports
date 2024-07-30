@@ -1,5 +1,5 @@
 # Complete List of IATA Airports with Details
-An up to date CSV dump of the [Travelhackingtool.com](https://www.travelhackingtool.com) airport database with basic information about every IATA airport and city code in the world. The IATA codes had been used as a primary value. Each entry contains IATA code, ICAO code, Timezone, name, city code, two-letter ISO country code, URL, elevation above sea level in feet, coordinates in decimal degrees, geo encoded city, county and state.
+An up to date CSV dump of the [Travelhackingtool.com](https://www.travelhackingtool.com) airport database with basic information about every IATA airport and city code in the world. The IATA codes had been used as a primary value. Each entry contains IATA code, ICAO code, Timezone, name, city code, two-letter ISO country code, URL, elevation above sea level in feet, latitude and longitude in decimal degrees, geo encoded city, county and state.
 
 ## Maintenance
 

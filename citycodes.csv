@@ -1,27 +1,27 @@
-code,time_zone_id,name,city_code,country_id,location,elevation,url,icao,city,county,state
-BAK,Asia/Baku,Baku Metropolitan Area,BAK,AZ,POINT (49.882222 40.395278),36,,,,,
-BHZ,America/Sao_Paulo,Belo Horizonte Metropolitan Area,BHZ,BR,POINT (-43.933333 -19.916667),2778,,,Belo Horizonte,,Minas Gerais
-BJS,Asia/Shanghai,Beijing Metropolitan Area,BJS,CN,POINT (116.383333 39.933333),173,,,Beijing,,
-BUE,America/Argentina/Buenos_Aires,Buenos Aires Metropolitan Area,BUE,AR,POINT (-58.38 -34.6),114,,,,,
-BUH,Europe/Bucharest,Bucharest Metropolitan Area,BUH,RO,POINT (26.103889 44.4325),295,,,Bucharest,,
-DTT,America/Detroit,Detroit Metropolitan Area,DTT,US,POINT (-83.05 42.333),626,,,Detroit,,Michigan
-IZM,Europe/Istanbul,Izmir Metropolitan Area,IZM,TR,POINT (27.14 38.42),36,,,Izmir,,
-JKT,Asia/Jakarta,Jakarta Metropolitan Area,JKT,ID,POINT (106.816667 -6.2),45,,,Jakarta,,
-LON,Europe/London,London Metropolitan Area,LON,GB,POINT (-0.11832 51.50939),62,,,London,,
-MIL,Europe/Rome,Mailand Metropolitan Area,MIL,IT,POINT (9.186389 45.4625),429,,,Milan,,
-MOW,Europe/Moscow,Moscow Metropolitan Area,MOW,RU,POINT(37.618423 55.751244),512,,,Moscow,,
-NCP,Asia/Manila,Luzon Metropolitan Area,NCP,PH,POINT (121 16),1325,,,Digdig,Province of Nueva Ecija,Central Luzon
-NYC,America/New_York,New York Metropolitan Area,NYC,US,POINT (-74.005833 40.712778),91,,,,,
-OSA,Asia/Tokyo,Osaka Metropolitan Area,OSA,JP,POINT (135.502222 34.693889),62,,,,,
-PAR,Europe/Paris,Paris Metropolitan Area,PAR,FR,POINT (2.351667 48.856667),170,,,,,
-REK,Atlantic/Reykjavik,Reykjavik Metropolitan Area,REK,IS,POINT (-21.933333 64.13333299999),26,,,Reykjavik,,
-RIO,Brazil/East,Rio de Janeiro Metropolitan Area,RIO,BR,POINT (-43.196389 -22.908333),59,,,Rio de Janeiro,,
-ROM,Europe/Rome,Rome Metropolitan Area,ROM,IT,POINT (12.483333 41.883333),147,,,,,
-SAO,Brazil/East,Sao Paulo Metropolitan Area,SAO,BR,POINT (-46.633333 -23.55),2483,,,,,
-SEL,Asia/Seoul,Seoul Metropolitan Area,SEL,KR,POINT (126.966667 37.566667),167,,,Seoul,,
-STO,Europe/Stockholm,Stockholm Metropolitan Area,STO,SE,POINT (18.05 59.325),19,,,Stockholm,,
-TYO,Asia/Tokyo,Tokyo Metropolitan Area,TYO,JP,POINT (136.06 35.156111),266,,,,,
-WAS,America/New_York,Washington D.C. Metropolitan Area,WAS,US,POINT (-77.036667 38.895),19,,,,,
-YEA,America/Edmonton,Edmonton Metropolitan Area,YEA,CA,POINT (-113.553 53.533333),2050,,,,,
-YMQ,America/Montreal,Montreal Metropolitan Area,YMQ,CA,POINT (-73.5626 45.5077),76,,,Montreal,,
-YTO,America/Toronto,Toronto Metropolitan Area,YTO,CA,POINT (-79.383087 43.66135),325,,,,,
+code,icao,name,latitude,longitude,elevation,url,time_zone,city_code,country,city,state,county,type
+BAK,,Baku Metropolitan Area,40.395278,49.882222,36,,Asia/Baku,BAK,AZ,,,,CC
+BHZ,,Belo Horizonte Metropolitan Area,-19.916667,-43.933333,2778,,America/Sao_Paulo,BHZ,BR,Belo Horizonte,Minas Gerais,,CC
+BJS,,Beijing Metropolitan Area,39.933333,116.383333,173,,Asia/Shanghai,BJS,CN,Beijing,,,CC
+BUE,,Buenos Aires Metropolitan Area,-34.6,-58.38,114,,America/Argentina/Buenos_Aires,BUE,AR,,,,CC
+BUH,,Bucharest Metropolitan Area,44.4325,26.103889,295,,Europe/Bucharest,BUH,RO,Bucharest,,,CC
+DTT,,Detroit Metropolitan Area,42.333,-83.05,626,,America/Detroit,DTT,US,Detroit,Michigan,,CC
+IZM,,Izmir Metropolitan Area,38.42,27.14,36,,Europe/Istanbul,IZM,TR,Izmir,,,CC
+JKT,,Jakarta Metropolitan Area,-6.2,106.816667,45,,Asia/Jakarta,JKT,ID,Jakarta,,,CC
+LON,,London Metropolitan Area,51.50939,-0.11832,62,,Europe/London,LON,GB,London,,,CC
+MIL,,Mailand Metropolitan Area,45.4625,9.186389,429,,Europe/Rome,MIL,IT,Milan,,,CC
+MOW,,Moscow,55.751244,37.618423,512,,Europe/Moscow,MOW,RU,,,,CC
+NCP,,Luzon Metropolitan Area,16.0,121.0,1325,,Asia/Manila,NCP,PH,Digdig,Central Luzon,Province of Nueva Ecija,CC
+NYC,,New York Metropolitan Area,40.712778,-74.005833,91,,America/New_York,NYC,US,,,,CC
+OSA,,Osaka Metropolitan Area,34.693889,135.502222,62,,Asia/Tokyo,OSA,JP,,,,CC
+PAR,,Paris Metropolitan Area,48.856667,2.351667,170,,Europe/Paris,PAR,FR,,,,CC
+REK,,Reykjavik Metropolitan Area,64.13333299999,-21.933333,26,,Atlantic/Reykjavik,REK,IS,Reykjavik,,,CC
+RIO,,Rio de Janeiro Metropolitan Area,-22.908333,-43.196389,59,,Brazil/East,RIO,BR,Rio de Janeiro,,,CC
+ROM,,Rome Metropolitan Area,41.883333,12.483333,147,,Europe/Rome,ROM,IT,,,,CC
+SAO,,Sao Paulo Metropolitan Area,-23.55,-46.633333,2483,,Brazil/East,SAO,BR,,,,CC
+SEL,,Seoul Metropolitan Area,37.566667,126.966667,167,,Asia/Seoul,SEL,KR,Seoul,,,CC
+STO,,Stockholm Metropolitan Area,59.325,18.05,19,,Europe/Stockholm,STO,SE,Stockholm,,,CC
+TYO,,Tokyo Metropolitan Area,35.156111,136.06,266,,Asia/Tokyo,TYO,JP,,,,CC
+WAS,,Washington D.C. Metropolitan Area,38.895,-77.036667,19,,America/New_York,WAS,US,,,,CC
+YEA,,Edmonton Metropolitan Area,53.533333,-113.553,2050,,America/Edmonton,YEA,CA,,,,CC
+YMQ,,Montreal Metropolitan Area,45.5077,-73.5626,76,,America/Montreal,YMQ,CA,Montreal,,,CC
+YTO,,Toronto Metropolitan Area,43.66135,-79.383087,325,,America/Toronto,YTO,CA,,,,CC
