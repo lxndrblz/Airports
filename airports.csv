@@ -5909,7 +5909,7 @@ OAG,Australia/Sydney,Orange Airport,OAG,AU,POINT (149.12447 -33.3816),3106,,YORG
 OAH,Asia/Kabul,Shindand Air Base,OAH,AF,POINT (62.2610015869 33.3913002014),3756,,OASD,Shindand,,Herat
 OAI,Asia/Kabul,Bagram,OAI,AF,POINT (69.2425695 34.9346662),4875,,OAIX,Ghulam `Ali,,Parvan
 OAJ,America/New_York,Albert J Ellis Airport,OAJ,US,POINT (-77.61492003540857 34.82679245),101,,KOAJ,Richlands,Onslow County,North Carolina
-OAK,America/Los_Angeles,Metropolitan Oakland International Airport,OAK,US,POINT (-122.21707443336842 37.7221623),26,http://www.oaklandairport.com/,KOAK,San Leandro,Alameda County,California
+OAK,America/Los_Angeles,San Francisco Bay Oakland International Airport,OAK,US,POINT (-122.21707443336842 37.7221623),26,http://www.oaklandairport.com/,KOAK,San Leandro,Alameda County,California
 OAL,America/Porto_Velho,Cacoal Airport,OAL,BR,POINT (-61.4825 -11.433889),597,,SSKW,Cacoal,Cacoal,Rondonia
 OAM,Pacific/Auckland,Oamaru,OAM,NZ,POINT (171.08399522261243 -44.9679956),85,,NZOU,Oamaru,,Otago
 OAN,America/Tegucigalpa,Olanchito,OAN,HN,POINT (-86.57472 15.504444),662,,MHOA,Olanchito,Olanchito,Yoro
@@ -6801,7 +6801,7 @@ QUO,Africa/Lagos,Akwa Ibom Airport,QUO,NG,POINT (8.097530913373072 4.8756716),17
 QUP,America/Godthab,Heliport,QUP,GL,POINT (-52 70.05),291,,,,,
 QUY,Europe/London,Wyton RAF Station,QUY,GB,POINT (-0.107832998037 52.3572006226),108,,EGUY,Hemingford Grey,Cambridgeshire,England
 QWG,America/New_York,Wilgrove Air Park,CLT,US,POINT (-80.85 35.216667),741,https://web.archive.org/web/20200910142246/http://www.wilgroveairport.net/,,Charlotte,Mecklenburg County,North Carolina
-QXD,America/Fortaleza,Quixadá Regional Airport,QXD,BR,POINT (-38.987778 -4.978889),738,SNQX,Quixadá,,
+QXD,America/Fortaleza,Quixadá Regional Airport,QXD,BR,POINT (-38.987778 -4.978889),738,,SNQX,Quixadá,,
 QYW,Europe/Paris,Vieux Port,CEQ,FR,POINT (7.044444 43.53889),0,,,Cannes,Departement des Alpes-Maritimes,Provence-Alpes-Cote d'Azur
 QZD,Europe/Budapest,Szeged,QZD,HU,POINT (20.091849841099055 46.245457650000006),0,,,Szeged,,Csongrad
 RAA,Pacific/Port_Moresby,Rakanda,RAA,PG,POINT (152.16667 -4.5),38,,,,,
@@ -7170,7 +7170,7 @@ SAE,Asia/Makassar,Sangir,SAE,ID,POINT (118.333336 -8.366667),26,,,Kambu,,West Nu
 SAF,America/Denver,Santa Fe,SAF,US,POINT (-106.08833 35.6175),6299,,KSAF,La Cienega,Santa Fe County,New Mexico
 SAG,Asia/Colombo,Shirdi,SAG,IN,POINT (74.37319208981876 19.6904548),1912,,VASD,Shirdi,Ahmadnagar,Maharashtra
 SAH,Asia/Aden,Sana'a International Airport,SAH,YE,POINT (44.21866507285824 15.47740745),7185,,OYSN,Ar Rawdah,Bani Al Harith,Amanat Al Asimah
-SAI,Asia/Phnom_Penh,Siem Reap–Angkor International Airport,SAI,207,POINT (104.220833 13.375278),https://english.sai-airport.com/,VDSA,Sotr Nikum,,Siem Reap
+SAI,Asia/Phnom_Penh,Siem Reap–Angkor International Airport,SAI,KH,POINT (104.220833 13.375278),207,https://english.sai-airport.com/,VDSA,Sotr Nikum,,Siem Reap
 SAK,Atlantic/Reykjavik,Saudarkrokur,SAK,IS,POINT (-19.573516091073024 65.73138320000001),39,,BIKR,Saudarkrokur,,Northwest
 SAL,America/El_Salvador,El Salvador International Airport,SAL,SV,POINT (-89.05240507597625 13.45092455),121,,MSLP,El Rosario,,La Paz
 SAM,Pacific/Port_Moresby,Salamo,SAM,PG,POINT (150.80833 -9.65),32,,,,,
