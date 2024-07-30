@@ -2434,7 +2434,7 @@ FHU,KFHU,Municipal,31.588888,-110.343056,4625,,America/Phoenix,FHU,US,Huachuca C
 FHZ,NTKH,Fakahina,-15.9916371,-140.1647412,32,,Pacific/Tahiti,FHZ,PF,,,,AP
 FIC,,Fire Cove,55.77778,-131.5375,0,,America/Juneau,FIC,US,,,,AP
 FID,0B8,Elizabeth Field,41.0,-72.0,0,https://www.dot.ny.gov/divisions/operating/opdm/aviation/repository/air_dir2/Elizabeth-revised.pdf,America/New_York,FID,US,,,,AP
-FIE,EGEF,Fair Isle,59.5347796,-1.6284978260484486,259,http://www.fairisle.org.uk/egef/index.htm,Europe/London,FIE,GB,,,,AP
+FIE,EGEF,Fair Isle,59.5347796,-1.6284978260484486,259,http://www.fairisle.org.uk/egef/index.htm,Europe/London,SDZ,GB,,,,AP
 FIG,GUFA,Fria,10.3515213,-13.5691599,547,,Africa/Conakry,FIG,GN,Fria,Boke,Fria,AP
 FIH,FZAA,N'djili Airport,-4.389588,15.447338,1010,,Africa/Kinshasa,FIH,CD,Masina,Kinshasa,,AP
 FIK,YFNE,Finke,-25.566668,134.58333,928,,Australia/Darwin,FIK,AU,,,,AP
@@ -2500,7 +2500,7 @@ FNL,KFNL,Municipalcipal Airport,40.583332,-105.083336,5039,http://www.flynoco.co
 FNR,PANR,SPB,58.333332,-134.58333,114,,America/Juneau,FNR,US,,,,AP
 FNT,KFNT,Bishop International Airport,42.9607553,-83.74563177999201,777,,America/Detroit,FNT,US,Flint,Michigan,Genesee County,AP
 FNU,LIER,Fenosu,39.8951383,8.640620134900566,32,http://www.sogeaor.it,Europe/Rome,FNU,IT,Palmas Arborea,Sardinia,Provincia di Oristano,AP
-FOA,EGFO,Foula,60.166668,-2.083333,0,,Europe/London,FOA,GB,,,,AP
+FOA,EGFO,Foula,60.166668,-2.083333,0,,Europe/London,SDZ,GB,,,,AP
 FOB,82CL,Fort Bragg,39.4731697,-123.7952935,62,,America/Los_Angeles,FOB,US,Fort Bragg,California,Mendocino County,AP
 FOC,ZSFZ,Changle International Airport,25.934525450000002,119.66617231883538,154,http://www.xiafz.com.cn/en/index.asp,Asia/Shanghai,FOC,CN,,,,AP
 FOD,KFOD,Fort Dodge Airport,42.5525,-94.18972,1105,,America/Chicago,FOD,US,Fort Dodge,Iowa,Webster County,AP
@@ -6182,7 +6182,7 @@ OUE,FCOU,Ouesso,1.61967185,16.038631380985755,1105,,Africa/Brazzaville,OUE,CG,Ou
 OUG,DFCC,Ouahigouya,13.516667,-2.333333,1040,,Africa/Ouagadougou,OUG,BF,Ouahigouya,Nord,Province du Yatenga,AP
 OUH,FAOH,Oudtshoorn,-33.60659885,22.189409270456053,1099,,Africa/Johannesburg,OUH,ZA,Oudtshoorn,Western Cape,Eden District Municipality,AP
 OUI,,Ban Houei,18.936111,102.67083,1154,,Asia/Vientiane,OUI,LA,,,,AP
-OUK,EGOU,Outer Skerries,60.416668,-0.75,0,,Europe/London,OUK,GB,,,,AP
+OUK,EGOU,Outer Skerries,60.416668,-0.75,0,,Europe/London,SDZ,GB,,,,AP
 OUL,EFOU,Oulu Airport,64.93012,25.375425,42,https://www.finavia.fi/en/oulu/,Europe/Helsinki,OUL,FI,Oulunsalo,Northern Ostrobothnia,Oulu,AP
 OUM,,Oum Hadjer,13.216667,19.616667,1263,,Africa/Ndjamena,OUM,TD,Oum Hadjer,Batha,,AP
 OUN,KOUN,Max Westheimer,35.216667,-97.433334,1151,http://www.ou.edu/airport.html,America/Chicago,OUN,US,Norman,Oklahoma,Cleveland County,AP
@@ -6636,7 +6636,7 @@ PSR,LIBP,Abruzzo Airport,42.4321436,14.186080677809038,26,http://www.abruzzo-air
 PSS,SARP,Posadas Airport,-27.391727449999998,-55.966770332177454,436,,America/Argentina/Cordoba,PSS,AR,Posadas,Misiones,Departamento de Capital,AP
 PST,,Preston,20.75,-75.666664,0,,America/Havana,PST,CU,Banes,Holguin,,AP
 PSU,WIOP,Putussibau Airport,0.8355697,112.93713061532932,95,,Asia/Makassar,PSU,ID,Kapit,Sarawak,,AP
-PSV,EGSZ,Papa Stour,60.321701,-1.69306,32,,Europe/London,PSV,GB,,,,AP
+PSV,EGSZ,Papa Stour,60.321701,-1.69306,32,,Europe/London,SDZ,GB,,,,AP
 PSW,SNOS,Passos,-20.716667,-46.61667,2427,,America/Sao_Paulo,PSW,BR,Passos,Minas Gerais,Passos,AP
 PSX,KPSX,Palacios,28.7,-96.25,39,http://cityofpalacios.org/airport/,America/Chicago,PSX,US,Palacios,Texas,Matagorda County,AP
 PSY,SFAL,Port Stanley,-51.7,-57.85,62,,Atlantic/Stanley,PSY,FK,,,,AP
@@ -7261,7 +7261,6 @@ SDV,LLSD,Dov Hoz Airport,32.104885,34.787857,26,,Asia/Jerusalem,TLV,IL,Tel Aviv,
 SDW,VOSR,Sindhudurg Airport,16.0012133,73.52783617390037,170,,Asia/Kolkata,SDW,IN,Sindhudurg,,,AP
 SDX,KSEZ,Sedona,34.8481983,-111.79062911457635,4773,http://sedonaairport.org/,America/Phoenix,SDX,US,Sedona,Arizona,Coconino County,AP
 SDY,KSDY,Richland Municipal Airport,47.706944,-104.19194,2011,,America/Denver,SDY,US,Sidney,Montana,Richland County,AP
-SDZ,,Shetland Islands Metropolitan Area,60.31724307915,-1.26169442216,528,,Europe/London,SDZ,GB,,,,AP
 SEA,KSEA,Seattle-Tacoma International Airport,47.4475673,-122.3080158569515,206,http://www.portseattle.org/seatac/,America/Los_Angeles,SEA,US,SeaTac,Washington,King County,AP
 SEB,HLLS,Sebha,26.99269925,14.466095085170046,1404,,Africa/Tripoli,SEB,LY,Sabha,Sabha,,AP
 SED,,Min'hat Hashnayim,31.15,35.38333,-1299,,Asia/Jerusalem,SED,IL,`En Boqeq,Southern District,,AP
