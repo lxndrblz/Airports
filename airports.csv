@@ -8411,6 +8411,7 @@ UJN,RKTL,Uljin,36.7775619,129.46312595227198,191,,Asia/Seoul,UJN,KR,Cheongsong g
 UJU,,Uiju Airfield,40.1505605,124.49878687367472,0,,Asia/Pyongyang,UJU,KP,Uiju,P'yongan-bukto,,AP
 UKA,HKUK,Ukunda Airport,-4.3,39.566666,98,http://www.kenyaairports.co.ke/kaa/airports/airstrips/ukunda_intro.html,Africa/Nairobi,UKA,KE,Gazi,Kwale,,AP
 UKB,RJBE,Kobe Airport,34.63428055,135.22785050798507,22,,Asia/Tokyo,OSA,JP,Kobe,Hyogo,,AP
+UKE,VEUK,Utkela Airport,20.097778,83.183333,685,,Asia/Kolkata,UKE,IN,Utkela,Odisha,Kalahandi district,AP
 UKG,UEBT,Ust-Kuiga,70.00139,135.54972,327,,Asia/Yakutsk,UKG,RU,Ust-Kuyga,Sakha,,AP
 UKH,,Mukhaizna,19.3823858,56.40542506293076,473,,Asia/Muscat,UKH,OM,Hayma',Al Wusta,,AP
 UKI,KUKI,Ukiah,39.1268845,-123.19738871459245,614,http://www.cityofukiah.com/ukiah-airport/,America/Los_Angeles,UKI,US,Ukiah,California,Mendocino County,AP
@@ -8567,6 +8568,7 @@ VAM,VRMV,Villa International Airport Maamigili,3.4717292,72.83512809829097,0,,In
 VAN,LTCI,Van Ferit Melen Airport,38.46787005,43.3304160093347,5442,,Europe/Istanbul,VAN,TR,Van,Van,,AP
 VAO,AGGV,Suavanao Airstrip,-7.566667,158.66667,0,,Pacific/Guadalcanal,VAO,SB,,,,AP
 VAP,SCRD,Valparaiso,-33.033333,-71.666664,0,,America/Santiago,VAP,CL,Valparaiso,Valparaiso,Provincia de Valparaiso,AP
+VAQ,UNIW,Vanavara Airport,60.355,102.31,892,,Asia/Krasnoyarsk,VAW,RU,Vanavara,,,AP
 VAR,LBWN,Varna Airport,43.23393595,27.823302249448076,206,,Europe/Sofia,VAR,BG,Aksakovo,Varna,Obshtina Aksakovo,AP
 VAS,LTAR,Sivas Airport,39.8128659,36.89970901198242,5187,http://www.sivas.dhmi.gov.tr/havaalanlari/default.aspx?hv=35,Europe/Istanbul,VAS,TR,Sivas,Sivas,,AP
 VAT,FMMY,Vatomandry,-19.283333,48.833332,59,,Indian/Antananarivo,VAT,MG,Andovoranto,Atsinanana,,AP
@@ -8611,6 +8613,7 @@ VDZ,PAVD,Valdez Municipal Airport,61.1325,-146.23889,65,,America/Anchorage,VDZ,U
 VEE,PAVE,Venetie,67.0086975,-146.3659973,636,,America/Anchorage,VEE,US,Eielson Air Force Base,Alaska,Fairbanks North Star Borough,AP
 VEG,SYMK,Maikwak,5.55,-59.283333,331,,America/Guyana,VEG,GY,Mahdia,Potaro-Siparuni,,AP
 VEL,KVEL,Vernal Regional Airport,40.43889,-109.51028,5062,,America/Denver,VEL,US,Naples,Utah,Uintah County,AP
+VEO,UNIS,Severo-Yeniseyskiy Airport,60.373333,93.011667,1706,,Asia/Krasnoyarsk,VEO,RU,,,,AP
 VER,MMVR,Veracruz International Airport,19.142275,-96.18321,88,http://www.asur.com.mx/asur/ingles/aeropuertos/veracruz/veracruz.asp,America/Mexico_City,VER,MX,Hacienda Sotavento,Veracruz,Veracruz,AP
 VEV,AGBA,Barakoma,-7.85,159.55,0,,Pacific/Guadalcanal,VEV,SB,Buala,Isabel,,AP
 VEX,D60,Tioga Municipal Airport,41.916668,-77.13333,1033,http://www.tiogand.net/index.asp?SEC=D996B72D-EE0E-4AA1-929E-1F5F0C5C46CE&Type=B_BASIC,America/Chicago,VEX,US,Mansfield,Pennsylvania,Tioga County,AP
@@ -8656,6 +8659,7 @@ VKG,VVRG,Rach Gia Airport,10.083333,105.083336,32,,Asia/Ho_Chi_Minh,VKG,VN,Rach 
 VKO,UUWW,Vnukovo Airport,55.5995278,37.27357516712458,662,http://www.vnukovo.ru/eng,Europe/Moscow,MOW,RU,Vnukovo,Moskovskaya,Leninskiy Rayon,AP
 VKS,KVKS,Vicksburg,32.35,-90.85,331,http://www.vicksburg.org/departments/airport,America/Chicago,VKS,US,Vicksburg,Mississippi,Warren County,AP
 VKT,UUYW,Vorkuta Airport,67.48792929999999,64.00333895184659,551,,Europe/Moscow,VKT,RU,Vorkuta,Komi Republic,,AP
+VKV,ULAH,Vaskovo Airport,64.441667,40.421667,82,,Europe/Moscow,VKV,RU,Arkhangelsk,,,AP
 VKW,,West Kavik,69.76667,-146.91667,666,,America/Anchorage,VKW,US,,,,AP
 VLA,KVLA,Vandalia,38.966667,-89.1,521,,America/Chicago,VLA,US,Vandalia,Illinois,Fayette County,AP
 VLC,LEVC,Valencia Airport,39.4878647,-0.481209186098332,180,,Europe/Madrid,VLC,ES,,,,AP
@@ -8724,6 +8728,7 @@ VSG,UKCW,Lugansk,48.566666,39.333332,219,,Europe/Kiev,VSG,UA,Luhansk,Luhansk,,AP
 VSK,,Vista Field,46.21861,-119.212546,515,,America/Los_Angeles,VSK,US,Kennewick,Washington,Benton County,AP
 VSO,,Phuoclong,9.433333,105.46667,36,,Asia/Ho_Chi_Minh,VSO,VN,Thi Tran Phuoc Long,Bac Lieu,,AP
 VST,ESOW,Vasteras/Hasslo Airport,59.58917,16.630556,78,,Europe/Stockholm,STO,SE,Vasteras,Vaestmanland,Vasteras,AP
+VSV,VISV,Shravasti Airport,27.503056,82.026944,366,,Asia/Kolkata,VSV,IN,Shravasti,Uttar Pradesh,,AP
 VTA,,Victoria,14.95,-87.4,1253,,America/Tegucigalpa,VTA,HN,Las Vegas,Yoro,,AP
 VTB,UMII,Vitebsk,55.13333,30.366667,623,,Europe/Minsk,VTB,BY,Vitebsk,Vitebsk,,AP
 VTE,VLVT,Wattay International Airport,17.9866469,102.56389705740517,501,http://www.vientianeairport.com/,Asia/Vientiane,VTE,LA,Si Chiang Mai,Nong Khai,,AP
