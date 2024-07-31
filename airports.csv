@@ -1144,7 +1144,7 @@ BYC,SLYA,Yacuiba,-21.9614105,-63.651880301742565,2040,,America/La_Paz,BYC,BO,Yac
 BYD,OYBI,Beidah,14.133333,46.55,4776,,Asia/Aden,BYD,YE,Marbat,Shabwah,Hatib,AP
 BYF,LFAQ,Albert-Bray Airport,49.9715004,2.697659969,314,,Europe/Paris,BYF,FR,Bray-sur-Somme,Picardie,Departement de la Somme,AP
 BYG,KBYG,Municipal,44.35,-106.7,4648,,America/Denver,BYG,US,Buffalo,Wyoming,Johnson County,AP
-BYH,KBYH,Blytheville AFB,35.933334,-89.916664,239,,America/Chicago,BYH,US,,,,AP
+BYH,KBYH,Arkansas International Airport,35.964444,-89.943889,254,,America/Chicago,BYH,US,Blytheville,Arkansas,Mississippi County,AP
 BYI,KBYI,Rupert,42.54139,-113.77417,4137,http://burleyidaho.org/city-of-burley/airport/,America/Boise,BYI,US,Burley,Idaho,Cassia County,AP
 BYJ,LPBJ,Beja International,38.078899,-7.9324,583,http://www.ana.pt/en-US/Aeroportos/alentejo/Beja/Pages/BejaHomepage.aspx,Europe/Lisbon,BYJ,PT,Beja,Beja,Beja,AP
 BYK,DIBK,Bouake,7.7404244,-5.068606828539775,1220,,Africa/Abidjan,BYK,CI,Bouake,Vallee du Bandama,,AP
@@ -3125,7 +3125,7 @@ HIW,RJBH,Hiroshima West,34.36361,132.41638,19,,Asia/Tokyo,HIJ,JP,Hiroshima-shi,H
 HJJ,ZGCJ,Zhijiang Airport,27.44585455,109.70710797175595,856,,Asia/Shanghai,HJJ,CN,Zhijiang,Hunan,,AP
 HJR,VAKJ,Khajuraho Airport,24.813829300000002,79.91582702072975,705,http://www.aai.aero/allAirports/khajuraho_generalinfo.jsp,Asia/Kolkata,HJR,IN,Khajuraho,Madhya Pradesh,Chhatarpur,AP
 HJT,ZMHU,Khujirt,46.9214273,102.7695436,5410,,Asia/Ulaanbaatar,HJT,MN,,,,AP
-HKA,KHKA,Municipal,35.933334,-89.916664,239,,America/Chicago,BYH,US,Blytheville,Arkansas,Mississippi County,AP
+HKA,KHKA,Blytheville Municipal Airport,35.940556,-89.830833,239,,America/Chicago,BYH,US,Blytheville,Arkansas,Mississippi County,AP
 HKB,,Healy Lake,63.86667,-148.96666,1194,,America/Anchorage,HKB,US,,,,AP
 HKD,RJCH,Hakodate Airport,41.76987575,140.82501678734644,98,,Asia/Tokyo,HKD,JP,Hakodate,Hokkaido,,AP
 HKG,VHHX,Hong Kong International Airport,22.3125986,113.91732378641939,26,http://www.hongkongairport.com/,Asia/Hong_Kong,HKG,HK,Tuen Mun,Tuen Mun,,AP
