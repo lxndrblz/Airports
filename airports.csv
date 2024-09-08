@@ -1694,6 +1694,7 @@ CWF,KCWF,Chennault International.,30.305918,-93.23189,29,http://www.chennault.or
 CWG,,Callaway Gardens,32.8418797,-84.8784817,892,,America/New_York,CWG,US,,,,AP
 CWI,KCWI,Clinton,41.829445,-90.33195,698,,America/Chicago,CWI,US,Camanche,Iowa,Clinton County,AP
 CWJ,ZPCW,Cangyuan Washan Airport,23.2772471,99.37478144463962,5744,,Asia/Chongqing,CWJ,CN,Mengdong,Yunnan,,AP
+CWK,VECT,Chitrakoot Airport,25.167694,80.9358,1050,,Asia/Kolkata,CWK,IN,,,,AP
 CWL,EGFF,Cardiff Airport,51.39850525,-3.339210332510528,252,http://www.cwlfly.com/,Europe/London,CWL,GB,Rhoose,Wales,Vale of Glamorgan,AP
 CWO,,Ft Wolter AAF,32.8,-98.11667,872,,America/Chicago,MWL,US,,,,AP
 CWP,,Campbellpore,33.766666,72.433334,1141,,Asia/Karachi,CWP,PK,Sanjwal,Punjab,,AP
@@ -1749,6 +1750,7 @@ CZM,MMCZ,Cozumel Airport,20.52296195,-86.92943828095508,26,http://www.asur.com.m
 CZN,CZN,Chisana Field,62.07083,-142.05,3261,,America/Anchorage,CZN,US,,,,AP
 CZO,CZO,Chistochina,62.5636319,-144.669765,1952,,America/Anchorage,CZO,US,,,,AP
 CZP,Z71,Cape Pole,55.9661111,-133.7966667,0,,America/Sitka,CZP,US,,,,AP
+CZR,UIAR,Chara Kyust-Kemda Airport,56.913333,118.27,2201,,Asia/Chita,CZR,RU,,,,AP
 CZS,SBCZ,Campo Internacional Airport,-7.583333,-72.78333,646,http://www.infraero.gov.br/index.php/aeroportos/acre/aeroporto-cruzeiro-do-sul.html,America/Rio_Branco,CZS,BR,Cruzeiro do Sul,Acre,Cruzeiro Do Sul,AP
 CZT,KCZT,Carrizo Springs,28.523977,-99.831245,629,,America/Chicago,CZT,US,Carrizo Springs,Texas,Dimmit County,AP
 CZU,SKCZ,Corozal Airport,9.3375,-75.282776,544,,America/Bogota,CZU,CO,Morroa,Sucre,,AP
@@ -1868,6 +1870,7 @@ DHN,KDHN,Dothan Regional Airport,31.32003875,-85.44995912385775,324,,America/Chi
 DHO,,Horn River,59.4593,-122.2553,2299,,America/Vancouver,DHO,CA,,,,AP
 DHR,EHKD,De Kooy/Den Helder Airport,52.95,4.75,32,,Europe/Amsterdam,DHR,NL,Den Helder,North Holland,Gemeente Den Helder,AP
 DHT,KDHT,Dalhart,36.066666,-102.51667,3959,,America/Chicago,DHT,US,Dalhart,Texas,Dallam County,AP
+DHX,WARD,Dhoho International Airport,-7.761672,111.951521,371,,Asia/Jakarta,DHX,ID,,,,AP
 DIA,OTBD,Doha International Airport,25.2607,51.5646,55,,Asia/Qatar,DIA,QA,Doha,,,AP
 DIB,VEMN,Dibrugarh Airport,27.4854679,95.0170764,334,,Asia/Kolkata,DIB,IN,Dibrugarh,Assam,Dibrugarh,AP
 DIE,FMNA,Antsiranana/Arrachart,-12.346593299999999,49.28811328393599,331,,Indian/Antananarivo,DIE,MG,Antsiranana,Diana,,AP
@@ -2001,6 +2004,7 @@ DRJ,SMDA,Drietabbetje,4.1114213,-54.672780800765764,242,,America/Paramaribo,DRJ,
 DRK,MRDK,Drake Bay,8.718110249999999,-83.63672168650808,45,,America/Costa_Rica,DRK,CR,,,,AP
 DRN,YDBI,Dirranbandi,-28.5845215,148.2195588,554,,Australia/Brisbane,DRN,AU,,,,AP
 DRO,KDRO,Durango-La Plata County Airport,37.15284235,-107.7586059173994,6515,http://www.durangogov.org/airport/index.cfm,America/Denver,DRO,US,Bayfield,Colorado,La Plata County,AP
+DRP,RPLK,Bicol International Airport,13.112222,123.677222,313,,Asia/Manila,DRP,PH,,,,AP
 DRR,YDRI,Durrie,-25.616667,140.21666,164,,Australia/Brisbane,DRR,AU,,,,AP
 DRS,EDDC,Dresden International Airport,51.134299299999995,13.769480779988587,748,http://www.dresden-airport.de/en/index.html,Europe/Berlin,DRS,DE,,,,AP
 DRT,KDRT,Del Rio International Airport,29.333332,-100.97833,941,http://www.cityofdelrio.com/index.aspx?NID=412,America/Chicago,DRT,US,Ciudad Acuna,Coahuila,,AP
@@ -2071,6 +2075,7 @@ DWS,,Walt Disney World,28.4020746,-81.5722231,65,,America/New_York,ORL,US,Celebr
 DXB,OMDB,Dubai Airport,25.248665,55.352917,39,http://www.dubaiairport.com/dia/english/home/,Asia/Dubai,DXB,AE,,,,AP
 DXD,YDIX,Dixie,-15.166667,143.66667,574,,Australia/Brisbane,DXD,AU,,,,AP
 DXE,KMBO,Bruce Campbell Field,32.4392835,-90.10313414239927,246,http://www.madisonthecity.com/airport,America/Chicago,DXE,US,Madison,Mississippi,Madison County,AP
+DXJ,ZGXX,Xiangxi Biancheng Airport,28.4972,109.5218,2299,,Asia/Shanghai,DXJ,CN,,,Hunan,AP
 DXR,KDXR,Danbury Municipal Airport,41.3721531,-73.48139626519684,433,,America/New_York,DXR,US,Danbury,Connecticut,Fairfield County,AP
 DYA,YDYS,Dysart,-23.5,148.0,672,,Australia/Brisbane,DYA,AU,,,,AP
 DYG,ZGDY,Zhangjiajie Hehua Airport,29.103868499999997,110.44472066563625,679,,Asia/Shanghai,DYG,CN,,,,AP
@@ -2345,6 +2350,7 @@ EWR,KEWR,Newark Liberty International Airport,40.68906405,-74.17725485035348,49,
 EXI,,SPB,58.420834,-135.44722,22,,America/Juneau,EXI,US,,,,AP
 EXM,YEXM,Exmouth Gulf,-22.25,114.25,0,,Australia/Perth,EXM,AU,,,,AP
 EXT,EGTE,Exeter International Airport,50.7347944,-3.412883379837215,78,http://www.exeter-airport.co.uk/,Europe/London,EXT,GB,Topsham,England,Devon,AP
+EYA,,Zeya Airport,53.69066,127.09404,908,,Asia/Yakutsk,EYA,RU,,Amur Oblast,,AP
 EYK,USHQ,Beloyarsky Airport,63.696682,66.70121,59,,Asia/Yekaterinburg,EYK,RU,Beloyarskiy,Khanty-Mansiyskiy Avtonomnyy Okrug,,AP
 EYL,GAYE,Yelimane,15.1232036,-10.568124022412686,324,,Africa/Bamako,EYL,ML,Yelimane,Kayes,,AP
 EYP,SKYP,El Yopal Airport,5.3201424,-72.38447809054335,1010,,America/Bogota,EYP,CO,Yopal,Casanare,,AP
@@ -2726,6 +2732,7 @@ GHN,ZUGH,Guanghan,30.466667,106.65,790,,Asia/Shanghai,GHN,CN,Guang'an,Sichuan,,A
 GHS,,Melak Airport,-0.2036,115.76,282,,Asia/Makassar,GHS,ID,,,,AP
 GHT,HLGT,Ghat,24.966667,10.166667,2201,,Africa/Tripoli,GHT,LY,Ghat,Sha`biyat Ghat,,AP
 GHU,SAAG,Gualeguaychu,-33.00510395,-58.6145981728766,45,,America/Argentina/Cordoba,GHU,AR,Gualeguaychu,Entre Rios,,AP
+GHV,LRBV,Brașov-Ghimbav International Airport,45.70622,25.52352,1730,,Europe/Bucharest,GHV,RO,,,,AP
 GIB,LXGB,North Front Airport,36.15157405,-5.347921386651571,19,,Europe/Gibraltar,GIB,GI,Gibraltar,,,AP
 GIC,YBOI,Boigu Island,-9.23271935,142.21820563259044,19,,Australia/Brisbane,GIC,AU,,,,AP
 GID,HBBE,Gitega,-3.41787695,29.912829749986052,5383,,Africa/Bujumbura,GID,BI,Gitega,Gitega,,AP
@@ -3046,6 +3053,7 @@ HDH,PHDH,Dillingham Airfield,21.466667,-157.96666,764,,Pacific/Honolulu,HDH,US,M
 HDK,VRBK,Kulhudhuffushi Airport,6.6312204999999995,73.06709444256374,22,,Indian/Maldives,HDK,MV,Kulhudhuffushi,Haa Dhaalu Atholhu,,AP
 HDM,OIHH,Hamadan Airport,34.8663962,48.55918810158661,5738,,Asia/Tehran,HDM,IR,Hamadan,Hamadan,,AP
 HDN,KHDN,Yampa Valley Airport,40.4844693,-107.220936,6584,,America/Denver,HDN,US,Hayden,Colorado,Routt County,AP
+HDO,VIDX,Hindon Airport,28.70579,77.342137,691,,Asia/Kolkata,HDO,IN,Ghaziabad,,,AP
 HDR,OIKP,Havadarya,27.05,56.166668,0,,Asia/Tehran,HDR,IR,Qeshm,Hormozgan,Qeshm,AP
 HDS,FAHS,Hoedspruit Airport,-24.35,30.95,1778,,Africa/Johannesburg,HDS,ZA,Hoedspruit,Limpopo,Mopani District Municipality,AP
 HDY,VTSS,Hat Yai International Airport,6.9353952,100.3937098,104,,Asia/Bangkok,HDY,TH,Khlong Hoi Khong,Songkhla,,AP
@@ -3213,6 +3221,7 @@ HPV,HI01,Princeville,22.209272,-159.44548629063752,367,,Pacific/Honolulu,LIH,US,
 HPY,KHPY,Baytown Airport,29.733334,-94.96667,39,http://www.baytownairport.com/,America/Chicago,HPY,US,Baytown,Texas,Harris County,AP
 HQL,,Tashkurgan Airport,37.66271,75.29227,10499,,Asia/Urumqi,HQL,CN,Taxkorgan Tajik,Xinjiang,,AP
 HQM,KHQM,Bowerman,46.971942999999996,-123.93609009107766,22,http://www.portofgraysharbor.com/airport/airport.php,America/Los_Angeles,HQM,US,Hoquiam,Washington,Grays Harbor County,AP
+HQQ,ZHQQ,Anyang Hongqiqu Airport,35.870833,114.461944,315,,Asia/Shanghai,HQQ,CN,,Hainan,,AP
 HRA,,Mansehra,34.333332,73.2,3572,,Asia/Karachi,HRA,PK,Mansehra,Khyber Pakhtunkhwa,,AP
 HRB,ZYHB,Harbin Taiping International Airport,45.62212125,126.24525735616052,456,,Asia/Shanghai,HRB,CN,,,,AP
 HRC,,Zhairem,48.466667,70.46667,1384,,Asia/Almaty,HRC,KZ,Qarazhal,Qaraghandy,,AP
