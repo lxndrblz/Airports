@@ -1201,7 +1201,7 @@ CAP,MTCH,Cap Haitien Airport,19.7263503,-72.20026715140995,45,,America/Port-au-P
 CAQ,SKCU,Caucasia,7.6,-75.25,492,,America/Bogota,CAQ,CO,Caceres,Antioquia,,AP
 CAR,KCAR,Municipal,46.86667,-68.01667,574,,America/New_York,CAR,US,Caribou,Maine,Aroostook County,AP
 CAS,,Anfa,33.559723,-7.663056,154,,Africa/Casablanca,CAS,MA,Casablanca,Grand Casablanca,Casablanca,AP
-CAT,LPCS,Cascais Municipal Aerodrome,38.725,-9.35523,295,http://aerodromo-cascais.pt/?lang=en,America/Nassau,CAT,PT,Lisbon,,,AP
+CAT,LPCS,Cascais Municipal Aerodrome,38.725,-9.35523,295,http://aerodromo-cascais.pt/?lang=en,Europe/Lisbon,CAT,PT,Lisbon,,,AP
 CAU,SNRU,Caruaru,-8.25,-35.916668,1932,,America/Recife,CAU,BR,Caruaru,Pernambuco,Caruaru,AP
 CAV,FNCZ,Cazombo,-11.9,22.866667,3664,,Africa/Luanda,CAV,AO,,,,AP
 CAW,SBCP,Bartolomeu Lisandro Airport,-21.75,-41.3,32,http://www.infraero.gov.br/index.php/aeroportos/rio-de-janeiro/aeroporto-de-bartolomeu-lisandro.html,America/Sao_Paulo,CAW,BR,Campos,Rio de Janeiro,Campos Dos Goytacazes,AP
@@ -5568,6 +5568,7 @@ NBC,UWKE,Begishevo Airport,55.565541499999995,52.099212776880876,633,,Europe/Mos
 NBE,DTNH,Enfidha - Hammamet International Airport,36.07817805,10.435925349519707,42,http://www.enfidhahammametairport.com/,Africa/Tunis,NBE,TN,Harqalah,Susah,,AP
 NBG,KNBG,NAS/Alvin Callendar,29.833332,-90.03333,39,,America/Chicago,MSY,US,Timberlane,Louisiana,Jefferson Parish,AP
 NBH,YNHS,Nambucca Heads,-30.673263249999998,152.98322072164777,42,,Australia/Sydney,NBH,AU,Nambucca,New South Wales,Nambucca Shire,AP
+NBJ,FNBJ,Dr. Antonio Agostinho Neto International Airport,-9.046778,13.507194,522,,Africa/Luanda,NBJ,AO,,,,AP
 NBL,MPWN,San Blas,9.3,-79.0,1597,,America/Panama,NBL,PA,El Progreso,Panama,,AP
 NBN,FGAB,Annobón,-1.407638,5.62510323839779,0,,Africa/Malabo,NBN,GQ,Pale,Annobon,,AP
 NBO,HKJK,Jomo Kenyatta International Airport,-1.3168547,36.92904912198662,5272,http://www.kenyaairports.com/jkia/IndexJkia.php,Africa/Nairobi,NBO,KE,Pumwani,Nairobi Area,,AP
@@ -5884,6 +5885,7 @@ NYW,VYMY,Monywar Airport,22.22417235,95.09345984658762,68,,Asia/Yangon,NYW,MM,Mo
 NZA,FNZG,Nzagi,-7.7142539,21.3631532,2434,,Africa/Luanda,NZA,AO,Nzagi,Lunda Norte,,AP
 NZC,SPZA,Maria Reiche Neuman Airport,-14.85435005,-74.96191613177118,1765,,America/Lima,NZC,PE,Nazca,Ica,Provincia de Nazca,AP
 NZE,GUNZ,Nzerekore,7.8155778,-8.7038786,1594,,Africa/Conakry,NZE,GN,Nzerekore,Nzerekore,Nzerekore Prefecture,AP
+NZG,UIUN,Nizhneangarsk Airport,55.801667,109.586667,1545,,Asia/Irkutsk,NZG,RU,,,,AP
 NZH,ZBMZ,Manzhouli Airport,49.567472499999994,117.3271129010715,2168,,Asia/Shanghai,NZH,CN,Zabaykal'sk,Transbaikal Territory,,AP
 NZL,ZBZL,Zhalantun Chengjisihan Airport,47.865833,122.7675,859,,Asia/Shanghai,NZL,CN,Qinggis Han,Inner Mongolia,,AP
 NZW,,South Weymouth,42.166668,-70.933334,150,,America/New_York,NZW,US,Rockland,Massachusetts,Plymouth County,AP
@@ -5942,6 +5944,7 @@ ODN,WBGI,Long Seridan Airport,4.033333,115.066666,1837,,Asia/Kuching,ODN,MY,Bang
 ODO,UIKB,Bodaybo Airport,57.8652039,114.23895228377594,954,,Asia/Irkutsk,ODO,RU,Bodaybo,Irkutsk,,AP
 ODR,YORV,Ord River,-17.5,128.8,633,,Australia/Perth,ODR,AU,,,,AP
 ODS,UKOO,Odessa International Airport,46.42729675,30.671640336265803,164,http://www.airport.od.ua/,Europe/Kiev,ODS,UA,Odessa,Odessa,,AP
+ODT,KODO,Odessa-Schlemeyer Field,31.921389,-102.386944,3004,,America/Phoenix,ODT,US,Odessa,Texas,,AP
 ODW,KOKH,Oak Harbor,48.25139,-122.68611,95,,America/Los_Angeles,ODW,US,Coupeville,Washington,Island County,AP
 ODY,VLOS,Oudomxay Airport,20.583332,104.166664,3822,,Asia/Vientiane,ODY,LA,Viangxai,Houaphan,,AP
 OEA,,Oneal,38.683334,-87.53333,416,,America/Indiana/Vincennes,OEA,US,Vincennes,Indiana,Knox County,AP
