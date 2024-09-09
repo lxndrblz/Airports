@@ -3228,6 +3228,7 @@ HRC,,Zhairem,48.466667,70.46667,1384,,Asia/Almaty,HRC,KZ,Qarazhal,Qaraghandy,,AP
 HRE,FVRG,Harare International Airport,-17.9332616,31.090709006942333,4786,,Africa/Harare,HRE,ZW,Epworth,Harare,,AP
 HRF,VRAH,Hoarafushi Airport,6.980556,72.895833,19,http://www.macl.aero/,Indian/Maldives,HRF,MV,Hoarafushi,,,AP
 HRG,HEGN,Hurghada International Airport,27.1798365,33.79432766304178,82,,Africa/Cairo,HRG,EG,Hurghada,Red Sea,,AP
+HRH,VIAH,Aligarh Airport,27.8592,78.1487,619,,Asia/Kolkata,HRH,IN,,,,AP
 HRI,VCRI,Mattala Rajapaksa International Airport,6.28627825,81.1225232733857,137,http://www.mria.lk/,Asia/Colombo,HRI,LK,,,,AP
 HRJ,,Chaurjhari,28.0,82.333336,2437,,Asia/Kathmandu,HRJ,NP,Tulsipur,Mid Western,,AP
 HRK,UKHH,Kharkov Airport,49.92078,36.281185,469,http://www.airport.kharkov.ua/,Europe/Kiev,HRK,UA,Bezlyudivka,Kharkiv,,AP
@@ -3253,6 +3254,7 @@ HSL,PAHL,Huslia Airport,65.6978989,-156.3509979,308,,America/Anchorage,HSL,US,,,
 HSM,YHSM,Horsham,-36.666668,142.16667,439,,Australia/Melbourne,HSM,AU,,,,AP
 HSN,ZSZS,Putuoshan Airport,29.9350153,122.3604503213771,29,,Asia/Shanghai,HSN,CN,Dadong'ao,Zhejiang Sheng,,AP
 HSP,KHSP,Ingalls Field,37.950558,-79.833885,3727,,America/New_York,HSP,US,Warm Springs,Virginia,Bath County,AP
+HSR,VAHS,Rajkot International Airport,22.388056,71.028333,613,,Asia/Kolkata,HSR,IN,,,,AP
 HSS,VIHR,Hissar,29.166668,75.8,682,,Asia/Kolkata,HSS,IN,Hisar,Haryana,Hisar,AP
 HST,KHST,AFB,25.483334,-80.48333,39,http://www.homestead.afrc.af.mil/,America/New_York,HST,US,Homestead,Florida,Miami-Dade County,AP
 HSV,KHSV,Huntsville International Airport,34.63699305,-86.76383388377238,583,http://www.flyhuntsville.com/portal/#.VbaG-_lVhBc,America/Chicago,HSV,US,Madison,Alabama,Madison County,AP
@@ -3339,6 +3341,7 @@ IAB,KIAB,Mcconnell AFB,37.68114,-97.27617,1377,http://public.mcconnell.amc.af.mi
 IAD,KIAD,Washington Dulles International Airport,38.95226625,-77.4534849116007,298,http://www.mwaa.com/dulles/,America/New_York,WAS,US,Floris,Virginia,Fairfax County,AP
 IAG,KIAG,Niagara Falls International Airport,43.1074871,-78.95086767626398,570,,America/New_York,IAG,US,Sanborn,New York,Niagara County,AP
 IAH,KIAH,George Bush Intercontinental Airport,29.9841416,-95.33298595614491,88,http://www.fly2houston.com/iah,America/Chicago,HOU,US,,,,AP
+IAL,,Aeroporto Municipal de Salinas,-16.208333,-42.321944,2503,,America/Sao_Paulo,IAL,BR,,,,AP
 IAM,DAUZ,In Amenas Airport,28.05539045,9.644012211467604,1850,,Africa/Algiers,IAM,DZ,,,,AP
 IAN,PAIK,Bob Baker Memorial Airport,66.9753137,-160.4408276,134,,America/Anchorage,IAN,US,,,,AP
 IAO,RPNS,Sayak (Siargao),9.8588579,126.01524291807397,42,,Asia/Manila,IAO,PH,Libas,Caraga,Province of Surigao del Sur,AP
@@ -3422,6 +3425,7 @@ IJU,SSIJ,J. Batista Bos Filho Airport,-28.416668,-53.916668,1227,,America/Sao_Pa
 IJX,,Municipal,39.774166,-90.23722,606,,America/Chicago,IJX,US,Jacksonville,Illinois,Morgan County,AP
 IKA,OIIE,Imam Khomeini International Airport,35.4164909,51.144760916142786,3261,http://www.ikia.ir/,Asia/Tehran,THR,IR,Robat Karim,Tehran,,AP
 IKB,KUKF,Wilkes County,36.15,-81.15,1010,http://wilkescounty.net/airport/,America/New_York,IKB,US,North Wilkesboro,North Carolina,Wilkes County,AP
+IKE,UEST,Tiksi Airport,71.6975,128.902778,26,,Asia/Yakutsk,IKE,RU,,,,AP
 IKI,RJDB,Iki Airport,33.749026,129.785263,32,,Asia/Tokyo,IKI,JP,Karatsu,Saga Prefecture,,AP
 IKK,KIKK,Greater Kankakee,41.38333,-88.25,501,http://kvaa.com/,America/Chicago,IKK,US,Channahon,Illinois,Will County,AP
 IKL,FZGV,Ikela,-1.666667,23.666668,1584,,Africa/Kinshasa,IKL,CD,,,,AP
@@ -3649,6 +3653,7 @@ JCH,,Qasigiannguit,68.81515,-51.20133,0,,America/Godthab,JCH,GL,,,,AP
 JCI,KIXD,New Century Aircenter Airport,38.833332,-94.9,1118,,America/Chicago,MKC,US,Gardner,Kansas,Johnson County,AP
 JCJ,,Chuja Heliport,33.944443,126.32778,0,,Asia/Seoul,CJU,KR,,,,AP
 JCK,YJLC,Julia Creek,-20.583332,141.7,387,,Australia/Brisbane,JCK,AU,,,,AP
+JCL,LKCS,České Budějovice Airport,48.946389,14.428056,432,,Europe/Prague,JCL,CZ,,,,AP
 JCM,SNJB,Jacobina,-11.1640584,-40.55150285692899,1548,,America/Bahia,JCM,BR,Jacobina,Bahia,Jacobina,AP
 JCN,,Incheon Heliport,37.466667,126.6,16,,Asia/Seoul,JCN,KR,Incheon,Incheon,,AP
 JCO,,Heliport,36.016666,14.333333,42,,Europe/Malta,JCO,MT,Qala,Il-Qala,,AP
@@ -3926,6 +3931,7 @@ KCR,KCR,Colorado Creek,63.5673168,-156.0038862,860,,America/Anchorage,KCR,US,,,,
 KCS,YKCS,Kings Creek Station,-24.383333,131.68333,615,,Australia/Darwin,KCS,AU,,,,AP
 KCT,VCCK,Koggala Airport,5.9941046,80.3205948,10,,Asia/Colombo,KCT,LK,,,,AP
 KCU,HUMI,Masindi,1.683333,31.716667,3850,,Africa/Kampala,KCU,UG,Masindi,Western Region,Masindi District,AP
+KCY,UNKM,Krasnoyarsk Cheremshanka Airport,56.175833,92.542778,942,,Asia/Krasnoyarsk,KCY,RU,,,,AP
 KCZ,RJOK,Kochi Ryoma Airport,33.54634005,133.67104869652374,42,,Asia/Tokyo,KCZ,JP,Kochi-shi,Kochi,,AP
 KDA,GODK,Kolda,12.8989844,-14.96736663625622,33,,Africa/Dakar,KDA,SN,Kolda,Kolda,,AP
 KDB,YKBL,Kambalda,-30.0,120.0,1073,,Australia/Perth,KDB,AU,,,,AP
@@ -4058,6 +4064,7 @@ KJA,UNKL,Yemelyanovo Airport,56.18113,92.48286,942,http://www.kja.aero,Asia/Kras
 KJB,VOKU,Uyyalawada Narasimha Reddy Airport,15.715869600000001,78.1693148104587,920,,Asia/Kolkata,KJB,IN,Orvakal,,Kurnool,AP
 KJH,ZUKJ,Kaili Huangping Airport,26.970256,107.98666700671217,3115,,Asia/Shanghai,KJH,CN,Shiqian,Guizhou Sheng,,AP
 KJI,ZWKN,Kanasi Airport,48.22167,86.99611,3921,,Asia/Shanghai,KJI,CN,Oymak,Xinjiang Uygur Zizhiqu,,AP
+KJJ,HUKJ,Kajjansi Airfield,0.200278,32.55,3743,,Africa/Kampala,KJJ,UG,,,,AP
 KJK,EBKT,Kortrijk,50.8153884,3.2061592,55,http://www.kortrijkairport.be,Europe/Brussels,KJK,BE,Wevelgem,Flanders,Provincie West-Vlaanderen,AP
 KJP,ROKR,Kerama,26.083332,127.333336,156,http://www.pref.okinawa.jp/airport/index/kr/kerama00-e.htm,Asia/Tokyo,KJP,JP,Itoman,Okinawa,,AP
 KJT,WICA,Kertajati International Airport,-6.648582149999999,108.15537620433665,134,,Asia/Jakarta,KJT,ID,Jatiwangi,West Java,,AP
@@ -4356,9 +4363,11 @@ KXD,,Kondinskoye Airport,59.65,67.433333,0,,Asia/Yekaterinburg,KXD,RU,Kondinskoy
 KXE,FAKD,Klerksdorp,-26.870343849999998,26.72008605043584,4444,,Africa/Johannesburg,KXE,ZA,Klerksdorp,North-West,Dr Kenneth Kaunda District Municipality,AP
 KXF,NFNO,Koro Island,-17.333332,179.83333,358,,Pacific/Fiji,KXF,FJ,,,,AP
 KXK,UHKK,Khurba Airport,50.40795985,136.93794822104104,92,,Asia/Vladivostok,KXK,RU,Khurba,Khabarovsk Krai,,AP
+KXO,HUKI,Kisoro Airport,-1.283333,29.719444,6200,,Africa/Kampala,KXO,UG,,,,AP
 KXR,,Karoola,-5.15,154.58333,52,,Pacific/Port_Moresby,KXR,PG,,,,AP
 KXU,NTKT,Katiu,-16.3393993,-144.4029999,7,,Pacific/Tahiti,KXU,PF,,,,AP
 KYA,LTAN,Konya Airport,37.98569035,32.57541721017705,3392,http://www.konya.dhmi.gov.tr/havaalanlari/default.aspx?hv=28,Europe/Istanbul,KYA,TR,Asagipinarbasi,Konya,,AP
+KYB,YKBA,Ken's Bore,-22.156944,116.157222,728,,Australia/Perth,KYB,AU,,,,AP
 KYD,RCLY,Orchid Island,22.083332,121.5,44,,Asia/Taipei,KYD,TW,Hengchun,Taiwan,,AP
 KYE,OLKA,Kleyate,34.58611,36.002777,75,,Asia/Beirut,KYE,LB,Halba,Aakkar,,AP
 KYF,YYLR,Yeelirrie,-27.2833004,120.0830002,0,,Australia/Perth,KYF,AU,,,,AP
