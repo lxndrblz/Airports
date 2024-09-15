@@ -880,7 +880,7 @@ BMW,DATM,Bordj Badji Mokhtar,21.316668,1.033333,1361,,Africa/Algiers,BMW,DZ,Tess
 BMX,PABM,Big Mountain,59.3622374,-155.2515943,646,,America/Anchorage,BMX,US,,,,AP
 BMY,NWWC,Belep Island,-19.75,163.66667,518,,Pacific/Noumea,BMY,NC,Wala,North Province,Belep,AP
 BMZ,AYBF,Bamu,-7.846989799999999,143.24145398170833,26,,Pacific/Port_Moresby,BMZ,PG,,,,AP
-BNA,KBNA,Nashville International Airport,36.11958985,-86.68308703291842,583,http://www.flynashville.com/,America/Chicago,BNA,US,Lakewood,Tennessee,Davidson County,AP
+BNA,KBNA,Nashville International Airport,36.11958985,-86.68308703291842,583,http://www.flynashville.com/,America/Chicago,BNA,US,Nashville,Tennessee,Davidson County,AP
 BNB,FZGN,Boende,-0.233056,20.87,1095,,Africa/Kinshasa,BNB,CD,Boende,Equateur,,AP
 BNC,FZNP,Beni,0.566667,29.466667,3408,,Africa/Lubumbashi,BNC,CD,,,,AP
 BND,OIKB,Bandar Abbas International Airport,27.222036449999997,56.37856860111275,45,,Asia/Tehran,BND,IR,Bandar 'Abbas,Hormozgan,,AP
@@ -3340,7 +3340,7 @@ IAA,UOII,Igarka Airport,67.43420384999999,86.63030252298526,55,,Asia/Krasnoyarsk
 IAB,KIAB,Mcconnell AFB,37.68114,-97.27617,1377,http://public.mcconnell.amc.af.mil/,America/Chicago,ICT,US,,,,AP
 IAD,KIAD,Washington Dulles International Airport,38.95226625,-77.4534849116007,298,http://www.mwaa.com/dulles/,America/New_York,WAS,US,Floris,Virginia,Fairfax County,AP
 IAG,KIAG,Niagara Falls International Airport,43.1074871,-78.95086767626398,570,,America/New_York,IAG,US,Sanborn,New York,Niagara County,AP
-IAH,KIAH,George Bush Intercontinental Airport,29.9841416,-95.33298595614491,88,http://www.fly2houston.com/iah,America/Chicago,HOU,US,,,,AP
+IAH,KIAH,George Bush Intercontinental Airport,29.9841416,-95.33298595614491,88,http://www.fly2houston.com/iah,America/Chicago,HOU,US,Houston,Texas,Harris County,AP
 IAL,,Aeroporto Municipal de Salinas,-16.208333,-42.321944,2503,,America/Sao_Paulo,IAL,BR,,,,AP
 IAM,DAUZ,In Amenas Airport,28.05539045,9.644012211467604,1850,,Africa/Algiers,IAM,DZ,,,,AP
 IAN,PAIK,Bob Baker Memorial Airport,66.9753137,-160.4408276,134,,America/Anchorage,IAN,US,,,,AP
