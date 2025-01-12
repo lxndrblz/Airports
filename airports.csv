@@ -8836,6 +8836,7 @@ WHF,HSSW,Wadi Halfa,21.75,31.5,830,,Africa/Khartoum,WHF,SD,Abu Sunbul,Aswan,,AP
 WHH,,Hiltons Har H,40.030556,-105.23472,5242,,America/Denver,WBU,US,,,,AP
 WHK,NZWK,Whakatane Airport,-37.92149575,176.9146790652377,29,,Pacific/Auckland,WHK,NZ,Whakatane,Bay of Plenty,Whakatane District,AP
 WHL,,Welshpool,-38.68889,146.45,32,,Australia/Melbourne,WHL,AU,Morwell,Victoria,Latrobe,AP
+WHN,,Wuhan Hannan General Airport,30.251781,114.055361,82,,Asia/Shanghai,WHN,CN,Wuhan,,,AP
 WHO,NZFJ,Franz Josef,-43.36951,170.1803436,400,,Pacific/Auckland,WHO,NZ,Hokitika,West Coast,Westland District,AP
 WHP,KWHP,Whiteman,34.05,-118.25,387,,America/Los_Angeles,LAX,US,Los Angeles,California,Los Angeles County,AP
 WHS,EGEH,Whalsay,60.3765415,-0.9273154337203355,78,,Europe/London,WHS,GB,Shetland,Scotland,Shetland Islands,AP
@@ -8954,6 +8955,7 @@ WSM,WSM,Wiseman,67.4059294,-150.1190072,1286,,America/Anchorage,WSM,US,Nuiqsut,A
 WSN,PFWS,South Naknek,58.6995042,-156.99996786405472,85,,America/Anchorage,WSN,US,Dillingham,Alaska,Dillingham Census Area,AP
 WSO,SMWS,Washabo,5.21277015,-57.18576351610666,13,,America/Paramaribo,WSO,SR,Skeldon,East Berbice-Corentyne,,AP
 WSP,MNWP,Waspam,14.683333,-84.01667,239,,America/Managua,WSP,NI,Waspam,Atlantico Norte (RAAN),,AP
+WSQ,,Uxin Banner Galutu Airport,38.62056,108.82306,4327,,Asia/Shanghai,WSQ,CN,,,,AP
 WSR,WASW,Wasior,-2.7193901499999997,134.50590705997075,29,,Asia/Jayapura,WSR,ID,Wasior,Papua,,AP
 WST,KWST,Westerly State,41.34881540000001,-71.80321330152228,95,,America/New_York,WST,US,Westerly,Rhode Island,Washington County,AP
 WSU,AYWS,Wasu,-5.95,147.23334,26,,Pacific/Port_Moresby,WSU,PG,Lae,Morobe,,AP
@@ -8973,6 +8975,7 @@ WTP,AYWT,Woitape,-8.54772455,147.25395091465032,5144,,Pacific/Port_Moresby,WTP,P
 WTR,E24,White River,33.85,-109.96667,5364,,America/Phoenix,WTR,US,Whiteriver,Arizona,Navajo County,AP
 WTS,FMMX,Tsiroanomandidy,-18.7633668,46.0511898,2719,,Indian/Antananarivo,WTS,MG,Tsiroanomandidy,Bongolava,,AP
 WTT,AYWC,Wantoat,-6.05,146.4,8999,,Pacific/Port_Moresby,WTT,PG,Kainantu,Eastern Highlands,,AP
+WTX,,Way Tuba Gatot Subroto Airport,-4.39411,104.40273,321,,Asia/Jakarta,WTX,ID,Lampung,,,AP
 WTZ,NZWT,Whitianga,-36.8286352,175.68306307022814,26,,Pacific/Auckland,WTZ,NZ,Whitianga,Waikato,Thames-Coromandel District,AP
 WUA,ZBUH,Wuhai Airport,39.79309335,106.80162442724838,3566,,Asia/Shanghai,WUA,CN,Wuhai,Inner Mongolia,,AP
 WUD,YWUD,Wudinna,-33.016666,135.61945,272,,Australia/Adelaide,WUD,AU,Caralue,South Australia,Kimba,AP
@@ -9284,6 +9287,7 @@ YHF,CYHF,Hearst,49.714139700000004,-83.68811012191951,827,,America/Toronto,YHF,C
 YHG,,Charlottetown,52.766666,-56.1,0,,America/St_Johns,YHG,CA,,,,AP
 YHH,CAE3,Harbor SPB,49.94639,-125.26556,0,,America/Vancouver,YBL,CA,,,,AP
 YHI,CYHI,Holman,70.71667,-117.71667,117,,America/Yellowknife,YHI,CA,,,,AP
+YHJ,ZSYH,Nanchang Yaohu Airport,28.700972,116.107694,50,,Asia/Shanghai,YHJ,CN,,,,AP
 YHK,CYHK,Gjoa Haven Airport,68.6368488,-95.85487461213016,152,,America/Cambridge_Bay,YHK,CA,,,,AP
 YHM,CYHM,Hamilton Airport,43.16138,-79.92631,780,http://www.flyhi.ca/,America/Toronto,YTO,CA,Ancaster,Ontario,,AP
 YHN,CYHN,Hornepayne,49.1931,-84.7589035,1099,,America/Toronto,YHN,CA,,,,AP
@@ -9539,6 +9543,7 @@ YUA,ZPYM,Yuanmou,25.65,101.916664,3810,,Asia/Shanghai,YUA,CN,Yuanmou,Yunnan,,AP
 YUB,CYUB,Tuktoyaktuk,69.4309915,-133.01773322448315,15,,America/Yellowknife,YUB,CA,Inuvik,Northwest Territories,,AP
 YUD,CYMU,Umiujaq,56.5382204,-76.5191558,250,,America/Montreal,YUD,CA,,,,AP
 YUE,YYND,Yuendumu,-22.2542,131.7819977,2205,,Australia/Darwin,YUE,AU,Alice Springs,Northern Territory,Alice Springs,AP
+YUK,UDCK,Syunik Airport,39.202,46.455,2308,,Asia/Yerevan,YUK,AM,Kapan,,,AP
 YUL,CYUL,Montreal-Pierre Elliott Trudeau International Airport,45.46873715,-73.74257166095532,118,http://www.admtl.com/passager/Home.aspx,America/Montreal,YMQ,CA,Dorval,Quebec,,AP
 YUM,KNYL,Yuma International Airport,32.6685246,-114.5985167,213,,America/Phoenix,YUM,US,Yuma,Arizona,Yuma County,AP
 YUS,ZYLS,Yushu Batang Airport,32.836430500000006,97.03762704809733,12816,,Asia/Shanghai,YUS,CN,,,,AP
