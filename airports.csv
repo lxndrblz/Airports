@@ -14,7 +14,7 @@ AAL,EKYT,Aalborg Airport,57.0864352,9.868075521300991,19,http://www.aal.dk,Europ
 AAM,FAMD,Mala Mala,-24.8,31.533333,1082,,Africa/Johannesburg,AAM,ZA,,,,AP
 AAN,OMAL,Al Ain Airport,24.260231,55.616627,830,,Asia/Dubai,AAN,AE,,,,AP
 AAO,SVAN,Anaco,9.4298739,-64.47086334549915,692,,America/Caracas,AAO,VE,Anaco,Anzoategui,Municipio Anaco,AP
-AAP,WALS,Andrau Airpark,29.833332,-95.666664,154,http://www.proyek.dishubprovkaltim.info/?pro=1,America/Chicago,HOU,US,,,,AP
+AAP,WALS,Aji Pangeran Tumenggung Pranoto International Airport,-0.373611,117.255556,154,http://www.proyek.dishubprovkaltim.info/?pro=1,Asia/Jakarta,AAP,ID,,,,AP
 AAQ,URKA,Anapa Airport,45.00265265,37.34498313723325,137,http://basel.aero/en/anapa/,Europe/Moscow,AAQ,RU,Anapa,Krasnodarskiy,,AP
 AAR,EKAH,Aarhus Airport,56.304542549999994,10.612849817576597,45,http://www.aar.dk/default.asp?id=87,Europe/Copenhagen,AAR,DK,Ebeltoft,Central Jutland,Syddjurs Kommune,AP
 AAS,,Apalapsili,-3.880849,139.3107060627146,3005,,Asia/Jayapura,AAS,ID,,,,AP
@@ -3712,7 +3712,6 @@ JGE,,Heliport,34.9,128.68333,137,,Asia/Seoul,JGE,KR,Sinhyeon,Gyeongsangnam-do,,A
 JGL,,Galleria Heliport,33.886112,-84.46694,961,,America/New_York,ATL,US,Vinings,Georgia,Cobb County,AP
 JGN,ZLJQ,Jiayuguan Airport,39.833332,98.416664,4960,,Asia/Shanghai,JGN,CN,Jiayuguan,Gansu Sheng,,AP
 JGO,,Qeqertarsuaq,69.25,-53.566666,0,,America/Godthab,JGO,GL,,,,AP
-JGP,,Greenway Plaza Heliport,29.666668,-95.25,49,,America/Chicago,HOU,US,South Houston,Texas,Harris County,AP
 JGQ,,Transco Twr Galleria,29.766666,-95.46667,104,,America/Chicago,HOU,US,Hunters Creek Village,Texas,Harris County,AP
 JGR,,Heliport,61.233334,-48.1,26,,America/Godthab,JGR,GL,,,,AP
 JGS,ZSJA,Ji'An/Jing Gang Shan Airport,26.899721,114.7375,219,,Asia/Shanghai,JGS,CN,Denglong,Jiangxi Sheng,,AP
@@ -7117,7 +7116,6 @@ RSX,K21,Rouses Point,44.991696,-73.3629941,95,https://www.dot.ny.gov/divisions/o
 RTA,NFNR,Rotuma Island,-12.4825,177.0711,16,,Pacific/Fiji,RTA,FJ,Ahau,Rotuma,,AP
 RTB,MHRO,Roatan Airport,16.3169504,-86.5248116875334,36,,America/Tegucigalpa,RTB,HN,Coxen Hole,Bay Islands,Roatan,AP
 RTC,VARG,Ratnagiri,17.01486015,73.3303872302339,344,,Asia/Kolkata,RTC,IN,Ratnagiri,Maharashtra,Ratnagiri,AP
-RTD,,Rotunda,26.866667,-82.26667,36,,America/New_York,RTD,US,Rotonda,Florida,Charlotte County,AP
 RTE,,Marguerite Bay,55.7,-131.63333,29,,America/Anchorage,RTE,US,,,,AP
 RTG,WATG,Ruteng,-8.59664555,120.47889054784591,3733,,Asia/Makassar,RTG,ID,Ruteng,East Nusa Tenggara,,AP
 RTI,WATR,Roti,-10.883333,122.96667,0,http://rti.otoritasbandara.info/,Asia/Makassar,RTI,ID,Batutua Satu,East Nusa Tenggara,,AP
@@ -7588,7 +7586,7 @@ SPT,,Sipitang,5.083333,115.55,0,,Asia/Kuching,SPT,MY,Beaufort,Sabah,,AP
 SPU,LDSP,Split Airport,43.5397753,16.300224163865497,55,,Europe/Zagreb,SPU,HR,Trogir,Splitsko-Dalmatinska,Grad Trogir,AP
 SPV,AYSQ,Sepik Plains,-3.816667,144.5,26,,Pacific/Port_Moresby,SPV,PG,,,,AP
 SPW,KSPW,Spencer Municipal,43.166146850000004,-95.20352113315774,1332,http://spenceriowacity.com/airport.php,America/Chicago,SPW,US,Spencer,Iowa,Clay County,AP
-SPX,HESX,Houston Gulf Airport,29.766666,-95.433334,157,,America/Chicago,HOU,US,West University Place,Texas,Harris County,AP
+SPX,HESX,Sphinx International Airport,30.109722,30.894444,553,,Africa/Cairo,SPX,EG,,,,AP
 SPY,DISP,San Pedro,4.730278,-6.626944,13,,Africa/Abidjan,SPY,CI,San-Pedro,Bas-Sassandra,,AP
 SPZ,KASG,Springdale Municipal,36.17580785,-94.11966333062685,1345,,America/Chicago,SPZ,US,Springdale,Arkansas,Washington County,AP
 SQA,KIZA,Santa Ynez,34.066666,-118.566666,1033,http://www.santaynezairport.com/info.html,America/Los_Angeles,SQA,US,Topanga,California,Los Angeles County,AP
