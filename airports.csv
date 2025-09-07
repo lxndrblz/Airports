@@ -1541,7 +1541,7 @@ COR,SACO,Ingeniero Aeronautico Ambrosio L.V. Taravella International Airport,-31
 COS,KCOS,Colorado Springs Airport,38.8004299,-104.70327708699932,6131,https://flycos.coloradosprings.gov/,America/Denver,COS,US,Security-Widefield,Colorado,El Paso County,AP
 COT,KCOT,Cotulla,28.4585165,-99.22114405284648,449,http://www.cotullaairport.com/,America/Chicago,COT,US,Cotulla,Texas,La Salle County,AP
 COU,KCOU,Columbia Regional Airport,38.8168307,-92.2198931,862,,America/Chicago,COU,US,Ashland,Missouri,Boone County,AP
-COV,,Covilha,40.283333,-7.5,1948,,Europe/Lisbon,COV,PT,Covilha,Castelo Branco,Covilha,AP
+COV,LTDB,Cukurova International Airport,36.896944,35.0675,6,https://cukurovaairport.aero/,Europe/Istanbul,COV,TR,Tarsus,,Mersin,AP
 COW,SCCQ,Coquimbo,-32.8,-70.63333,2486,,America/Santiago,COW,CL,Los Andes,Valparaiso,Provincia de Los Andes,AP
 COY,YCWY,Coolawanyah,-21.85,117.75,1151,,Australia/Perth,COY,AU,,,,AP
 COZ,MDCZ,Constanza,18.9,-70.71667,3877,,America/Santo_Domingo,COZ,DO,Constanza,La Vega,Constanza,AP
