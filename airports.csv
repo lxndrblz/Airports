@@ -3676,21 +3676,15 @@ JCO,,Heliport,36.016666,14.333333,42,,Europe/Malta,JCO,MT,Qala,Il-Qala,,AP
 JCR,SBEK,Jacareacanga,-5.983333,-57.533333,557,,America/Santarem,JCR,BR,,,,AP
 JCS,SNWS,Aeroporto De Crateus Airport,-5.21230869969,-40.7045819389,1026,http://www.crateus.ce.gov.br/,America/Fortaleza,JCS,BR,Crateus,,,AP
 JCT,KJCT,Kimble County,30.510357550000002,-99.76556102069245,1666,,America/Chicago,JCT,US,Junction,Texas,Kimble County,AP
-JCU,,Ceuta Heliport,35.899166,-5.338333,0,,Africa/Ceuta,JCU,ES,Ceuta,Ceuta,Ceuta,AP
 JCY,0TE7,Johnson,30.283333,-98.416664,1200,,America/Chicago,JCY,US,Johnson City,Texas,Blanco County,AP
 JDA,KGCD,John Day,44.403653399999996,-118.97729130421767,3638,,America/Los_Angeles,JDA,US,John Day,Oregon,Grant County,AP
-JDB,,Downtown Heliport,32.766666,-97.316666,518,,America/Chicago,DFW,US,Fort Worth,Texas,Tarrant County,AP
 JDE,,Jiande Qiandaohu Airport,29.354412074477,119.18551273837,180,,Asia/Shanghai,JDE,CN,Jiande,,,AP
 JDF,SBJF,Francisco De Assis,-21.75,-43.333332,2562,,America/Sao_Paulo,JDF,BR,Juiz de Fora,Minas Gerais,Juiz De Fora,AP
 JDG,RKPD,Jeongseok,33.3926049,126.71186447715885,1053,,Asia/Seoul,JDG,KR,Seogwipo,Jeju-do,,AP
 JDH,VIJO,Jodhpur Airport,26.263920249999998,73.05054509038675,751,,Asia/Kolkata,JDH,IN,Jodhpur,Rajasthan,Jodhpur,AP
-JDM,,Miami Downtown Heliport,25.75,-80.25,65,,America/New_York,MIA,US,Coral Gables,Florida,Miami-Dade County,AP
 JDN,KJDN,Jordan,47.316666,-106.88333,2624,,America/Denver,JDN,US,Jordan,Montana,Garfield County,AP
 JDO,SBJU,Orlando Bezerra de Menezes Airport,-7.2,-39.316666,1243,,America/Fortaleza,JDO,BR,Juazeiro do Norte,Ceara,Juazeiro Do Norte,AP
-JDP,,Heliport De Paris,48.816666,2.283333,255,,Europe/Paris,PAR,FR,Issy-les-Moulineaux,Ile-de-France,Departement des Hauts-de-Seine,AP
 JDR,SNJR,Sao Joao Del Rei,-21.0852396,-44.224610172835526,3057,,America/Sao_Paulo,JDR,BR,Tiradentes,Minas Gerais,Tiradentes,AP
-JDT,,Downtown Heliport,44.983334,-93.26667,902,,America/Chicago,MSP,US,Minneapolis,Minnesota,Hennepin County,AP
-JDY,,Heliport,33.933334,-118.11667,118,,America/Los_Angeles,JDY,US,Downey,California,Los Angeles County,AP
 JDZ,ZSJD,Jingdezhen Airport,29.3432402,117.17988248363616,147,,Asia/Shanghai,JDZ,CN,Hongyuan,Jiangxi Sheng,,AP
 JED,OEJN,King Abdulaziz International Airport,21.6836591,39.16367476310531,26,http://www.jed-airport.com/,Asia/Riyadh,JED,SA,Jeddah,Makkah,,AP
 JEE,MTJE,Jeremie,18.66309045,-74.16970398819535,177,,America/Port-au-Prince,JEE,HT,Jeremie,Grandans,,AP
@@ -3698,38 +3692,26 @@ JEF,KJEF,Memorial,38.59222,-92.15639,544,https://www.jeffcitymo.org/publicworks/
 JEG,BGAA,Aasiaat Airport,68.7218676,-52.784103450705786,39,http://airgreenland.com/om_rejsen/efter_rejsen/din_destination_/aasiaat/,America/Godthab,JEG,GL,,,,AP
 JEJ,,Jeh,7.5653501,168.9620056,45,,Pacific/Majuro,JEJ,MH,,,,AP
 JEK,FLJK,Jeki Airport,-15.6334,29.6036,1131,,Africa/Lusaka,JEK,ZM,Luangwa,Lusaka,,AP
-JEM,,Heliport,37.833332,-122.3,0,,America/Los_Angeles,JEM,US,Emeryville,California,Alameda County,AP
 JEQ,SNJK,Jequie,-13.8775218,-40.071268208841715,610,,America/Bahia,JEQ,BR,Jequie,Bahia,Jequie,AP
 JER,EGJJ,Jersey Airport,49.2055732,-2.1949438,298,http://www.jerseyairport.com/,Europe/Jersey,JER,JE,Saint Helier,St Helier,,AP
 JFK,KJFK,John F. Kennedy International Airport,40.642947899999996,-73.7793733748521,45,https://www.jfkairport.com/,America/New_York,NYC,US,Inwood,New York,Nassau County,AP
-JFM,,Heliport,-32.05,115.75,26,,Australia/Perth,JFM,AU,North Fremantle,Western Australia,Fremantle,AP
 JFN,KHZY,Ashtabula,41.733334,-80.76667,925,http://www.neohioregionalairport.com/,America/New_York,JFN,US,Jefferson,Ohio,Ashtabula County,AP
 JFR,BGPT,Paamiut Airport,62.014621250000005,-49.67085832613154,78,,America/Godthab,JFR,GL,,,,AP
 JGA,VAJM,Govardhanpur Airport,22.466835250000003,70.00708076073744,36,,Asia/Kolkata,JGA,IN,Bedi,Gujarat,Jamnagar,AP
 JGB,,Jagdalpur,19.0734828,82.03477402779657,1837,,Asia/Kolkata,JGB,IN,Jagdalpur,Chhattisgarh,Bastar,AP
 JGD,ZYJD,Jiagedaqi Airport,50.371759749999995,124.1158382750555,1167,,Asia/Shanghai,JGD,CN,Jagdaqi,Inner Mongolia,,AP
-JGE,,Heliport,34.9,128.68333,137,,Asia/Seoul,JGE,KR,Sinhyeon,Gyeongsangnam-do,,AP
-JGL,,Galleria Heliport,33.886112,-84.46694,961,,America/New_York,ATL,US,Vinings,Georgia,Cobb County,AP
 JGN,ZLJQ,Jiayuguan Airport,39.833332,98.416664,4960,,Asia/Shanghai,JGN,CN,Jiayuguan,Gansu Sheng,,AP
-JGO,,Qeqertarsuaq,69.25,-53.566666,0,,America/Godthab,JGO,GL,,,,AP
-JGQ,,Transco Twr Galleria,29.766666,-95.46667,104,,America/Chicago,HOU,US,Hunters Creek Village,Texas,Harris County,AP
-JGR,,Heliport,61.233334,-48.1,26,,America/Godthab,JGR,GL,,,,AP
 JGS,ZSJA,Ji'An/Jing Gang Shan Airport,26.899721,114.7375,219,,Asia/Shanghai,JGS,CN,Denglong,Jiangxi Sheng,,AP
-JGX,,Heliport,34.166668,-118.28333,492,,America/Los_Angeles,JGX,US,North Glendale,California,Los Angeles County,AP
 JHB,WMKJ,Senai Airport,1.605881,103.6482705,59,,Asia/Kuala_Lumpur,JHB,MY,Taman Senai,Johor,,AP
-JHC,,Island Heliport,40.783333,-74.1,36,,America/New_York,JHC,US,North Arlington,New Jersey,Bergen County,AP
-JHE,,Heliport,56.033333,12.7,19,,Europe/Stockholm,AGH,SE,,,,AP
 JHF,SBJH,São Paulo Catarina Executive Airport,-23.426886,-47.165658,2562,,America/Sao_Paulo,JHF,BR,São Roque,Sao Paulo,,AP
 JHG,ZPJH,Xishuangbanna Gasa Airport,21.9746108,100.76425763644288,1797,,Asia/Shanghai,JHG,CN,Jinghong,Yunnan,,AP
 JHL,CAL4,Albian,57.2329368,-111.4254582,964,,America/Edmonton,HZP,CA,,,,AP
 JHM,PHJH,Kapalua Airport,20.965572799999997,-156.6715646726954,223,,Pacific/Honolulu,JHM,US,Napili-Honokowai,Hawaii,Maui County,AP
 JHS,BGSS,Sisimiut Airport,66.9508865,-53.72691239490176,9,https://www.mit.gl/en/todays-flights/airports/sisimiut-airport/,America/Godthab,JHS,GL,,,,AP
 JHW,KJHW,Jamestown Airport,42.15277265,-79.26453974336357,1735,,America/New_York,JHW,US,Celoron,New York,Chautauqua County,AP
-JHY,,Hyatt Regency Heliport,42.36667,-71.102776,36,,America/New_York,JHY,US,Cambridge,Massachusetts,Middlesex County,AP
 JIA,SWJN,Juina,-11.5,-58.88333,1069,,America/Cuiaba,JIA,BR,,,,AP
 JIB,HDAM,Djibouti-Ambouli International Airport,11.54800385,43.15864050716333,29,,Africa/Djibouti,JIB,DJ,Djibouti,Djibouti,,AP
 JIC,ZLJC,Jinchuan Airport,38.54139000000001,102.3486172295005,4776,,Asia/Shanghai,JIC,CN,Jinchang,Gansu Sheng,Jinchang Shi,AP
-JID,,City Of Industry Heliport,34.0,-118.0,889,,America/Los_Angeles,LAX,US,Hacienda Heights,California,Los Angeles County,AP
 JIJ,HAJJ,Jigiga Airport,9.366667,42.766666,5570,,Africa/Addis_Ababa,JIJ,ET,Jijiga,Somali,,AP
 JIK,LGIK,Ikaria Airport,37.6829412,26.346215400974874,65,,Europe/Athens,JIK,GR,Agios Kirykos,North Aegean,Nomos Samou,AP
 JIL,ZYJL,Jilin,43.86667,126.65,859,,Asia/Shanghai,JIL,CN,Jilin,Jilin Sheng,,AP
@@ -3747,24 +3729,18 @@ JJG,SBJA,Jaguaruna Regional Airport,-28.66726125,-49.05437795338313,82,http://ww
 JJI,SPJI,Juanjui,-7.1661,-76.72659659021983,849,,America/Lima,JJI,PE,Juanjui,San Martin,Provincia de Mariscal Caceres,AP
 JJM,HKMK,Mulika Lodge Airport,0.233194,38.183334,2158,,Africa/Nairobi,JJM,KE,Maua,Isiolo,,AP
 JJN,ZSQZ,Quanzhou Jinjiang International Airport,24.79702915,118.58870501999499,29,,Asia/Shanghai,JJN,CN,Jinjiang,Fujian,,AP
-JJU,,Heliport,60.716667,-46.033333,0,,America/Godthab,JJU,GL,Qaqortoq,Kujalleq,,AP
 JKG,ESGJ,Axamo Airport,57.76018705,14.06703041585528,754,http://www.lfv.se/templates/LFV_AirportStartPage____1672.aspx,Europe/Stockholm,JKG,SE,Taberg,Joenkoeping,Jonkopings Kommun,AP
 JKH,LGHI,Chios Airport,38.3421243,26.140171285583204,29,http://www.hcaa-eleng.gr/chios.htm,Europe/Athens,JKH,GR,Chios,North Aegean,Chios,AP
 JKL,LGKY,Kalymnos Island National Airport,36.9632747,26.939981365194278,715,,Europe/Athens,JKL,GR,Kalymnos,South Aegean,Nomos Dodekanisou,AP
 JKR,VNJP,Janakpur Airport,26.710195149999997,85.92374733048763,203,,Asia/Kathmandu,JKR,NP,Janakpur,Central Region,,AP
 JKV,KJSO,Cherokee County,31.966667,-95.333336,620,,America/Chicago,JKV,US,Jacksonville,Texas,Cherokee County,AP
 JLA,JLA,Quartz Creek,60.483334,-149.85,633,,America/Anchorage,JLA,US,,,,AP
-JLB,,Long Beach Heliport,33.749293,-118.190323,16,,America/Los_Angeles,LGB,US,Long Beach,California,,AP
-JLD,,Heliport,56.05,12.7,108,,Europe/Stockholm,JLD,SE,Helsingborg,Skane,Helsingborg,AP
 JLG,VAJL,Jalgaon Airport,20.961944,75.626667,840,,Asia/Kolkata,JLG,IN,,,,AP
-JLH,,US Army Heliport,42.083332,-87.98333,708,,America/Chicago,JLH,US,Arlington Heights,Illinois,Cook County,AP
 JLN,KJLN,Joplin Airport,37.149723,-94.49778,944,,America/Chicago,JLN,US,Webb City,Missouri,Jasper County,AP
 JLR,VAJB,Jabalpur Airport,22.666668,79.925,1781,,Asia/Kolkata,JLR,IN,Ghansor,Madhya Pradesh,Seoni,AP
 JLS,SDJL,Jales,-20.166668,-50.55,1532,,America/Sao_Paulo,JLS,BR,Jales,Sao Paulo,Jales,AP
-JLX,,Union Station Heliport,34.166668,-118.333336,554,,America/Los_Angeles,LAX,US,Burbank,California,Los Angeles County,AP
 JMA,,Marriot Astrodome,29.983334,-95.34,121,,America/Chicago,HOU,US,Aldine,Texas,Harris County,AP
 JMB,,Jamba,-14.6981594,16.0643943,4914,,Africa/Luanda,JMB,AO,Caconda,Huila,,AP
-JMC,,Marin County,37.878613,-122.50972,0,,America/Los_Angeles,JMC,US,Marin City,California,Marin County,AP
 JMJ,ZPJM,Lancang Jingmai Airport,22.4162629,99.78555418663683,4347,,Asia/Shanghai,JMJ,CN,Menglang,Yunnan,,AP
 JMK,LGMK,Mikonos Airport,37.43499285,25.347326478108187,357,,Europe/Athens,JMK,GR,Mykonos,South Aegean,Nomos Kykladon,AP
 JMO,VNJS,Jomsom,28.7803407,83.72299188531906,8982,,Asia/Kathmandu,JMO,NP,Jomsom,Western Region,Dhawalagiri Zone,AP
