@@ -21,7 +21,6 @@ AAS,,Apalapsili,-3.880849,139.3107060627146,3005,,Asia/Jayapura,AAS,ID,,,,AP
 AAT,ZWAT,Altay Airport,47.74833705,88.08948249042332,2408,,Asia/Urumqi,AAT,CN,Awiytan,Xinjiang Uygur Zizhiqu,,AP
 AAU,NSAU,Asau,-13.458333,-172.6,0,,Pacific/Apia,AAU,WS,Asau,Vaisigano,,AP
 AAV,RPMA,Allah Valley,6.36768745,124.75266160348093,629,,Asia/Manila,AAV,PH,Surallah,South Cotabato,,AP
-AAW,OPAB,Abbottabad,34.2,73.25,4061,,Asia/Karachi,AAW,PK,Abbottabad,Khyber Pakhtunkhwa,,AP
 AAX,SBAX,Araxa Airport,-19.563132000000003,-46.96040575380038,3267,,America/Sao_Paulo,AAX,BR,Araxa,Minas Gerais,Araxa,AP
 AAY,OYGD,Al Ghaydah,16.1879658,52.17271501755243,114,,Asia/Aden,AAY,YE,Al Ghayzah,Al Mahrah,Al Ghaydah,AP
 AAZ,MGQZ,Quetzaltenango,14.8611558,-91.5067713438188,7795,,America/Guatemala,AAZ,GT,Olintepeque,Quetzaltenango,,AP
@@ -102,11 +101,9 @@ ADY,FAAL,Alldays,-22.67767555,29.053395555022227,2683,,Africa/Johannesburg,ADY,Z
 ADZ,SKSP,Gustavo Rojas Pinilla Airport,12.586047,-81.70221,39,,America/Bogota,ADZ,CO,San Andres,"Archipielago de San Andres, Providencia y Santa Catalina",,AP
 AEA,NGTB,Abemama Atoll,0.490833,173.8289948,36,,Pacific/Tarawa,AEA,KI,,,,AP
 AEB,ZGBS,Youjiang,23.72020895,106.9609714096124,452,,Asia/Shanghai,AEB,CN,Tianzhou,Guangxi Zhuangzu Zizhiqu,,AP
-AED,,Aleneva,58.033333,-152.9,1099,,America/Anchorage,AED,US,,,,AP
 AEE,,Adareil Airport,10.052439199999998,32.962007213556745,1246,,Africa/Juba,AEE,SS,,,,AP
 AEG,WIME,Aek Godang,1.3999603999999999,99.42983272544998,925,,Asia/Jakarta,AEG,ID,Padangsidempuan,North Sumatra,,AP
 AEH,FTTC,Abéché,13.8465726,20.849645040165157,1778,,Africa/Ndjamena,AEH,TD,Abeche,Ouaddai,,AP
-AEI,,Algeciras,36.1289,-5.441301,42,,Europe/Madrid,AEI,ES,Algeciras,Andalusia,Provincia de Cadiz,AP
 AEK,AYAX,Aseki,-7.366667,146.28334,3694,,Pacific/Port_Moresby,AEK,PG,,,,AP
 AEL,KAEL,Albert Lea,43.6800949,-93.36737639309429,1250,,America/Chicago,AEL,US,Albert Lea,Minnesota,Freeborn County,AP
 AEM,UHTG,Amgu,45.8414555,137.67364088576272,22,,Asia/Vladivostok,AEM,RU,,,,AP
@@ -145,7 +142,6 @@ AGI,SMWA,Wageningen,5.833333,-56.833332,19,,America/Paramaribo,AGI,SR,Wageningen
 AGJ,RORA,Aguni,26.59300295,127.23985985060742,32,,Asia/Tokyo,AGJ,JP,,,,AP
 AGK,,Kagua,-6.403333,143.84666,5554,,Pacific/Port_Moresby,AGK,PG,,,,AP
 AGL,AYWG,Wanigela,-9.33738355,149.15610272068812,29,,Pacific/Port_Moresby,AGL,PG,,,,AP
-AGM,,Tasiilaq,65.6,-37.683334,534,,America/Godthab,AGM,GL,,,,AP
 AGN,PAGN,Angoon,57.503887,-134.58333,0,,America/Juneau,AGN,US,,,,AP
 AGO,KAGO,Municipal,33.266666,-93.23333,314,,America/Chicago,AGO,US,Magnolia,Arkansas,Columbia County,AP
 AGP,LEMG,Malaga Airport,36.67876135,-4.499980126161259,52,,Europe/Madrid,AGP,ES,,,,AP
@@ -277,7 +273,6 @@ AMN,KAMN,Gratiot Community,43.38333,-84.65,751,http://www.ci.alma.mi.us/1/307/ai
 AMO,FTTU,Mao,14.116667,15.316667,1049,,Africa/Ndjamena,AMO,TD,Mao,Kanem,,AP
 AMP,FMSY,Ampanihy,-24.6996994,44.7341995,725,,Indian/Antananarivo,AMP,MG,Ampanihy,Atsimo-Andrefana,,AP
 AMQ,WAPP,Pattimura Airport,-3.7111152499999998,128.0878877356375,49,,Asia/Jayapura,AMQ,ID,Amahusu,Maluku,,AP
-AMR,,Arno,7.033333,171.23334,0,,Pacific/Majuro,AMR,MH,,,,AP
 AMS,EHAM,Amsterdam Airport Schiphol,52.32697895,4.741505200022974,36,http://www.schiphol.nl/,Europe/Amsterdam,AMS,NL,Aalsmeer,North Holland,Gemeente Aalsmeer,AP
 AMT,YAMT,Amata,-26.766666,132.03334,1748,,Australia/Adelaide,AMT,AU,,,,AP
 AMU,AYAM,Amanab,-3.516667,141.15,1112,,Pacific/Port_Moresby,AMU,PG,,,,AP
@@ -293,7 +288,6 @@ AND,KAND,Anderson,34.49361,-82.71,728,,America/New_York,AND,US,Centerville,South
 ANE,LFJR,Angers-Marce Airport,47.466667,-0.55,144,,Europe/Paris,ANE,FR,,,,AP
 ANF,SCFA,Cerro Moreno International Airport,-23.452375699999997,-70.43973434352753,347,,America/Santiago,ANF,CL,Antofagasta,Antofagasta,Provincia de Antofagasta,AP
 ANG,LFBU,Brie-Champniers,45.733334,0.216667,396,,Europe/Paris,ANG,FR,Champniers,Poitou-Charentes,Departement de la Charente,AP
-ANH,,Anuha Island Resort,-8.983333,160.5,0,,Pacific/Guadalcanal,ANH,SB,,,,AP
 ANI,PANI,Aniak Airport,61.5813889,-159.5427778,49,,America/Anchorage,ANI,US,,,,AP
 ANJ,FCBZ,Zanaga,-2.8474064,13.8214267,1863,,Africa/Brazzaville,ANJ,CG,,,,AP
 ANK,LTAD,Etimesgut,39.951794199999995,32.68941441008361,2627,,Europe/Istanbul,ANK,TR,Batikent,Ankara,,AP
@@ -305,7 +299,6 @@ ANP,KANP,Lee,38.983334,-76.5,29,,America/New_York,ANP,US,Annapolis,Maryland,Anne
 ANQ,KANQ,Tri-State Steuben County,41.63333,-85.0,1053,,America/Indiana/Indianapolis,ANQ,US,Angola,Indiana,Steuben County,AP
 ANR,EBAW,Antwerp International Airport,51.1881429,4.463473861141249,29,http://www.antwerp-airport.be/,Europe/Brussels,ANR,BE,Mortsel,Flanders,Provincie Antwerpen,AP
 ANS,SPHY,Andahuaylas,-13.709079,-73.35160446460571,11581,,America/Lima,ANS,PE,San Jeronimo,Apurimac,Provincia de Andahuaylas,AP
-ANT,,St Anton,47.15,10.283333,5672,,Europe/Vienna,ANT,AT,Sankt Anton am Arlberg,Tyrol,Politischer Bezirk Landeck,AP
 ANU,TAPA,V.C. Bird International Airport,17.13578595,-61.79381928408262,42,,America/Antigua,ANU,AG,Parham,Saint Peter,,AP
 ANV,PANV,Anvik Airport,62.6451092,-160.1932999,265,,America/Anchorage,ANV,US,,,,AP
 ANW,KANW,Ainsworth,42.55,-99.86667,2513,,America/Chicago,ANW,US,Ainsworth,Nebraska,Brown County,AP
@@ -335,7 +328,6 @@ APA,KAPA,Centennial Airport,39.733334,-104.98333,5285,,America/Denver,DEN,US,,,,
 APB,SLAP,Apolo,-14.716667,-68.51667,5282,,America/La_Paz,APB,BO,Mapiri,La Paz,,AP
 APC,KAPC,Napa County,38.216488,-122.27657132954653,32,http://www.napacountyairport.org/,America/Los_Angeles,APC,US,American Canyon,California,Napa County,AP
 APD,,Arung Palakka Airport,-4.46021,120.30683,79,,Asia/Jakarta,APD,ID,,,,AP
-APE,SPAO,San Juan Aposento,-11.933333,-69.083336,866,,America/Lima,APE,PE,,,,AP
 APF,KAPF,Naples Municipal Airport,26.1523225,-81.773941382464,29,,America/New_York,APF,US,Naples,Florida,Collier County,AP
 APG,KAPG,Phillips AAF,39.5,-76.166664,72,,America/New_York,APG,US,Aberdeen,Maryland,Harford County,AP
 APH,KAPH,Camp A P Hill,38.05,-77.35,173,,America/New_York,APH,US,Bowling Green,Virginia,Caroline County,AP
@@ -444,7 +436,6 @@ ATX,,Atbasar,51.8517097,68.3655586,997,,Asia/Almaty,ATX,KZ,Atbasar,Aqmola,,AP
 ATY,KATY,Watertown Airport,44.912617499999996,-97.14845996679145,1722,,America/Chicago,ATY,US,Watertown,South Dakota,Codington County,AP
 ATZ,HEAT,Assiut Airport,27.033333,31.0,751,,Africa/Cairo,ATZ,EG,Asyut,Asyut,,AP
 AUA,TNCA,Reina Beatrix International Airport,12.502222,-70.013885,36,,America/Aruba,AUA,AW,Oranjestad,,,AP
-AUB,,Itauba Airport,-11.878603,-55.581735,1223,,America/Cuiaba,AUB,BR,Itauba,Mato Grosso,,AP
 AUC,SKUC,Arauca Airport,7.06803755,-70.73450090889622,390,,America/Bogota,AUC,CO,Arauca,Arauca,,AP
 AUD,YAGD,Augustus Downs,-18.5149994,139.878006,98,,Australia/Brisbane,AUD,AU,,,,AP
 AUE,,Abu Rudeis,28.90059595,33.20053351373349,29,,Africa/Cairo,AUE,EG,,,,AP
@@ -516,7 +507,6 @@ AXX,KAXX,Angel Fire,36.4202498,-105.2910646,8362,,America/Denver,AXX,US,Angel Fi
 AYA,,Ayapel,8.3,-75.15,141,,America/Bogota,AYA,CO,Ayapel,Cordoba,,AP
 AYC,,Ayacucho,8.6021333,-73.6131384,393,,America/Bogota,AYC,CO,Pelaya,Cesar,,AP
 AYD,,Alroy Downs,-19.3,135.95,688,,Australia/Darwin,AYD,AU,,,,AP
-AYE,,AAF Heliport,42.55,-71.6,269,,America/New_York,AYE,US,Ayer,Massachusetts,Middlesex County,AP
 AYG,SKYA,Yaguara,1.533333,-73.933334,770,,America/Bogota,AYG,CO,,,,AP
 AYI,,Yari,-0.333333,-72.333336,485,,America/Bogota,AYI,CO,,,,AP
 AYJ,VEAY,Maharishi Valmiki International Airport,26.748034,82.150781,335,,Asia/Kolkata,AYJ,IN,Faizabad,Uttar Pradesh,,AP
@@ -534,7 +524,6 @@ AYU,AYAY,Aiyura,-6.3366412,145.90298982972382,5328,,Pacific/Port_Moresby,AYU,PG,
 AYW,WASA,Ayawasi,-1.2,132.5,1840,,Asia/Jayapura,AYW,ID,Aifat,West Papua,,AP
 AYX,SPAY,Gerardo Pérez Pinedo,-10.72845785,-73.76907295837613,767,,America/Lima,AYX,PE,Puerto Ocopa,Junin,Provincia de Satipo,AP
 AYY,,Arugam Bay SPB,6.86,81.82388889,9,,Asia/Colombo,AYY,LK,,,,AP
-AYZ,,Zahns,40.666668,-73.416664,26,,America/New_York,AYZ,US,Amityville,New York,Suffolk County,AP
 AZA,KIWA,Phoenix-Mesa Gateway Airport,33.30591455,-111.6526441150196,1309,http://www.flywga.org/,America/Phoenix,PHX,US,Queen Creek,Arizona,Maricopa County,AP
 AZB,,Amazon Bay,-10.15,148.81667,42,,Pacific/Port_Moresby,AZB,PG,,,,AP
 AZD,OIYY,Yazd Airport,31.903603,54.283264,4055,,Asia/Tehran,AZD,IR,Yazd,Yazd,,AP
@@ -563,13 +552,11 @@ BAJ,,Bali,-4.833333,149.13333,0,,Pacific/Port_Moresby,BAJ,PG,,,,AP
 BAL,LTCJ,Batman Airport,37.916668,41.083332,1765,,Europe/Istanbul,BAL,TR,Yenikoy,Batman,,AP
 BAM,KBAM,Lander County,40.63333,-116.933334,4494,http://www.battlemountainairport.com/default.htm,America/Los_Angeles,BAM,US,Battle Mountain,Nevada,Lander County,AP
 BAN,FZVR,Basongo,-4.3151816,20.4142387,1302,,Africa/Lubumbashi,BAN,CD,,,,AP
-BAO,,Udorn,17.385,102.79278,580,,Asia/Bangkok,BAO,TH,,,,AP
 BAP,,Baibara,-10.333333,149.75,104,,Pacific/Port_Moresby,BAP,PG,,,,AP
 BAQ,SKBQ,E Cortissoz Airport,10.886398,-74.77618,75,,America/Bogota,BAQ,CO,Malambo,Atlantico,,AP
 BAR,ZJQH,Baker AAF,55.333332,-133.6,954,,America/Sitka,BAR,US,,,,AP
 BAS,AGGE,Balalae,-6.9911804,155.8855471,36,,Pacific/Guadalcanal,BAS,SB,,,,AP
 BAT,SNBA,Airport Chafei Amsei,-20.55,-48.55,1732,,America/Sao_Paulo,BAT,BR,Barretos,Sao Paulo,Barretos,AP
-BAU,,Bauru Airport,-22.3450535,-49.05328145802982,2047,,America/Sao_Paulo,BRI,BR,Bauru,Sao Paulo,,AP
 BAV,ZBOW,Baotou Airport,40.56068065,109.99998138888844,3300,,Asia/Chongqing,BAV,CN,Shulinzhao,Inner Mongolia,,AP
 BAW,,Biawonque,-0.666667,146.35,0,,Africa/Libreville,BAW,GA,,,,AP
 BAX,UNBB,Barnaul Gherman Titov International Airport,53.3635611,83.5504536213013,839,http://airaltay.ru/,Asia/Omsk,BAX,RU,Gon'ba,Altai Krai,,AP
@@ -579,7 +566,6 @@ BBA,SCBA,Teniente Vidal Airport,-45.916668,-71.695,1696,,America/Santiago,BBA,CL
 BBB,KBBB,Benson Municipal Airport,45.331944,-95.650556,1026,,America/Chicago,BBB,US,Benson,Minnesota,Swift County,AP
 BBC,KBYY,Bay City,28.983334,-95.96667,72,http://www.flybaycity.com/,America/Chicago,BBC,US,Bay City,Texas,Matagorda County,AP
 BBD,KBBD,Curtis Field,31.133333,-99.333336,1686,,America/Chicago,BBD,US,Brady,Texas,McCulloch County,AP
-BBF,,Burlington,42.5,-71.183334,154,,America/New_York,BBF,US,Burlington,Massachusetts,Middlesex County,AP
 BBG,NGTU,Butaritari,3.166667,172.75,0,,Pacific/Tarawa,BBG,KI,,,,AP
 BBH,EDBH,Barth,54.33965175,12.712626338183224,26,,Europe/Berlin,BBH,DE,,,,AP
 BBI,VEBS,Biju Patnaik International Airport,20.25229545,85.81348472447162,121,http://aai.aero/allAirports/bhubaneshwar_generalinfo.jsp,Asia/Kolkata,BBI,IN,Bhubaneshwar,Odisha,Khordha,AP
@@ -679,7 +665,6 @@ BEX,EGUB,Benson RAF Station,51.63333,-1.083333,216,,Europe/London,BEX,GB,Benson,
 BEY,OLBA,Beirut-Rafic Hariri International Airport,33.8180749,35.490805228124415,42,http://www.beirutairport.gov.lb/,Asia/Beirut,BEY,LB,Baabda,Mont-Liban,,AP
 BEZ,NGBR,Beru,-1.35472,176.0070038,26,,Pacific/Tarawa,BEZ,KI,,,,AP
 BFA,SGBN,Bahia Negra,-20.2311349,-58.17057022420163,242,,America/Asuncion,BFA,PY,,,,AP
-BFB,,Blue Fox Bay,58.183334,-152.13333,262,,America/Anchorage,BFB,US,,,,AP
 BFC,YBMD,Bloomfield,-15.8736,145.3300018,59,,Australia/Brisbane,BFC,AU,,,,AP
 BFD,KBFD,Bradford Airport,41.802223,-78.63944,2125,,America/New_York,BFD,US,Bradford,Pennsylvania,McKean County,AP
 BFE,EDLI,Bielefeld,52.016666,8.55,351,http://www.flugplatz-bielefeld.de/,Europe/Berlin,BFE,DE,Bielefeld,North Rhine-Westphalia,Regierungsbezirk Detmold,AP
@@ -731,7 +716,6 @@ BGY,LIME,Orio al Serio International Airport,45.670959249999996,9.69876347135455
 BGZ,LPBR,Braga,41.55,-8.433333,531,http://www.pelicano.com.pt/zp_braga.html,Europe/Lisbon,BGZ,PT,Braga,Braga,Braga,AP
 BHA,SESV,Bahia De Caraquez,-0.6,-80.416664,0,,America/Guayaquil,BHA,EC,Bahia de Caraquez,Manabi,,AP
 BHB,KBHB,Bar Harbor Airport,44.44889,-68.361664,65,,America/New_York,BHB,US,Trenton,Maine,Hancock County,AP
-BHC,,Bhurban Heliport,33.925,73.433334,5925,,Asia/Karachi,BHC,PK,Murree,Punjab,,AP
 BHD,EGAC,George Best Belfast City Airport,54.620329350000006,-5.869819381345107,42,http://www.belfastcityairport.com/,Europe/London,BFS,GB,Castlereagh,Northern Ireland,Castlereagh District,AP
 BHE,NZWB,Woodbourne Airport,-41.5172616,173.86935377852836,88,,Pacific/Auckland,BHE,NZ,Blenheim,Marlborough,Marlborough District,AP
 BHF,,Bahia Cupica,6.6940746,-77.4946873,36,,America/Bogota,BHF,CO,,,,AP
@@ -913,7 +897,6 @@ BOB,NTTB,Motu Mute Airport,-16.444335350000003,-151.75254418187558,16,,Pacific/T
 BOC,MPBO,Bocas Del Toro,9.3404691,-82.25481515647917,16,,America/Panama,BOC,PA,Bocas del Toro,Bocas del Toro,,AP
 BOD,LFBD,Bordeaux Airport,44.83102,-0.70217,226,https://www.bordeaux.aeroport.fr/,Europe/Paris,BOD,FR,Le Haillan,Aquitaine,Departement de la Gironde,AP
 BOE,FCOB,Boundji,-1.033333,15.383333,1148,,Africa/Brazzaville,BOE,CG,,,,AP
-BOF,,Bolling AFB,38.9,-77.03333,108,,America/New_York,WAS,US,,,,AP
 BOG,SKBO,El Dorado International Airport,4.7028947500000005,-74.1487499180044,8382,,America/Bogota,BOG,CO,Funza,Cundinamarca,,AP
 BOH,EGHH,Bournemouth Airport,50.78234165,-1.8383330379835439,29,http://www.bournemouthairport.com/,Europe/London,BOH,GB,St Leonards,England,Dorset,AP
 BOI,KBOI,Boise Air Terminal (Gowen Field),43.569263,-116.22193,2860,http://www.cityofboise.org/departments/airport/,America/Boise,BOI,US,Boise,Idaho,Ada County,AP
@@ -949,7 +932,6 @@ BPM,VOHY,Begumpet,17.454031399999998,78.46967295140705,1719,,Asia/Kolkata,HYD,IN
 BPN,WALL,Sultan Aji Muhamad Sulaiman Airport,-1.260623,116.90082,32,http://sepinggan-airport.com/,Asia/Makassar,BPN,ID,City of Balikpapan,East Kalimantan,,AP
 BPS,SBPS,Porto Seguro Airport,-16.4389835,-39.08336724314525,134,,America/Bahia,BPS,BR,Porto Seguro,Bahia,Porto Seguro,AP
 BPT,KBPT,Jefferson County Airport,29.950832,-94.02,22,,America/Chicago,BPT,US,Nederland,Texas,Jefferson County,AP
-BPU,,Beppu,33.25,131.5,1108,,Asia/Tokyo,BPU,JP,Beppu,Oita,,AP
 BPX,ZUBD,Bangda Airport,30.551130399999998,97.10917357409966,14229,,Asia/Shanghai,BPX,CN,Yanduo,Tibet Autonomous Region,,AP
 BPY,FMNQ,Besalampy,-16.7452789,44.4803872,108,,Indian/Antananarivo,BPY,MG,,,,AP
 BQA,RPUR,Baler,15.0,121.083336,590,,Asia/Manila,BQA,PH,Dona Remedios Trinidad,Central Luzon,Province of Bulacan,AP
@@ -974,7 +956,6 @@ BRB,SSRS,Barreirinhas,-2.7574806,-42.80350775032719,55,,America/Fortaleza,BRB,BR
 BRC,SAZS,San Carlos de Bariloche International Airport,-41.145966,-71.16109,2788,http://www.aa2000.com.ar/bariloche,America/Argentina/Salta,BRC,AR,San Carlos de Bariloche,Rio Negro,Departamento de Bariloche,AP
 BRD,KBRD,Crow Wing County Airport,46.40507465,-94.12827992568421,1233,http://brainerdairport.com/,America/Chicago,BRD,US,Brainerd,Minnesota,Crow Wing County,AP
 BRE,EDDW,Bremen Airport,53.0453419,8.789641688895548,49,,Europe/Berlin,BRE,DE,Bremen,Bremen,,AP
-BRF,,Bradford,53.8,-1.75,301,,Europe/London,LBA,GB,Bradford,England,Bradford,AP
 BRG,,Municipal,37.11667,-82.833336,1220,,America/New_York,BRG,US,Whitesburg,Kentucky,Letcher County,AP
 BRH,,Brahman,-5.7,145.36667,396,,Pacific/Port_Moresby,BRH,PG,,,,AP
 BRI,LIBD,Palese Airport,41.1534,16.7656,88,http://www.seap-puglia.it/default.asp?idlingua=2&idcontenuto=25,Europe/Rome,BRI,IT,San Paolo,Apulia,Provincia di Bari,AP
@@ -1002,7 +983,6 @@ BSD,ZPBS,Baoshan Airport,25.05160185,99.16459538074838,5456,,Asia/Shanghai,BSD,C
 BSE,WBGN,Sematan,1.81320515,109.76441012827749,65,,Asia/Kuching,BSE,MY,,,,AP
 BSF,PHSF,Bradshaw AAF,21.383333,-157.75,118,,Pacific/Honolulu,BSF,US,Kailua,Hawaii,Honolulu County,AP
 BSG,FGBT,Bata Airport,1.9093582,9.80749101607464,19,,Africa/Malabo,BSG,GQ,Bata,Litoral,,AP
-BSH,,Brighton,50.816666,-0.116667,88,,Europe/London,BSH,GB,Brighton,England,Brighton and Hove,AP
 BSI,RPLE,Blairsville,40.45,-79.28333,1023,,America/New_York,BSI,US,Blairsville,Pennsylvania,Indiana County,AP
 BSJ,YBNS,Bairnsdale,-37.833332,147.63333,32,,Australia/Melbourne,BSJ,AU,Bairnsdale,Victoria,East Gippsland,AP
 BSK,DAUB,Biskra Airport,34.7931774,5.734029338102971,226,,Africa/Algiers,BSK,DZ,Biskra,Biskra,,AP
@@ -1180,7 +1160,6 @@ BZN,KBZN,Bozeman Yellowstone International Airport,45.78359005,-111.156979627834
 BZO,LIPB,Bolzano,46.46006215,11.326085809111088,744,http://www.abd-airport.it/en/home.htm,Europe/Rome,BZO,IT,San Giacomo,Trentino-Alto Adige,Bolzano,AP
 BZP,YBIZ,Bizant,-15.216667,144.63333,190,,Australia/Brisbane,BZP,AU,,,,AP
 BZR,LFMU,Beziers Vias Airport,43.324165,3.354444,32,,Europe/Paris,BZR,FR,Portiragnes,Languedoc-Roussillon,Departement de l'Herault,AP
-BZS,,Buzzards Pt S,38.863335,-77.013336,36,,America/New_York,WAS,US,,,,AP
 BZT,2TE0,Eagle Air Park,34.89139607951,-114.61603755344,475,,America/Phoenix,BZT,US,Brazoria,Texas,Brazoria County,AP
 BZU,FZKJ,Buta,2.8,24.733334,1335,,Africa/Lubumbashi,BZU,CD,Buta,Eastern Province,,AP
 BZV,FCBB,Maya Maya Airport,-4.2509559,15.253938331362257,974,,Africa/Brazzaville,BZV,CG,Brazzaville,Brazzaville,,AP
@@ -1205,7 +1184,6 @@ CAO,KCAO,Clayton,36.45,-103.183334,5062,,America/Denver,CAO,US,Clayton,New Mexic
 CAP,MTCH,Cap Haitien Airport,19.7263503,-72.20026715140995,45,,America/Port-au-Prince,CAP,HT,Okap,Nord,,AP
 CAQ,SKCU,Caucasia,7.6,-75.25,492,,America/Bogota,CAQ,CO,Caceres,Antioquia,,AP
 CAR,KCAR,Municipal,46.86667,-68.01667,574,,America/New_York,CAR,US,Caribou,Maine,Aroostook County,AP
-CAS,,Anfa,33.559723,-7.663056,154,,Africa/Casablanca,CAS,MA,Casablanca,Grand Casablanca,Casablanca,AP
 CAT,LPCS,Cascais Municipal Aerodrome,38.725,-9.35523,295,http://aerodromo-cascais.pt/?lang=en,Europe/Lisbon,CAT,PT,Lisbon,,,AP
 CAU,SNRU,Caruaru,-8.25,-35.916668,1932,,America/Recife,CAU,BR,Caruaru,Pernambuco,Caruaru,AP
 CAV,FNCZ,Cazombo,-11.9,22.866667,3664,,Africa/Luanda,CAV,AO,,,,AP
@@ -1213,7 +1191,6 @@ CAW,SBCP,Bartolomeu Lisandro Airport,-21.75,-41.3,32,http://www.infraero.gov.br/
 CAX,EGNC,Carlisle,54.93846675,-2.808367404657008,141,,Europe/London,CAX,GB,Brampton,England,Cumbria,AP
 CAY,SOCA,Felix Eboue Airport,4.820737449999999,-52.36305702364213,9,,America/Cayenne,CAY,GF,Matoury,Guyane,Guyane,AP
 CAZ,YCBA,Cobar,-31.53967255,145.79695608947588,738,,Australia/Sydney,CAZ,AU,Cobar,New South Wales,Cobar,AP
-CBA,,Corner Bay,57.716667,-135.2,242,,America/Sitka,CBA,US,,,,AP
 CBB,SLCB,J Wilsterman Airport,-17.413954,-66.178894,8421,,America/La_Paz,CBB,BO,Cochabamba,Cochabamba,,AP
 CBC,,Cherrabun,-18.916668,125.55,538,,Australia/Perth,CBC,AU,,,,AP
 CBD,VOCX,Car Nicobar,9.156225,92.8215167,26,,Asia/Kolkata,CBD,IN,,,,AP
@@ -1242,7 +1219,6 @@ CBZ,,Cabin Creek,55.38333,-132.41667,843,,America/Sitka,CBZ,US,,,,AP
 CCA,SLCH,Chaffee AFB,35.316666,-94.3,482,,America/Chicago,CCA,US,,,,AP
 CCB,KCCB,Cable Airport,34.11242505,-117.6853957695332,1414,,America/Los_Angeles,CCB,US,Claremont,California,Los Angeles County,AP
 CCC,MUCC,Jardines del Rey Airport,22.5125,-78.50833,29,,America/Havana,CCC,CU,Moron,Ciego de Avila,,AP
-CCD,,Century City,34.066666,-118.26667,400,,America/Los_Angeles,LAX,US,,,,AP
 CCE,HECP,Grand Case,18.05,-63.11667,52,http://www.avit.com.eg/index.php/projects/item/138-katameya-airport,America/Marigot,SFG,MF,,,,AP
 CCF,LFMK,Carcassonne Airport,43.216667,2.316667,370,,Europe/Paris,CCF,FR,Pennautier,Languedoc-Roussillon,Departement de l'Aude,AP
 CCG,E13,Crane County Airport,31.41140455,-102.35929573280173,2552,,America/Chicago,CCG,US,Crane,Texas,Crane County,AP
@@ -1255,7 +1231,6 @@ CCM,SBCM,Criciuma,-28.7,-49.36667,203,,America/Sao_Paulo,CCM,BR,Criciuma,Santa C
 CCN,OACC,Chakcharan,34.533333,65.26667,7516,,Asia/Kabul,CCN,AF,Fayroz Koh,Ghowr,,AP
 CCO,SKCI,Carimagua,4.56417,-71.3364,544,,America/Bogota,CCO,CO,,,,AP
 CCP,SCIE,Carriel Sur Airport,-36.77378175,-73.06006863839588,22,,America/Santiago,CCP,CL,Concepcion,Biobio,Provincia de Concepcion,AP
-CCQ,,Cachoeira,-12.6,-38.966667,127,,America/Bahia,CCQ,BR,Cachoeira,Bahia,Cachoeira,AP
 CCR,KCCR,Buchanan Field,37.98926635,-122.05593807253744,39,,America/Los_Angeles,CCR,US,Pacheco,California,Contra Costa County,AP
 CCS,SVMI,Simon Bolivar International Airport,10.60316215,-66.99667670060362,209,http://www.aeropuerto-maiquetia.com.ve/web/,America/Caracas,CCS,VE,Catia La Mar,Vargas,,AP
 CCT,SA30,Colonia Catriel,-39.5,-68.916664,1269,,America/Argentina/Salta,CCT,AR,Picun Leufu,Neuquen,Departamento de Picun Leufu,AP
@@ -1287,7 +1262,6 @@ CDU,YSCN,Camden,-15.45,124.416664,0,,Australia/Sydney,CDU,AU,,,,AP
 CDV,PACV,Mudhole Smith Airport,60.4916501,-145.47370526084313,26,,America/Anchorage,CDV,US,,,,AP
 CDW,KCDW,Caldwell Wright,40.833332,-74.26667,495,http://flycdw.com/,America/New_York,CDW,US,Caldwell,New Jersey,Essex County,AP
 CDY,RPMU,Cagayan De Sulu,7.0142323,118.49520704033101,134,,Asia/Manila,CDY,PH,Cagayan,Mimaropa,Province of Palawan,AP
-CDZ,,Cadiz,36.533333,-6.3,75,,Europe/Madrid,CDZ,ES,Cadiz,Andalusia,Provincia de Cadiz,AP
 CEA,KCEA,Cessna Aircraft Field,37.7,-97.333336,1338,,America/Chicago,ICT,US,,,,AP
 CEB,RPVM,Mactan-Cebu International Airport,10.310328,123.97927764356774,29,http://www.mactan-cebuairport.com.ph/,Asia/Manila,CEB,PH,Buagsong,Central Visayas,Lapu-Lapu City,AP
 CEC,KCEC,Del Norte County Regional Airport,41.7814506,-124.23807108485695,36,,America/Los_Angeles,CEC,US,Crescent City,California,Del Norte County,AP
@@ -1313,7 +1287,6 @@ CEW,KCEW,Bob Sikes,30.7800302,-86.52231696990623,141,http://www.flycew.com/,Amer
 CEX,AK13,Chena Hot Springs,65.05,-146.16667,1099,,America/Anchorage,CEX,US,,,,AP
 CEY,KCEY,Calloway County,36.61667,-88.316666,501,http://www.murraykyleoakley.com/,America/Chicago,CEY,US,Murray,Kentucky,Calloway County,AP
 CEZ,KCEZ,Montezuma County Airport,37.3043669,-108.6276045,5862,http://www.cityofcortez.com/index.aspx?NID=113,America/Denver,CEZ,US,Cortez,Colorado,Montezuma County,AP
-CFA,,Coffee Point,58.216667,-157.5,0,,America/Anchorage,CFA,US,,,,AP
 CFB,SBCB,Cabo Frio International Airport,-22.923360950000003,-42.076586063102596,26,http://www.grupolibra.com.br/libra-aeroporto/cabo-frio/institucional,America/Sao_Paulo,CFB,BR,Cabo Frio,Rio de Janeiro,Cabo Frio,AP
 CFC,SBCD,Cacador,-26.788347950000002,-50.940058269051605,3339,,America/Sao_Paulo,CFC,BR,Cacador,Santa Catarina,Cacador,AP
 CFD,KCFD,Coulter Field,30.666668,-96.36667,374,http://www.bryantx.gov/coulterairfield/,America/Chicago,CFD,US,Bryan,Texas,Brazos County,AP
@@ -1378,12 +1351,10 @@ CHS,KCHS,Charleston International Airport,32.89929845,-80.03946503050427,42,,Ame
 CHT,NZCI,Karewa,-43.8,-176.35,22,,Pacific/Chatham,CHT,NZ,Waitangi,Chatham Islands,,AP
 CHU,PACH,Chuathbaluk Airport,61.5791016,-159.2160034,160,,America/Anchorage,CHU,US,,,,AP
 CHV,LPCH,Chaves,41.733334,-7.466667,1151,,Europe/Lisbon,CHV,PT,Chaves,Vila Real,Chaves,AP
-CHW,,Jiuhuang,39.85,98.416664,4937,,Asia/Shanghai,CHW,CN,,,,AP
 CHX,MPCH,Changuinola,9.45,-82.45,0,,America/Panama,CHX,PA,Changuinola,Bocas del Toro,Distrito de Changuinola,AP
 CHY,AGGC,Choiseul Bay Airport,-6.713787,156.39856,19,,Pacific/Guadalcanal,CHY,SB,,,,AP
 CHZ,K2S7,State,42.583332,-121.86667,4333,,America/Los_Angeles,CHZ,US,Klamath Falls,Oregon,Klamath County,AP
 CIA,LIRA,Ciampino-G. B. Pastine International Airport,41.799065,12.590987,370,,Europe/Rome,ROM,IT,Ciampino,Latium,Citta metropolitana di Roma Capitale,AP
-CIB,,Ap In The Sky,33.406113,-118.41389,1578,,America/Los_Angeles,AVX,US,,,,AP
 CIC,KCIC,Chico Municipal Airport,39.793971549999995,-121.8547755058414,183,,America/Los_Angeles,CIC,US,Chico,California,Butte County,AP
 CID,KCID,The Eastern Iowa Airport,41.889423,-91.7003,898,,America/Chicago,CID,US,Fairfax,Iowa,Linn County,AP
 CIE,YCOI,Collie,-33.36667,116.13333,666,,Australia/Perth,CIE,AU,Collie,Western Australia,Collie,AP
@@ -1403,7 +1374,6 @@ CIR,KCIR,Cairo,37.0,-89.183334,291,,America/Chicago,CIR,US,Cairo,Illinois,Alexan
 CIS,PCIS,Canton Island,-2.833333,-171.66667,0,,Pacific/Enderbury,CIS,KI,Atafu Village,Atafu,,AP
 CIT,UAII,Shymkent Airport,42.3,69.6,1699,,Asia/Almaty,CIT,KZ,Shymkent,Ongtustik Qazaqstan,,AP
 CIU,KCIU,Chippewa County Airport,46.5,-84.35,606,,America/Detroit,SSM,US,,,,AP
-CIV,,Chomley,55.216667,-132.21666,249,,America/Sitka,CIV,US,,,,AP
 CIW,TVSC,Canouan Island,12.7,-61.316666,0,,America/St_Vincent,CIW,VC,,,,AP
 CIX,SPHI,Cornel Ruiz Airport,-6.789722,-79.83222,52,,America/Lima,CIX,PE,Chiclayo,Lambayeque,Provincia de Chiclayo,AP
 CIY,LICB,Comiso Airport,36.99482985,14.60748814771559,702,http://www.aeroportodicomiso.it/,Europe/Rome,CIY,IT,Comiso,Sicily,Ragusa,AP
@@ -1445,7 +1415,6 @@ CKX,CKX,Chicken,64.06816475,-141.95283887481474,1515,,America/Anchorage,CKX,US,,
 CKY,GUCY,Conakry Airport,9.576551250000001,-13.613075755188323,91,http://www.aeroport-conakry.com/aeroport_international_de_conakry.php,Africa/Conakry,CKY,GN,Conakry,Conakry,,AP
 CKZ,LTBH,Canakkale Airport,40.13450605,26.429690386094045,22,,Europe/Istanbul,CKZ,TR,Canakkale,Canakkale,,AP
 CLA,VGCM,Comilla,23.4370218,91.1880657,26,,Asia/Dhaka,CLA,BD,Comilla,Chittagong,,AP
-CLC,,Metroport,29.556944,-95.1375,59,,America/Chicago,CLC,US,,,,AP
 CLD,KCRQ,McClellan-Palomar Airport,33.12754605000001,-117.2814001459839,291,,America/Los_Angeles,SAN,US,Lake San Marcos,California,San Diego County,AP
 CLE,KCLE,Cleveland Hopkins International Airport,41.406618550000005,-81.85120214358412,761,http://www.clevelandairport.com/,America/New_York,CLE,US,Brook Park,Ohio,Cuyahoga County,AP
 CLG,,Coalinga,36.15,-120.35,659,,America/Los_Angeles,CLG,US,Coalinga,California,Fresno County,AP
@@ -1559,7 +1528,6 @@ CPM,KCPM,Compton,33.894444,-118.24778,82,,America/Los_Angeles,CPM,US,West Rancho
 CPN,,Cape Rodney,-10.179823,148.3790302,22,,Pacific/Port_Moresby,CPN,PG,,,,AP
 CPO,SCAT,Chamonate Airport,-27.29892,-70.414406,994,,America/Santiago,CPO,CL,Copiapo,Atacama,Provincia de Copiapo,AP
 CPP,SCKP,Coposa Airport,-20.75,-68.683333,12391,,America/Santiago,CPP,CL,,,,AP
-CPQ,,International,-22.856462,-47.111595,1919,,America/Sao_Paulo,CPQ,BR,Campinas,Sao Paulo,Campinas,AP
 CPR,KCPR,Casper/Natrona County International Airport,42.9054165,-106.46452637926663,5328,,America/Denver,CPR,US,Mills,Wyoming,Natrona County,AP
 CPS,KCPS,St. Louis Downtown Airport,38.56948535,-90.15194783343586,383,,America/Chicago,STL,US,Cahokia,Illinois,Saint Clair County,AP
 CPT,FACT,Cape Town International Airport,-33.97184585,18.602112520148317,114,http://www.airports.co.za/home.asp?pid=229,Africa/Johannesburg,CPT,ZA,Lansdowne,Western Cape,City of Cape Town,AP
@@ -1608,7 +1576,6 @@ CSF,LFPC,Creil,49.2514148,2.5145065264394058,262,,Europe/Paris,CSF,FR,Creil,Pica
 CSG,KCSG,Columbus Airport,32.466667,-84.98333,252,,America/New_York,CSG,US,,,,AP
 CSH,ULAS,Solovky,65.02944,35.733334,32,,Europe/Moscow,CSH,RU,Rabocheostrovsk,Republic of Karelia,,AP
 CSI,YCAS,Casino,-28.880727450000002,153.05894080670998,68,,Australia/Sydney,CSI,AU,Casino,New South Wales,Richmond Valley,AP
-CSJ,,Cape St Jacques,10.033333,111.0,0,,Asia/Ho_Chi_Minh,CSJ,VN,Phu Quy,Binh Thuan,,AP
 CSK,GOGS,Cap Skirring,12.39821835,-16.750892885762433,49,,Africa/Dakar,CSK,SN,Oussouye,Ziguinchor,,AP
 CSM,KCSM,Sherman,35.539165,-96.933334,892,,America/Chicago,CSM,US,Meeker,Oklahoma,Lincoln County,AP
 CSN,KCXP,Carson City,39.194508049999996,-119.74021540263364,4698,http://flycarsoncity.com/,America/Los_Angeles,CSN,US,Carson City,Nevada,Carson City,AP
