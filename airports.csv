@@ -2961,7 +2961,6 @@ GVN,UHKM,May-Gatka,48.9249059,140.0297395,790,,Asia/Vladivostok,GVN,RU,Mayskiy,K
 GVP,YGNV,Greenvale,-15.783333,144.61667,551,,Australia/Brisbane,GVP,AU,,,,AP
 GVR,SBGV,Governador Valadares Airport,-18.850279,-41.933334,492,,America/Sao_Paulo,GVR,BR,Governador Valadares,Minas Gerais,Governador Valadares,AP
 GVT,KGVT,Majors Field,33.066666,-96.06167,564,,America/Chicago,GVT,US,Greenville,Texas,Hunt County,AP
-GVW,,Richards-Gebaur,38.88333,-94.53333,1053,,America/Chicago,GVW,US,Grandview,Missouri,Jackson County,AP
 GVX,ESSK,Sandviken,60.592861799999994,16.95115381638249,49,,Europe/Stockholm,GVX,SE,Valbo,Gaevleborg,Gavle Kommun,AP
 GWA,VYGW,Gwa,21.0,94.0,3959,,Asia/Rangoon,GWA,MM,,,,AP
 GWD,OPGD,Gwadar Airport,25.2323386,62.32852684802599,26,,Asia/Karachi,GWD,PK,Gwadar,Balochistan,,AP
@@ -3000,7 +2999,6 @@ GYZ,YGRM,Gruyere Mine Airport,-28.0339912,123.8140464,1502,,Australia/Perth,GYZ,
 GZA,LVGZ,Gaza - Yaser Arafat International Airport,31.24639,34.27611,288,,Asia/Gaza,GZA,PS,Shukat as Sufi,Gaza Strip,,AP
 GZG,ZUGZ,Garze Gesar Airport,31.7548325,99.553507,13484,,Asia/Shanghai,GZG,CN,Ganzi,Sichuan,,AP
 GZI,OAGN,Ghazni,33.0,68.416664,7654,,Asia/Kabul,GZI,AF,Khayr Kot,Paktika,,AP
-GZM,,Gozo Heliport,36.041668,14.208333,347,,Europe/Malta,GZM,MT,Saint Lucia,Saint Lucia,,AP
 GZO,AGGN,Gizo Airport,-8.0999822,156.86506062321428,62,,Pacific/Guadalcanal,GZO,SB,,,,AP
 GZP,LTFG,Gazipasa Airport,36.29880585,32.29718214713545,59,,Europe/Istanbul,GZP,TR,Gazipasa,Antalya,,AP
 GZT,LTAJ,Gaziantep Airport,36.9479318,37.47319308119735,2250,,Europe/Istanbul,GZT,TR,Oguzeli,Gaziantep,,AP
@@ -3009,7 +3007,6 @@ HAA,ENHK,Hasvik Airport,70.46667,22.15,0,https://avinor.no/en/airport/hasvik-air
 HAB,KHAB,Marion County,34.15,-88.1,541,,America/Chicago,HAB,US,Hamilton,Alabama,Marion County,AP
 HAC,RJTH,Hachijo Jima Airport,33.117947,139.78122,387,,Asia/Tokyo,HAC,JP,,,,AP
 HAD,ESMT,Halmstad Airport,56.69265085000001,12.820655511825056,32,,Europe/Stockholm,HAD,SE,Halmstad,Halland,Halmstads Kommun,AP
-HAE,,Havasupai,36.230556,-112.66944,4366,,America/Phoenix,HAE,US,,,,AP
 HAF,KHAF,Half Moon,37.466667,-122.433334,59,,America/Los_Angeles,HAF,US,Half Moon Bay,California,San Mateo County,AP
 HAH,FMCH,Prince Said Ibrahim Internatonal Airport,-11.537275,43.27492,104,,Indian/Comoro,YVA,KM,,,,AP
 HAI,KHAI,Dr Haines,41.95,-85.63333,856,,America/Detroit,HAI,US,Three Rivers,Michigan,Saint Joseph County,AP
@@ -3019,7 +3016,6 @@ HAL,FYHI,Halali,-19.966667,13.066667,400,,Africa/Windhoek,HAL,NA,,,,AP
 HAM,EDDH,Hamburg Airport,53.63636215,9.994550134684175,36,https://www.hamburg-airport.de/en/,Europe/Berlin,HAM,DE,Fuhlsbuettel,Hamburg,,AP
 HAN,VVNB,Noi Bai International Airport,21.2190339,105.8044969796485,32,,Asia/Ho_Chi_Minh,HAN,VN,Soc Son,Ha Noi,,AP
 HAO,KHAO,Hamilton,39.4,-84.566666,570,http://bcra.butlercountyohio.org/,America/New_York,HAO,US,Hamilton,Ohio,Butler County,AP
-HAP,,Long Island,-20.5,148.75,0,,Australia/Brisbane,HAP,AU,,,,AP
 HAQ,VRMH,Hanimaadhoo Airport,6.74674065,73.16926271391242,22,,Indian/Maldives,HAQ,MV,Dhidhdhoo,Upper North,,AP
 HAR,KCXY,Capital City,40.21611,-76.85222,334,http://www.flycxy.com/,America/New_York,HAR,US,Steelton,Pennsylvania,Dauphin County,AP
 HAS,OEHL,Hail Airport,27.4397262,41.6856697,3159,,Asia/Riyadh,HAS,SA,Hayil,Mintaqat Ha'il,,AP
@@ -3027,27 +3023,21 @@ HAT,YHTL,Heathlands,-19.720833,140.58333,367,,Australia/Brisbane,HAT,AU,,,,AP
 HAU,ENHD,Haugesund Airport,59.34292,5.2152365479364455,88,https://avinor.no/en/airport/haugesund-airport/,Europe/Oslo,HAU,NO,Vedavagen,Rogaland,Karmoy,AP
 HAV,MUHA,Jose Marti International Airport,22.987384849999998,-82.41424753295806,288,,America/Havana,HAV,CU,Boyeros,La Habana,,AP
 HAW,EGFE,Haverfordwest,51.8331205,-4.9610359,154,,Europe/London,HAW,GB,Haverfordwest,Wales,Pembrokeshire,AP
-HAX,,Hatbox Field,35.75,-95.416664,646,,America/Chicago,MKO,US,,,,AP
 HAY,HAY,Haycock,65.2008333,-161.1566667,150,,America/Anchorage,HAY,US,,,,AP
 HAZ,,Hatzfeldthaven,-4.433333,145.18333,921,,Pacific/Port_Moresby,HAZ,PG,,,,AP
 HBA,YMHB,Hobart International Airport,-42.837257,147.50519,26,,Australia/Hobart,HBA,AU,Seven Mile Beach,Tasmania,Clarence,AP
 HBB,NM83,Industrial Airpark,32.7,-103.13333,3608,,America/Denver,HOB,US,,,,AP
-HBC,,Hanus Bay,57.5,-135.91667,0,,America/Sitka,HBC,US,,,,AP
 HBD,AYHB,Habi,-6.32042775,142.48902706934854,935,,Pacific/Port_Moresby,HBD,PG,,,,AP
 HBE,HEBA,Borg El Arab Airport,30.922234,29.686504,167,,Africa/Cairo,ALY,EG,Alexandria,Alexandria,,AP
 HBG,KHBG,The Hattiesburg-Bobby L. Chain Mun.,31.316668,-89.26667,124,,America/Chicago,HBG,US,Hattiesburg,Mississippi,Forrest County,AP
 HBH,,Hobart Bay,57.408333,-133.46666,0,,America/Juneau,HBH,US,,,,AP
-HBI,,Harbour Island,25.516666,-76.6,0,,America/Nassau,HBI,BS,Dunmore Town,Harbour Island,,AP
 HBK,P14,Holbrook Municipal,34.941733150000005,-110.14722023079597,5236,,America/Phoenix,HBK,US,Holbrook,Arizona,Navajo County,AP
-HBN,,Flamingo,12.0,106.0,229,,Asia/Ho_Chi_Minh,HBN,VN,Tan Bien,Tay Ninh,,AP
-HBO,,Municipal,40.166668,-95.95,1010,,America/Chicago,HBO,US,Pawnee City,Nebraska,Pawnee County,AP
 HBQ,,Qilian Airport,38.009560449999995,100.63671075340743,10367,,Asia/Shanghai,HBQ,CN,Hongtu,Qinghai Sheng,,AP
 HBR,KHBR,Hobart,35.016666,-99.1,1541,,America/Chicago,HBR,US,Hobart,Oklahoma,Kiowa County,AP
 HBT,,Hafr Albatin,27.911552,45.522972,1368,,Asia/Colombo,HRI,LK,,,,AP
 HBU,ZMBS,Bulgan Hovd,46.100496899999996,91.5836487910197,3845,,Asia/Hovd,HBU,MN,Burenhayrhan,Hovd,Bulgan District,AP
 HBX,VOHB,Hubli Airport,15.360478350000001,75.07761238064964,2162,http://www.airportsindia.org.in/allAirports/hubli_generalinfo.jsp,Asia/Kolkata,HBX,IN,Hubli,Karnataka,Dharwad,AP
 HCA,KHCA,Howard County,32.30361,-101.43389,2542,http://www.mybigspring.com/pages/airport,America/Chicago,HCA,US,Big Spring,Texas,Howard County,AP
-HCB,,Shoal Cove,55.45,-131.28334,150,,America/Anchorage,HCB,US,,,,AP
 HCC,1B1,Columbia County,42.29045015,-73.71160128274613,190,,America/New_York,HCC,US,Stottville,New York,Columbia County,AP
 HCJ,ZGHC,Hechi Jinchengjiang Airport,24.8048431,107.71074985180161,2125,,Asia/Shanghai,HCJ,CN,Nandan Chengguanzhen,Guangxi Zhuangzu Zizhiqu,,AP
 HCM,HCME,Eil,7.916667,49.8,452,,Africa/Mogadishu,HCM,SO,Eyl,Nugaal,,AP
@@ -3056,7 +3046,6 @@ HCQ,YHLC,Halls Creek,-18.23649795,127.66458487725606,1315,,Australia/Perth,HCQ,A
 HCR,PAHC,Holy Cross Airport,62.1908445,-159.7729269,75,,America/Anchorage,HCR,US,,,,AP
 HCW,KCQW,Cheraw,34.7,-79.88333,157,,America/New_York,HCW,US,Cheraw,South Carolina,Chesterfield County,AP
 HCZ,ZGCZ,Chenzhou Beihu Airport,25.75482855,112.84966005166282,1059,,Asia/Shanghai,HCZ,CN,Chenzhou,Hunan,,AP
-HDA,,Hidden Falls,57.2,-134.85,0,,America/Sitka,HDA,US,,,,AP
 HDB,ETIE,Airfield Heidelberg,49.3933,8.6525,780,,Europe/Berlin,HDB,DE,Heidelberg,,,AP
 HDD,OPKD,Hyderabad,25.319433349999997,68.36835559267595,141,,Asia/Karachi,HDD,PK,Kotri,Sindh,,AP
 HDE,KHDE,Brewster Field,40.4518458,-99.33835078099264,2303,,America/Chicago,HDE,US,Holdrege,Nebraska,Phelps County,AP
@@ -3079,15 +3068,11 @@ HEI,EDXB,Heide-Buesum,54.155556,8.902778,26,http://www.edxb.de,Europe/Berlin,HEI
 HEK,ZYHE,Heihe Airport,50.216667,127.433334,547,,Asia/Shanghai,HEK,CN,Xinfu,Heilongjiang Sheng,,AP
 HEL,EFHK,Helsinki-Vantaa Airport,60.32135905,24.947206800038444,173,http://www.finavia.fi/en/helsinki-airport,Europe/Helsinki,HEL,FI,,,,AP
 HEM,EFHF,Helsinki-malmi,60.2521109,25.0437312,49,,Europe/Helsinki,HEL,FI,,,,AP
-HEN,,Hendon,51.583332,-0.233333,269,,Europe/Helsinki,HEL,FI,Hendon,England,Greater London,AP
 HEO,AYHG,Haelogo,-9.13662165,147.59857131851487,3188,,Pacific/Port_Moresby,HEO,PG,,,,AP
 HER,LGIR,Heraklion Airport,35.3363305,25.1742268,101,,Europe/Athens,HER,GR,Nea Alikarnassos,Crete,Nomos Irakleiou,AP
 HES,KHRI,State,45.85,-119.28333,442,,America/Los_Angeles,HES,US,Hermiston,Oregon,Umatilla County,AP
 HET,ZBHH,Hohhot Baita International Airport,40.850898099999995,111.81798726025258,3487,http://www.hhhtbtjc.com/,Asia/Shanghai,HET,CN,Haoxinying,Inner Mongolia,,AP
-HEV,,Huelva,37.266666,-6.95,59,,Europe/Madrid,HEV,ES,Huelva,Andalusia,Provincia de Huelva,AP
 HEW,LGAT,Hengdian Airport,29.1257754,120.24493415336624,334,,Asia/Shanghai,HEW,CN,Nanshi,Zhejiang Sheng,,AP
-HEX,,Santo Domingo Herrera,18.475,-69.975,177,,America/Santo_Domingo,SDQ,DO,,,,AP
-HEY,,Hanchey Army Heliport,31.416668,-84.53333,190,,America/Chicago,OZR,US,Morgan,Georgia,Calhoun County,AP
 HEZ,KHEZ,Hardy-Anders,31.614721,-91.29639,239,https://www.adamscountyms.net/natchez-adams-county-airport,America/Chicago,HEZ,US,Morgantown,Mississippi,Adams County,AP
 HFA,LLHA,Haifa Airport,32.8105658,35.043082565539606,29,http://www.iaa.gov.il/Rashat/en-US/Airports/Haifa/,Asia/Jerusalem,HFA,IL,Qiryat Mozqin,Haifa,,AP
 HFD,KHFD,Brainard,41.7378691,-72.64876748368077,39,,America/New_York,HFD,US,Wethersfield,Connecticut,Hartford County,AP
@@ -3106,14 +3091,12 @@ HGN,VTCH,Mae Hong Son Airport,19.3010716,97.97606956686425,875,,Asia/Bangkok,HGN
 HGO,DIKO,Korhogo Airport,9.413889,-5.616667,1236,,Africa/Abidjan,HGO,CI,Korhogo,Savanes,,AP
 HGR,KHGR,Wash. County Regional Airport,39.70778,-77.73,675,,America/New_York,HGR,US,State Line,Pennsylvania,Franklin County,AP
 HGS,GFHA,Hastings,8.393056,-13.13,75,,Africa/Freetown,FNA,SL,Hastings,Western Area,,AP
-HGT,,Hunter AAF,35.966667,-121.15,977,,America/Los_Angeles,HGT,US,,,,AP
 HGU,AYMH,Mount Hagen Airport,-5.8275371,144.29964153501777,5380,,Pacific/Port_Moresby,HGU,PG,Mount Hagen,Western Highlands,Hagen,AP
 HGZ,2AK6,Hogatza,66.1849596,-155.7047114,439,,America/Anchorage,HGZ,US,,,,AP
 HHE,RJSH,Hachinohe,40.5541994,141.468868,124,,Asia/Tokyo,HHE,JP,Uchimaru,Aomori,Hachinohe Shi,AP
 HHH,KHXD,Hilton Head Airport,32.22564625,-80.69610111140818,104,,America/New_York,HHH,US,Hilton Head Island,South Carolina,Beaufort County,AP
 HHI,PHHI,Wheeler AFB,21.5,-158.03334,869,,Pacific/Honolulu,HHI,US,Wahiawa,Hawaii,Honolulu County,AP
 HHN,EDFH,Frankfurt - Hahn Airport,49.944633350000004,7.261210336785306,1692,,Europe/Berlin,FRA,DE,Lautzenhausen,Rheinland-Pfalz,,AP
-HHP,,H K Heliport,22.318056,114.2,22,,Asia/Hong_Kong,HKG,HK,,,,AP
 HHQ,VTPH,Hua Hin Airport,12.636825250000001,99.9510244942222,26,,Asia/Bangkok,HHQ,TH,Hua Hin,Prachuap Khiri Khan,,AP
 HHR,KHHR,Hawthorne,33.926945,-118.33639,62,,America/Los_Angeles,HHR,US,Hawthorne,California,Los Angeles County,AP
 HHZ,NTGH,Hikueru,-17.533333,-142.53334,0,,Pacific/Tahiti,HHZ,PF,,,,AP
@@ -3123,17 +3106,14 @@ HID,YHID,Horn Island Airport,-10.586416400000001,142.2862673040163,29,,Australia
 HIE,KHIE,Regional,44.365833,-71.548615,1026,http://www.mountwashingtonairport.com/,America/New_York,HIE,US,Whitefield,New Hampshire,Coos County,AP
 HIF,KHIF,Hill AFB,41.216667,-111.96667,4347,http://www.hill.af.mil/,America/Denver,OGD,US,Ogden,Utah,Weber County,AP
 HIG,YHHY,Highbury,-16.4244003,143.1459961,334,,Australia/Brisbane,HIG,AU,,,,AP
-HIH,,Hook Island,-20.166668,148.95,0,,Australia/Brisbane,HIH,AU,,,,AP
 HII,KHII,Municipal,34.568333,-114.35528,741,,America/Phoenix,HII,US,Desert Hills,Arizona,Mohave County,AP
 HIJ,RJOA,Hiroshima Airport,34.437479100000004,132.91951481722555,1076,,Asia/Tokyo,HIJ,JP,Takehara,Hiroshima,,AP
-HIK,,Hickam AFB,21.316668,-157.86667,39,,Pacific/Honolulu,HNL,US,Honolulu,Hawaii,Honolulu County,AP
 HIL,HASL,Shillavo,6.083333,44.766666,1269,,Africa/Addis_Ababa,HIL,ET,,,,AP
 HIM,VCCH,Hingurakgoda,8.0407681,80.9516787,219,http://www.airforce.lk/pages.php?pages=hingurakgoda,Asia/Colombo,HIM,LK,Polonnaruwa,North Central,,AP
 HIN,RKPS,Sacheon Airport,35.0921956,128.08665041662874,36,,Asia/Seoul,HIN,KR,Chinju,Gyeongsangnam-do,,AP
 HIO,KHIO,Portland,45.516666,-122.98333,160,http://www.flypdx.com/Airports/Hillsboro/,America/Los_Angeles,HIO,US,Hillsboro,Oregon,Washington County,AP
 HIP,YHDY,Headingly,-21.3221345,138.2954338,593,,Australia/Brisbane,HIP,AU,,,,AP
 HIR,AGGH,Honiara International Airport,-9.429441749999999,160.04987604652325,22,,Pacific/Guadalcanal,HIR,SB,,,,AP
-HIS,,Hayman Island,-20.066668,148.86667,0,,Australia/Lindeman,HIS,AU,,,,AP
 HIT,AYHO,Haivaro,-6.94283805,143.0551414177596,157,,Pacific/Port_Moresby,HIT,PG,,,,AP
 HIW,RJBH,Hiroshima West,34.36361,132.41638,19,,Asia/Tokyo,HIJ,JP,Hiroshima-shi,Hiroshima,,AP
 HJB,ZWHJ,Hejing Bayinbuluke Airport,42.9766,83.9729,8240,,Asia/Urumqi,HJB,CN,,,,AP
@@ -3168,10 +3148,8 @@ HLP,WIHH,Halim Perdanakusuma Airport,-6.2630208,106.8989505677548,55,http://www.
 HLR,KHLR,Fort Hood AAF,31.116667,-97.73333,797,,America/Chicago,ILE,US,Killeen,Texas,Bell County,AP
 HLS,YSTH,St Helens,-41.266666,148.25,239,,Australia/Hobart,HLS,AU,St Helens,Tasmania,Break O'Day,AP
 HLT,YHML,Hamilton,-37.646135400000006,142.0607158889008,761,,Australia/Melbourne,HLT,AU,Hamilton,Victoria,Southern Grampians,AP
-HLU,,Houailou,-21.033333,166.06667,0,,Pacific/Noumea,HLU,NC,Canala,North Province,Canala,AP
 HLV,,Helenvale,-15.6860941,145.2188078,485,,Australia/Brisbane,HLV,AU,,,,AP
 HLW,FAHL,Hluhluwe,-28.01605505,32.27510193785516,255,,Africa/Johannesburg,HLW,ZA,,,,AP
-HLY,,Anglesey Airport,53.3,-4.633333,55,,Europe/London,HLY,GB,Holyhead,Wales,Anglesey,AP
 HLZ,NZHN,Hamilton International Airport,-37.8649356,175.3315424211442,98,http://www.hamiltonairport.co.nz/,Pacific/Auckland,HLZ,NZ,Hamilton,Waikato,Hamilton City,AP
 HMA,USHH,Khanty-Mansiysk Airport,61.0289346,69.09482038194037,114,,Asia/Yekaterinburg,HMA,RU,Khanty-Mansiysk,Khanty-Mansiyskiy Avtonomnyy Okrug,,AP
 HMB,HESG,Mubarak International Airport,26.3417454,31.731065840096637,324,,Africa/Cairo,HMB,EG,Al Manshah,Suhaj,,AP
@@ -3190,15 +3168,12 @@ HNA,RJSI,Hanamaki Airport,39.4265171,141.13528215177976,255,,Asia/Tokyo,HNA,JP,H
 HNB,KHNB,Municipal,38.3,-86.95,501,http://huntingburgairport.com/,America/Indiana/Vincennes,HNB,US,Huntingburg,Indiana,Dubois County,AP
 HNC,KHSE,Hatteras,35.216667,-75.7,0,http://www.outerbanks.com/billy-mitchel-airport.html,America/New_York,HNC,US,Buxton,North Carolina,Dare County,AP
 HND,RJTT,Haneda Airport,35.54572095,139.78058713123818,22,http://www.haneda-airport.jp/,Asia/Tokyo,TYO,JP,Kawasaki,Kanagawa,Kawasaki-shi,AP
-HNE,,Tahneta Pass,61.8852019,-147.3349662,2942,,America/Anchorage,HNE,US,,,,AP
-HNG,,Hienghene,-20.666668,164.9,626,,Pacific/Noumea,HNG,NC,Hienghene,North Province,Hienghene,AP
 HNH,PAOH,Hoonah Airport,58.0977585,-135.4118093,19,,America/Juneau,HNH,US,,,,AP
 HNI,AYHE,Heiweni,22.213057,159.44695,3480,,Pacific/Port_Moresby,HNI,PG,Enewetak,Enewetak Atoll,,AP
 HNL,PHNL,Honolulu International Airport,21.32040435,-157.9173135198164,45,http://airports.hawaii.gov/hnl/,Pacific/Honolulu,HNL,US,Hickam Field,Hawaii,Honolulu County,AP
 HNM,PHHN,Hana Airport,20.7950029,-156.01442472183896,42,,Pacific/Honolulu,HNM,US,Hana,Hawaii,Maui County,AP
 HNN,AYHH,Honinabi,-6.133333,142.23334,495,,Pacific/Port_Moresby,HNN,PG,,,,AP
 HNS,PAHN,Haines Municipal Airport,59.245834,-135.51889,55,,America/Juneau,HNS,US,,,,AP
-HNX,,Hanna,41.833332,-106.5,7155,,America/Denver,HNX,US,,,,AP
 HNY,ZGHY,Hengyang Nanyue Airport,26.85,112.5,193,,Asia/Shanghai,HNY,CN,Hengyang,Hunan,Hengyang Shi,AP
 HOA,HKHO,Hola,-1.0,40.0,344,,Africa/Nairobi,HOA,KE,Hola,Tana River,,AP
 HOB,KHOB,Lea County Airport,32.68861,-103.21694,3641,,America/Denver,HOB,US,Hobbs,New Mexico,Lea County,AP
