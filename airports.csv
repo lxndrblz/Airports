@@ -2480,16 +2480,13 @@ FLP,KFLP,Flippin,36.292153,-92.587468,698,http://www.marioncountyairport.com/def
 FLR,LIRQ,Firenze-Peretola Airport,43.80928725,11.199120619746795,104,http://www.aeroporto.firenze.it/,Europe/Rome,FLR,IT,Sesto Fiorentino,Tuscany,Province of Florence,AP
 FLS,YFLI,Flinders Island Airport,-40.089789749999994,148.00199212585613,22,http://www.flinders.tas.gov.au/flinders-island-airport,Australia/Hobart,FLS,AU,Bridport,Tasmania,Dorset,AP
 FLT,FLT,Flat,62.4525,-157.9888889,328,,America/Anchorage,FLT,US,,,,AP
-FLU,,Flushing,40.775555,-73.83444,36,,America/New_York,NYC,US,,,,AP
 FLV,KFLV,Sherman AAF,39.36667,-94.916664,787,http://www.lvks.org/department/division.php?structureid=141,America/Chicago,FLV,US,Weston,Missouri,Platte County,AP
 FLW,LPFL,Santa Cruz Airport,39.466667,-31.15,383,,Atlantic/Azores,FLW,PT,,,,AP
 FLX,KFLX,Fallon Municipal Airport,39.49917,-118.74879,3960,,America/Los_Angeles,NFL,US,,,,AP
 FLY,YFIL,Finley,-35.65,145.58333,367,,Australia/Sydney,FLY,AU,,,,AP
 FLZ,WIMS,Ferdinand Lumban Tobing Airport,1.5584287,98.88774911868903,29,,Asia/Jakarta,FLZ,ID,Batangtoru,North Sumatra,,AP
 FMA,SARF,El Pucu Airport,-26.213222950000002,-58.22846252379796,127,,America/Argentina/Cordoba,FMA,AR,Formosa,Formosa,,AP
-FMC,,Five Mile,66.916664,-149.84166,4320,,America/Anchorage,FMC,US,,,,AP
 FME,KFME,Tipton AAF,39.103863,-76.84414,150,http://tiptonairport.org/,America/New_York,FME,US,Laurel,Maryland,Prince George's County,AP
-FMG,,Flamingo,10.416667,-85.78333,52,,America/Costa_Rica,FMG,CR,Sardinal,Guanacaste,,AP
 FMH,KFMH,Otis AFB,41.666668,-70.55,134,http://www.uscg.mil/d1/airstacapecod/,America/New_York,FMH,US,Forestdale,Massachusetts,Barnstable County,AP
 FMI,FZRF,Kalemie Airport,-5.8767486,29.245703687724784,2539,,Africa/Lubumbashi,FMI,CD,Kalemie,Katanga,,AP
 FMM,EDJA,Memmingen Allgau Airport,47.9892386,10.235409335315072,2060,,Europe/Berlin,FMM,DE,Memmingerberg,Bavaria,Swabia,AP
@@ -2508,7 +2505,6 @@ FNG,DFEF,Fada Ngourma,12.066667,0.35,948,,Africa/Ouagadougou,FNG,BF,Fada N'gourm
 FNH,HAFN,Fincha,9.583333,37.433334,5318,,Africa/Addis_Ababa,FNH,ET,Shambu,Oromiya,,AP
 FNI,LFTW,Garons Airport,43.75,4.416667,295,,Europe/Paris,FNI,FR,Garons,Languedoc-Roussillon,Departement du Gard,AP
 FNJ,ZKPY,Pyongyang Sunan International Airport,39.2295753,125.67704274664212,62,,Asia/Pyongyang,FNJ,KP,Sunan,Pyongyang,,AP
-FNK,,Fin Creek,69.5,-147.58333,836,,America/Anchorage,FNK,US,,,,AP
 FNL,KFNL,Municipalcipal Airport,40.583332,-105.083336,5039,http://www.flynoco.com/,America/Denver,FNL,US,,,,AP
 FNR,PANR,SPB,58.333332,-134.58333,114,,America/Juneau,FNR,US,,,,AP
 FNT,KFNT,Bishop International Airport,42.9607553,-83.74563177999201,777,,America/Detroit,FNT,US,Flint,Michigan,Genesee County,AP
@@ -2523,12 +2519,10 @@ FOK,KFOK,Suffolk County,40.833332,-72.666664,59,http://www.suffolkcountyny.gov/D
 FOM,FKKM,Foumban,5.75,10.833333,3881,,Africa/Douala,FOM,CM,Foumban,West,,AP
 FON,MRAN,Fortuna Airport,10.4,-84.48333,206,,America/Costa_Rica,FON,CR,Quesada,Alajuela,,AP
 FOO,WABF,Numfoor,-1.05,134.9,111,,Asia/Jayapura,FOO,ID,Kameri,Papua,,AP
-FOP,,Morris AAF,33.61667,-84.36667,971,,America/New_York,FOP,US,Forest Park,Georgia,Clayton County,AP
 FOR,SBFZ,Pinto Martins Airport,-3.779073,-38.540836,141,,America/Fortaleza,FOR,BR,Fortaleza,Ceara,Fortaleza,AP
 FOS,YFRT,Forrest,-30.816668,128.05,538,,Australia/Perth,FOS,AU,,,,AP
 FOT,YFST,Forster,-32.183334,151.51666,1266,,Australia/Sydney,FOT,AU,Dungog,New South Wales,Dungog,AP
 FOU,FOGF,Fougamou,-1.2,10.783333,931,,Africa/Libreville,FOU,GA,,,,AP
-FOX,,Fox,64.0,-147.0,3740,,America/Anchorage,FOX,US,Salcha,Alaska,Fairbanks North Star Borough,AP
 FOY,,Foya,8.3557615,-10.2274232,1440,,Africa/Monrovia,FOY,LR,Buedu,Eastern Province,,AP
 FPO,MYGF,Grand Bahama International Airport,26.556512750000003,-78.6955864137168,55,,America/Nassau,FPO,BS,Freeport,Freeport,,AP
 FPR,KFPR,St Lucie County,27.45,-80.333336,45,,America/New_York,FPR,US,Fort Pierce,Florida,Saint Lucie County,AP
@@ -2546,7 +2540,6 @@ FRL,LIPK,Luigi Ridolfi,44.195467199999996,12.067528607688963,68,,Europe/Rome,FRL
 FRM,KFRM,Fairmont,43.64722,-94.423615,1135,,America/Chicago,FRM,US,Fairmont,Minnesota,Martin County,AP
 FRN,PAFR,Bryant AAF,61.25,-149.68333,278,,America/Anchorage,FRN,US,Elmendorf Air Force Base,Alaska,Anchorage Municipality,AP
 FRO,ENFL,Flora Airport,61.58643,5.024577,29,https://avinor.no/en/airport/floro-airport/,Europe/Oslo,FRO,NO,Floro,Sogn og Fjordane,Flora,AP
-FRP,,Fresh Water Bay,57.845833,-135.025,0,,America/Juneau,FRP,US,,,,AP
 FRQ,AYFE,Feramin,-5.416667,141.7,5236,,Pacific/Port_Moresby,FRQ,PG,,,,AP
 FRR,KFRR,Front Royal-Warren County,38.91737455,-78.2547337875,682,,America/New_York,FRR,US,Front Royal,Virginia,Warren County,AP
 FRS,MGMM,Santa Elena Airport,16.916668,-89.88333,410,,America/Guatemala,FRS,GT,Flores,Peten,Municipio de Flores,AP
@@ -2561,7 +2554,6 @@ FSI,KFSI,Henry Post AAF,34.650723,-98.419975,1187,http://sill-www.army.mil/Histo
 FSK,KFSK,Municipal,37.833332,-94.7,846,http://www.fscity.org/index.php?option=com_content&view=article&id=98&Itemid=195,America/Chicago,FSK,US,Fort Scott,Kansas,Bourbon County,AP
 FSL,,Fossil Downs,-18.2,125.8,383,,Australia/Perth,FSL,AU,,,,AP
 FSM,KFSM,Fort Smith Regional Airport,35.3392525,-94.35697826263008,436,,America/Chicago,FSM,US,Barling,Arkansas,Sebastian County,AP
-FSN,,Haley AAF,42.15,-87.96667,669,,America/Chicago,FSN,US,Buffalo Grove,Illinois,Cook County,AP
 FSP,LFVP,Saint Pierre Airport,46.916668,-56.166668,0,,America/Miquelon,FSP,PM,Saint-Pierre,Saint-Pierre,,AP
 FSS,EGQK,Kinloss,57.65,-3.566667,36,,Europe/London,FSS,GB,Kinloss,Scotland,Moray,AP
 FST,KFST,Pecos County,30.893888,-102.87889,2969,,America/Chicago,FST,US,Fort Stockton,Texas,Pecos County,AP
@@ -2571,7 +2563,6 @@ FTA,NVVF,Futuna Airport,-19.416668,170.25,0,,Pacific/Efate,FTA,VU,,,,AP
 FTE,SAWC,El Calafate Airport,-50.28083645,-72.05064458669506,620,http://www.aeropuertoelcalafate.com/en/,America/Argentina/Rio_Gallegos,FTE,AR,,,,AP
 FTI,NSFQ,Fitiuta,-14.2161361,-169.42350846539222,82,,Pacific/Pago_Pago,FTI,AS,,,,AP
 FTK,KFTK,Godman AAF,37.9,-85.95,770,,America/Chicago,FTK,US,Fort Knox,Kentucky,Hardin County,AP
-FTL,,Fortuna Ledge,61.88333,-162.08333,78,,America/Nome,FTL,US,,,,AP
 FTU,FMSD,Marillac Airport,-25.04204875,46.95019958578181,32,,Indian/Antananarivo,FTU,MG,Fort Dauphin,Anosy,,AP
 FTW,KFTW,Meacham Field,32.75,-97.333336,636,http://meacham.com/,America/Chicago,FTW,US,,,,AP
 FTX,FCOO,Owando,-0.983333,16.008333,1059,,Africa/Brazzaville,FTX,CG,Owando,Cuvette,,AP
@@ -2592,9 +2583,7 @@ FVR,YFRV,Forrest River Airport,-15.253056,127.833336,396,,Australia/Perth,FVR,AU
 FWA,KFWA,Fort Wayne International Airport,40.9798288,-85.18791163159256,790,https://fwairport.com/,America/Indiana/Indianapolis,FWA,US,Ossian,Indiana,Wells County,AP
 FWH,KNFW,Fort Worth NAS Jrb/Carswell Field,32.76389,-97.3,577,http://www.cnic.navy.mil/regions/cnrse/installations/nas_jrb_fort_worth.html,America/Chicago,DFW,US,,,,AP
 FWL,PAFW,Farewell,62.50177185,-153.89687510043274,1492,,America/Anchorage,FWL,US,,,,AP
-FWM,,Heliport,56.816666,-5.116667,0,,Europe/London,FWM,GB,Fort William,Scotland,Highland,AP
 FXE,KFXE,Fort Lauderdale Executive Airport,26.066668,-80.15,22,http://www.fortlauderdale.gov/fxE/index.htm,America/New_York,FLL,US,Dania Beach,Florida,Broward County,AP
-FXM,,Flaxman Island,70.2,-146.0,0,,America/Anchorage,FXM,US,,,,AP
 FXO,FQCB,Cuamba,-14.817214400000001,36.53171848953477,1879,,Africa/Maputo,FXO,MZ,Cuamba,Niassa,,AP
 FXY,KFXY,Municipal,43.266666,-93.65,1276,http://www.cityofforestcity.com/departments/airport.asp,America/Chicago,FXY,US,Forest City,Iowa,Winnebago County,AP
 FYJ,ZYFY,Fuyuan Dongji Airport,48.199494,134.366447,167,,Asia/Shanghai,FYJ,CN,Fuyuan,Heilongjiang Sheng,,AP
@@ -2615,7 +2604,6 @@ GAG,KGAG,Gage,36.35,-99.88333,2404,,America/Chicago,GAG,US,Shattuck,Oklahoma,Ell
 GAH,YGAY,Gayndah,-25.433332,151.48334,465,,Australia/Brisbane,GAH,AU,Gayndah,Queensland,North Burnett,AP
 GAI,KGAI,Montgomery County,39.15,-77.2,505,http://www.montgomerycountyairpark.com/,America/New_York,GAI,US,Gaithersburg,Maryland,Montgomery County,AP
 GAJ,RJSC,Junmachi Airport,38.410645,140.36583,308,,Asia/Tokyo,GAJ,JP,Higashine,Yamagata,,AP
-GAK,,Gakona,62.333332,-145.31667,1758,,America/Anchorage,GAK,US,,,,AP
 GAL,PAGA,Edward G. Pitka Sr. Airport,64.73703425,-156.9332819814526,141,,America/Anchorage,GAL,US,,,,AP
 GAM,PAGM,Gambell Airport,63.7663034,-171.73268001027537,0,,America/Nome,GAM,US,,,,AP
 GAN,VRMG,Gan/Seenu Airport,-0.690003,73.15654,0,http://www.airports.com.mv/domestic/gan.htm,Indian/Maldives,GAN,MV,Hithadhoo,South Province,,AP
@@ -2644,10 +2632,8 @@ GBJ,TFFM,Les Bases,15.866667,-61.266666,0,,America/Guadeloupe,GBJ,GP,Grand-Bourg
 GBK,GFGK,Gbangbatok,7.81271795,-12.377632906257602,167,,Africa/Freetown,GBK,SL,Mogbwemo,Southern Province,,AP
 GBL,YGBI,Goulburn Island,-11.55,133.43333,0,,Australia/Darwin,GBL,AU,,,,AP
 GBM,,Garbaharey,3.3226676,42.2127663,715,,Africa/Mogadishu,GBM,SO,Garbahaarrey,Gedo,,AP
-GBO,,Baltimore Greenbelt T,39.266666,-76.75,501,,America/New_York,BWI,US,Catonsville,Maryland,Baltimore County,AP
 GBP,YGAM,Gamboola,-16.5434964,143.6696981,426,,Australia/Brisbane,GBP,AU,,,,AP
 GBR,KGBR,Walter J. Koladza Airport,42.18405305,-73.40333226677501,695,http://greatbarringtonairport.com/,America/New_York,GBR,US,Great Barrington,Massachusetts,Berkshire County,AP
-GBS,,Port Fitzroy,-36.13333,175.33333,45,,Pacific/Auckland,GBS,NZ,,,,AP
 GBT,OING,Gorgon Airport,36.90851,54.410515,-13,,Asia/Tehran,GBT,IR,Gorgan,Golestan,,AP
 GBU,HSKG,Khashm El Girba,14.9250002,35.8779984,1581,,Africa/Khartoum,GBU,SD,,,,AP
 GBV,YGIB,Gibb River,-15.65,126.63333,1167,,Australia/Perth,GBV,AU,,,,AP
@@ -2663,7 +2649,6 @@ GCK,KGCK,Garden City Municipal Airport,37.92861,-100.72972,2883,,America/Chicago
 GCM,MWCR,Owen Roberts International Airport,19.292621150000002,-81.35854363791051,32,,America/Cayman,GCM,KY,George Town,,,AP
 GCN,KGCN,National Park,35.951942,-112.1475,6591,http://www.azdot.gov/aviation/airports/airports_list.asp?FAA=GCN,America/Phoenix,GCN,US,,,,AP
 GCT,,Grand Canyon Bar 10 Airport,36.258,-113.2311,3933,,America/Phoenix,GCT,US,,,,AP
-GCV,,Gravatai,-29.941668,-50.994167,127,,America/Sao_Paulo,GCV,BR,Gravatai,Rio Grande do Sul,Gravatai,AP
 GCW,K1G4,Grand Canyon West,36.07211,-113.9495,4173,,America/Phoenix,GCW,US,Meadview,Arizona,Mohave County,AP
 GCY,KGCY,Municipal,36.216667,-82.85,1272,http://www.greenevilleaviation.com/,America/New_York,GCY,US,Greeneville,Tennessee,Greene County,AP
 GDA,,Gounda,9.333333,21.166668,1341,,Africa/Bangui,GDA,CF,,,,AP
@@ -2694,8 +2679,6 @@ GED,KGED,Sussex County,38.6898781,-75.35956548781664,72,https://www.sussexcounty
 GEE,YGTO,George Town,-18.283333,143.55,938,,Australia/Hobart,GEE,AU,,,,AP
 GEF,AGEV,Geva Airstrip,-7.578333,156.59778,160,,Pacific/Guadalcanal,GEF,SB,,,,AP
 GEG,KGEG,Spokane International Airport,47.620044050000004,-117.54236665513882,2342,http://www.spokaneairports.net/,America/Los_Angeles,GEG,US,Airway Heights,Washington,Spokane County,AP
-GEI,,Green Islands,-4.5,154.16667,78,,Pacific/Port_Moresby,GEI,PG,,,,AP
-GEK,,Ganes Creek,63.1,-156.43333,577,,America/Anchorage,GEK,US,,,,AP
 GEL,SBNM,Sepe Tiaraju,-28.28341965,-54.165611958794074,1013,,America/Sao_Paulo,GEL,BR,Santo Angelo,Rio Grande do Sul,Santo Angelo,AP
 GEM,FGMY,President Obiang Nguema International Airport,1.68179985,11.023465279817616,2234,,Africa/Malabo,GEM,GQ,Mongomo,Wele-Nzas,,AP
 GEO,SYCJ,Cheddi Jagan International Airport,6.498248800000001,-58.25592779458964,65,http://www.cjairport-gy.com/,America/Guyana,GEO,GY,Vreed-en-Hoop,Essequibo Islands-West Demerara,,AP
@@ -2706,8 +2689,6 @@ GEV,ESNG,Gallivare Airport,67.13180875,20.81734626236164,944,,Europe/Stockholm,G
 GEW,AYGC,Gewoia,-9.3,148.46666,3041,,Pacific/Port_Moresby,GEW,PG,,,,AP
 GEX,YGLG,Geelong,-38.13333,144.35,72,,Australia/Melbourne,GEX,AU,Geelong West,Victoria,Greater Geelong,AP
 GEY,KGEY,South Big Horn County,44.518039200000004,-108.083695988344,3904,http://www.bighorncountywy.gov/res-airports.htm,America/Denver,GEY,US,Greybull,Wyoming,Big Horn County,AP
-GFA,,Malmstrom AFB,47.5,-111.28333,3339,,America/Denver,GTF,US,,,,AP
-GFB,,Togiak Fish,59.016666,-160.05,173,,America/Anchorage,GFB,US,,,,AP
 GFD,KGFD,Pope Field,39.792199499999995,-85.73558027671119,843,,America/Indiana/Indianapolis,GFD,US,Greenfield,Indiana,Hancock County,AP
 GFE,YGNF,Grenfell,-33.9,148.18333,1374,,Australia/Sydney,GFE,AU,Grenfell,New South Wales,Weddin,AP
 GFF,YGTH,Griffith Airport,-34.252893349999994,146.06375907653336,383,,Australia/Sydney,GFF,AU,Griffith,New South Wales,Griffith,AP
@@ -2788,7 +2769,6 @@ GLM,YGLO,Glenormiston,-22.8901443,138.8210152,452,,Australia/Brisbane,GLM,AU,,,,
 GLN,GMAG,Goulimime Airport,29.016666,-10.066667,1023,,Africa/Casablanca,GLN,MA,Guelmim,Guelmim-Es Smara,Guelmim,AP
 GLO,EGBJ,Gloucestershire,51.88333,-2.233333,29,,Europe/London,GLO,GB,Gloucester,England,Gloucestershire,AP
 GLP,AYUP,Gulgubip,-5.283333,141.51666,4333,,Pacific/Port_Moresby,GLP,PG,,,,AP
-GLQ,,Glennallen,62.11667,-145.55,1433,,America/Anchorage,GLQ,US,,,,AP
 GLR,KGLR,Otsego County,45.0087112,-84.7023032695021,1299,http://www.gaylordregional.com/default.htm,America/Detroit,GLR,US,Gaylord,Michigan,Otsego County,AP
 GLS,KGLS,Scholes Field,29.2675,-94.860275,26,,America/Chicago,GLS,US,Galveston,Texas,Galveston County,AP
 GLT,YGLA,Gladstone Airport,-23.869519150000002,151.22385043997647,45,,Australia/Brisbane,GLT,AU,,,,AP
@@ -2835,7 +2815,6 @@ GOA,LIMJ,Genoa Cristoforo Colombo Airport,44.4127072,8.843503285615387,16,http:/
 GOB,HAGB,Goba,7.013889,39.980556,8832,,Africa/Addis_Ababa,GOB,ET,,,,AP
 GOC,AYGX,Gora,-9.166667,148.81667,88,,Pacific/Port_Moresby,GOC,PG,,,,AP
 GOE,AYGL,Gonalia,-5.366667,151.85,3146,,Pacific/Port_Moresby,GOE,PG,,,,AP
-GOF,,Goodfellow AFB,31.466667,-100.433334,1837,,America/Chicago,SJT,US,,,,AP
 GOG,FYGB,Gobabis,-22.5053774,18.97155062506426,4681,,Africa/Windhoek,GOG,NA,,,,AP
 GOH,BGGH,Nuuk Airport,64.1927724,-51.67788040878934,203,,America/Godthab,GOH,GL,Nuuk,Sermersooq,,AP
 GOI,VOGO,Dabolim Airport,15.380501500000001,73.8317012646639,141,,Asia/Kolkata,GOI,IN,Chicalim,Goa,South Goa,AP
@@ -2910,15 +2889,12 @@ GSS,FASE,Sabi Sabi,-25.116667,30.8,4215,,Africa/Johannesburg,GSS,ZA,Graksop,Mpum
 GST,PAGS,Gustavus Airport,58.423770649999994,-135.70631132484405,16,,America/Juneau,GST,US,,,,AP
 GSU,HSGF,Gedaref,14.033333,35.466667,2070,,Africa/Khartoum,GSU,SD,Al Qadarif,Al Qadarif,,AP
 GSV,,Saratov Gagarin Airport,51.716667,46.166667,82,,Europe/Saratov,RTW,RU,Shumeyka,Saratov,,AP
-GSY,,Binbrook,53.583332,-0.083333,0,,Europe/London,GSY,GB,Grimsby,England,North East Lincolnshire,AP
 GTA,AGOK,Gatokae Aerodrom,-8.766667,158.18333,823,,Pacific/Guadalcanal,GTA,SB,,,,AP
-GTB,,Genting,2.116667,111.7,22,,Asia/Kuala_Lumpur,GTB,MY,,,,AP
 GTC,,Green Turtle,26.25,-77.36667,0,,America/Nassau,GTC,BS,Hard Bargain,Moore's Island,,AP
 GTE,YGTE,Alyangula Airport,-13.973887,136.46002,39,,Australia/Darwin,GTE,AU,,,,AP
 GTF,KGTF,Great Falls International Airport,47.4800263,-111.37557897482165,3664,,America/Denver,GTF,US,Great Falls,Montana,Cascade County,AP
 GTG,KGTG,Municipal,45.783333,-92.683334,921,http://www.grantsburgwi.com/airport.html,America/Chicago,GTG,US,Grantsburg,Wisconsin,Burnett County,AP
 GTI,EDCG,Guettin,54.38333,12.316667,0,,Europe/Berlin,GTI,DE,Ostseebad Dierhagen,Mecklenburg-Vorpommern,,AP
-GTK,,Sungei Tekai,2.6,102.916664,154,,Asia/Kuala_Lumpur,GTK,MY,Segamat,Johor,,AP
 GTN,NZGT,Glentanner,-43.766666,170.13611,2122,,Pacific/Auckland,MON,NZ,,,,AP
 GTO,WAMG,Tolotio Airport,0.639039,122.850876,121,,Asia/Makassar,GTO,ID,Isimu,Gorontalo,,AP
 GTP,KSXT,Grants Pass,42.5101682,-123.3885181,1079,,America/Los_Angeles,GTP,US,Merlin,Oregon,Josephine County,AP
@@ -2940,7 +2916,6 @@ GUI,SVGI,Guiria,10.5764238,-62.31121093515691,65,,America/Caracas,GUI,VE,Gueiria
 GUJ,SBGW,Guaratingueta,-22.791205050000002,-45.20482610775648,1748,,America/Sao_Paulo,GUJ,BR,Guaratingueta,Sao Paulo,Guaratingueta,AP
 GUL,YGLB,Goulburn,-34.75,149.71666,2080,,Australia/Sydney,GUL,AU,Goulburn,New South Wales,Goulburn Mulwaree,AP
 GUM,PGUM,A.B. Won Pat International Airport,13.492787,144.80486,282,http://www.guamairport.com/,Pacific/Guam,GUM,GU,Tamuning-Tumon-Harmon Village,Tamuning,,AP
-GUN,,Gunter AFB,32.38333,-86.316666,167,,America/Chicago,MGM,US,,,,AP
 GUO,MHJI,Gualaco,15.116667,-86.13333,2152,,America/Tegucigalpa,GUO,HN,Gualaco,Olancho,,AP
 GUP,KGUP,Senator Clark,35.511112,-108.78667,6463,,America/Denver,GUP,US,Gallup,New Mexico,McKinley County,AP
 GUQ,SVGU,Guanare,9.02806755,-69.75436356069964,531,,America/Caracas,GUQ,VE,Guanare,Portuguesa,Municipio Guanare,AP
