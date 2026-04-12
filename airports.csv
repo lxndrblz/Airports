@@ -1971,7 +1971,6 @@ DOB,WAPD,Dobo Airport,-5.75,134.0,0,,Asia/Jayapura,DOB,ID,,,,AP
 DOC,EGZJ,Dornoch,57.868827,-4.023288,32,http://www.dornochairfield.com/,Europe/London,DOC,GB,Dornoch,Scotland,Highland,AP
 DOD,HTDO,Dodoma Airport,-6.1700681500000005,35.754430618763045,3622,,Africa/Dar_es_Salaam,DOD,TZ,Dodoma,Dodoma,,AP
 DOE,SMDJ,Djoemoe,4.016667,-55.483334,288,,America/Paramaribo,DOE,SR,,,,AP
-DOF,,Dora Bay,55.2125,-132.26666,0,,America/Sitka,DOF,US,,,,AP
 DOG,HSDN,Dongola,19.1533534,30.43057893663059,702,,Africa/Khartoum,DOG,SD,Dongola,Northern State,,AP
 DOH,OTHH,Hamad International Airport,25.267569,51.558067,78,http://dohahamadairport.com/,Asia/Qatar,DOH,QA,Doha,Baladiyat ad Dawhah,,AP
 DOI,AYDO,Doini,-10.701181250000001,150.7230841868182,32,,Pacific/Port_Moresby,DOI,PG,,,,AP
@@ -1991,7 +1990,6 @@ DPA,KDPA,DuPage Airport,41.90513465,-88.25218333266092,731,http://www.dupageairp
 DPB,SCBI,Pampa Guanaco Airport,-54.05,-68.808333,505,,America/Santiago,DPB,CL,,,,AP
 DPE,LFAB,Dieppe,49.961388,1.241111,390,,Europe/Paris,DPE,FR,Saint-Martin-en-Campagne,Haute-Normandie,Departement de la Seine-Maritime,AP
 DPG,KDPG,Michael AAF,40.233334,-112.75,4908,,America/Denver,DPG,US,Grantsville,Utah,Tooele County,AP
-DPK,,Deer Park,41.0,-73.53333,0,,America/New_York,DPK,US,Old Greenwich,Connecticut,Fairfield County,AP
 DPL,RPMG,Dipolog Airport,8.602411799999999,123.34199697345741,29,http://www.dipologcity.com/AccommodationsDipolog%20Airport.htm,Asia/Manila,DPL,PH,Dipolog,Zamboanga Peninsula,Province of Zamboanga del Norte,AP
 DPO,YDPO,Devonport Airport,-41.1717979,146.42759229572462,29,http://www.tasports.com.au/infrastructure/devonport_airport.html,Australia/Hobart,DPO,AU,,,,AP
 DPP,,Datia Airport,25.649972,78.503167,779,,Asia/Kolkata,DPP,IN,,,,AP
@@ -2058,7 +2056,6 @@ DUG,KDUG,Bisbee-Douglas International,31.46388645,-109.6048261340828,4091,http:/
 DUJ,KDUJ,Du Bois-Jefferson County,41.178333,-78.89889,1784,,America/New_York,DUJ,US,Reynoldsville,Pennsylvania,Jefferson County,AP
 DUK,FADK,Dukuduk,-28.366667,32.234165,291,,Africa/Johannesburg,DUK,ZA,Mtubatuba,KwaZulu-Natal,uMkhanyakude District Municipality,AP
 DUM,WIBD,Pinang Kampai,1.60899315,101.43332717293623,72,,Asia/Jakarta,DUM,ID,Bagan Besar,Riau,,AP
-DUN,,Dundas,76.577225,-68.77556,0,,America/Godthab,DUN,GL,,,,AP
 DUQ,CAM3,Duncan/Quam,48.783333,-123.7,26,,America/Vancouver,DUQ,CA,Duncan,British Columbia,,AP
 DUR,FALE,King Shaka International Airport,-29.6099422,31.11688170804795,246,,Africa/Johannesburg,DUR,ZA,Ballitoville,KwaZulu-Natal,iLembe District Municipality,AP
 DUS,EDDL,Dusseldorf International Airport,51.2869035,6.761736665024513,108,http://www.dus.com/dus_en/,Europe/Berlin,DUS,DE,,,,AP
@@ -2075,9 +2072,7 @@ DWA,FWDW,Dwangwa,-13.0,34.13333,2014,,Africa/Blantyre,DWA,MW,Nkhotakota,Central 
 DWB,FMNO,Soalala,-16.101381,45.3581714,111,,Indian/Antananarivo,DWB,MG,Sitampiky,Boeny,,AP
 DWC,OMDW,Dubai World Central - Al Maktoum International Airport,24.918056,55.175278,104,,Asia/Dubai,DXB,AE,,,,AP
 DWD,OEDM,Dawadmi Airport,24.4500793,44.1258191651475,3061,,Asia/Riyadh,DWD,SA,Ad Dawadimi,Ar Riyad,,AP
-DWF,,Wright AFB,39.666668,-84.183334,879,,America/New_York,DAY,US,Kettering,Ohio,Montgomery County,AP
 DWH,KDWH,David Wayne Hooks,29.75,-95.416664,78,http://www.hooksairport.com/,America/Chicago,HOU,US,,,,AP
-DWN,,Downtown Airpark,35.45,-97.53333,1210,,America/Chicago,OKC,US,,,,AP
 DWO,,Diyawanna Oya Seaplane Base,6.904439,79.9093208,42,,Asia/Colombo,DWO,LK,Battaramulla South,Western,,AP
 DWR,,Dwyer Air Base,31.0,64.0,2385,http://militarybases.com/overseas/afghanistan/camp-dwyer/,Asia/Kabul,DWR,AF,Markaz-e Hukumat-e Darweshan,Helmand,,AP
 DWS,,Walt Disney World,28.4020746,-81.5722231,65,,America/New_York,ORL,US,Celebration,Florida,Osceola County,AP
@@ -2121,7 +2116,6 @@ EBL,ORER,Erbil International Airport,36.23784135,43.9489017061083,1164,,Asia/Bag
 EBM,DTTR,El Borma,31.70399195,9.254241482361664,790,,Africa/Tunis,EBM,TN,Remada,Tataouine,,AP
 EBN,,Ebadon,9.3305597,166.8200073,29,,Pacific/Kwajalein,EBN,MH,,,,AP
 EBO,,Ebon Airport,4.5988889,168.7530556,26,,Pacific/Majuro,EBO,MH,Ebon,Ebon Atoll,,AP
-EBR,,Downtown,30.45,-91.183334,82,,America/Chicago,BTR,US,Port Allen,Louisiana,West Baton Rouge Parish,AP
 EBS,KEBS,Municipal,42.466667,-93.816666,1056,,America/Chicago,EBS,US,Webster City,Iowa,Hamilton County,AP
 EBU,LFMH,Boutheon Airport,45.54139,4.296944,1256,,Europe/Paris,EBU,FR,Veauche,Rhone-Alpes,Departement de la Loire,AP
 EBW,FKKW,Ebolowa,2.916667,11.166667,2014,,Africa/Douala,EBW,CM,Ebolowa,South Province,,AP
@@ -2140,7 +2134,6 @@ EDC,KEDC,Austin Executive Airport,30.3974931,-97.5663935,620,,America/Chicago,ED
 EDD,YERL,Erldunda,-25.25,133.2,1354,,Australia/Darwin,EDD,AU,,,,AP
 EDE,KEDE,Municipal,36.066666,-76.65,29,,America/New_York,EDE,US,Edenton,North Carolina,Chowan County,AP
 EDF,PAED,Elmendorf AFB,61.25323915,-149.80818022420294,200,,America/Anchorage,ANC,US,,,,AP
-EDG,,Weide AAF,39.465668,-76.360916,246,,America/New_York,EDG,US,Joppatowne,Maryland,Harford County,AP
 EDI,EGPH,Edinburgh Airport,55.950128899999996,-3.3595079855289756,72,http://www.edinburghairport.com/,Europe/London,EDI,GB,Ratho,Scotland,Edinburgh,AP
 EDK,KEQA,El Dorado,37.816666,-96.86667,1338,http://www.eldoks.com/Airport%20Cover.html,America/Chicago,EDK,US,El Dorado,Kansas,Butler County,AP
 EDL,HKEL,Eldoret Airport,0.4043631,35.23328885990355,6837,http://www.kenyaairports.co.ke/kaa/airports/eldoret/,Africa/Nairobi,EDL,KE,Eldoret,Uasin Gishu,,AP
@@ -2155,12 +2148,10 @@ EED,KEED,Needles,34.85,-114.61667,482,http://cms.sbcounty.gov/airports/Airports/
 EEK,PAEE,Eek Airport,60.21367395,-162.04395780488488,32,,America/Nome,EEK,US,,,,AP
 EEN,KEEN,Dillant-Hopkins,42.8946227,-72.26985656446831,449,,America/New_York,EEN,US,Swanzey,New Hampshire,Cheshire County,AP
 EES,,Berenice International Airport,23.980303,35.45003685693535,55,,Africa/Cairo,IUP,EG,Berenice City,,,AP
-EFB,,Eight Fathom Bight,58.0,-135.73334,0,,America/Juneau,EFB,US,,,,AP
 EFD,KEFD,Ellington Field,29.6,-95.15,32,,America/Chicago,HOU,US,Webster,Texas,Harris County,AP
 EFG,AYEF,Efogi,-9.1537629,147.65981923737388,3887,,Pacific/Port_Moresby,EFG,PG,,,,AP
 EFK,KEFK,Newport,44.889442,-72.23,928,,America/New_York,EFK,US,,,,AP
 EFL,LGKF,Kefallinia Airport,38.120146399999996,20.50046516809963,65,,Europe/Athens,EFL,GR,Argostolion,Ionian Islands,Nomos Kefallinias,AP
-EFO,,East Fork Airport,64.69277777,-164.276388,147,,America/Nome,EFO,US,,,,AP
 EFW,KEFW,Municipal,42.016666,-94.38333,1049,http://cityofjeffersoniowa.org/depts-airport.php,America/Chicago,EFW,US,Jefferson,Iowa,Greene County,AP
 EGA,AYEN,Engati,-6.917968050000001,146.10562831870763,3677,,Pacific/Port_Moresby,EGA,PG,,,,AP
 EGC,LFBE,Roumanieres Airport,44.85,0.483333,91,,Europe/Paris,EGC,FR,Bergerac,Aquitaine,Departement de la Dordogne,AP
@@ -2176,7 +2167,6 @@ EGV,KEGV,Eagle River,45.92917,-89.26583,1660,http://www.erairport.com/,America/C
 EGX,PAII,Egegik Airport,58.1876085,-157.3757513,36,,America/Anchorage,EGX,US,,,,AP
 EHL,SAVB,El Bolson,-42.0,-71.75,4740,,America/Argentina/Salta,EHL,AR,Lago Puelo,Chubut,,AP
 EHM,PAEH,Cape Newenham,58.6463889,-162.0625,288,,America/Nome,EHM,US,,,,AP
-EHT,,Rentschler,41.766666,-72.65,55,,America/New_York,EHT,US,,,,AP
 EHU,ZHEC,Ezhou Huahu Airport,30.346,115.0474,65,,Asia/Shanghai,EHU,CN,Ezhou,,,AP
 EIA,,Popondetta,-8.116667,147.63333,643,,Pacific/Port_Moresby,EIA,PG,,,,AP
 EIB,EDGE,Eisenach,50.983334,10.483333,974,http://www.flugplatz-eisenach.de/,Europe/Berlin,EIB,DE,Haina,Thuringia,,AP
@@ -2228,7 +2218,6 @@ ELX,,El Tigre,8.883333,-64.26667,1017,,America/Caracas,ELX,VE,El Tigre,Anzoategu
 ELY,KELY,Yelland,39.301945,-114.84194,6236,,America/Los_Angeles,ELY,US,Ely,Nevada,White Pine County,AP
 ELZ,KELZ,Municipal,42.11667,-77.95,1509,,America/New_York,ELZ,US,Wellsville,New York,Allegany County,AP
 EMA,EGNX,East Midlands Airport,52.832787,-1.3409974,259,http://www.eastmidlandsairport.com/,Europe/London,NQT,GB,Castle Donington,England,Leicestershire,AP
-EMB,,Embarkadero,37.62528,-122.375,42,,America/Los_Angeles,SFO,US,,,,AP
 EMD,YEML,Emerald Airport,-23.5694249,148.17632214869155,616,http://www.emerald.qld.gov.au/Council/Departments/Engineering_Operations/Engineering_Operations.htm,Australia/Brisbane,EMD,AU,Emerald,Queensland,Central Highlands,AP
 EME,EDWE,Emden,53.3901805,7.2276361,29,,Europe/Berlin,EME,DE,Emden,Lower Saxony,,AP
 EMG,FAEM,Empangeni,-28.7195011,31.8927469,209,,Africa/Johannesburg,EMG,ZA,Empangeni,KwaZulu-Natal,uThungulu District Municipality,AP
@@ -2257,7 +2246,6 @@ ENK,EGAB,Enniskillen St. Angelo,54.35,-7.633333,157,,Europe/London,ENK,GB,Ennisk
 ENL,KENL,Municipal,38.516666,-89.13333,511,,America/Chicago,ENL,US,Centralia,Illinois,Marion County,AP
 ENN,PANN,Municipal,64.566666,-149.11667,351,,America/Anchorage,ENN,US,,,,AP
 ENO,SGEN,Teniente Prim Alarcon,-27.25,-55.833332,449,,America/Asuncion,ENO,PY,Capitan Miranda,Itapua,,AP
-ENQ,,Coronel E Soto Cano AB,14.369167,-87.617226,2030,,America/Tegucigalpa,ENQ,HN,Yarumela,La Paz,,AP
 ENS,EHTW,Twente,52.2781025,6.882574,88,https://www.twente-airport.nl/,Europe/Amsterdam,ENS,NL,,,,AP
 ENT,PKMA,Enewetak Island,11.5,162.25,0,,Pacific/Majuro,ENT,MH,,,,AP
 ENU,DNEN,Enugu Airport,6.471979599999999,7.55671795401768,469,http://www.faannigeria.org/nigeria-airport.php?airport=11,Africa/Lagos,ENU,NG,Enugu,Enugu,,AP
@@ -2273,11 +2261,9 @@ EOZ,SVEZ,Elorza,7.166667,-69.53333,278,,America/Caracas,EOZ,VE,Elorza,Apure,Muni
 EPA,SADP,El Palomar,-34.6150101,-58.60976216632794,95,,America/Argentina/Buenos_Aires,EPA,AR,Hurlingham,Buenos Aires,,AP
 EPG,NE69,Browns,40.86667,-96.13333,1204,,America/Chicago,EPG,US,Weeping Water,Nebraska,Cass County,AP
 EPH,KEPH,Ephrata,47.3063398,-119.51545,1230,http://www.portofephrata.com/index.htmlA,America/Los_Angeles,EPH,US,Ephrata,Washington,Grant County,AP
-EPI,,Epi,-16.716667,168.25,521,,Pacific/Efate,EPI,VU,,,,AP
 EPL,LFSG,Mirecourt,48.3218532,6.068698232464362,1026,http://www.epinal-mirecourt.aeroport.fr,Europe/Paris,EPL,FR,Mirecourt,Lorraine,Departement des Vosges,AP
 EPN,,Epena,1.366667,17.533333,1020,,Africa/Brazzaville,EPN,CG,,,,AP
 EPR,YESP,Esperance Airport,-33.684036500000005,121.82450125089962,406,,Australia/Perth,EPR,AU,Nulsen,Western Australia,Esperance Shire,AP
-EPS,MDPO,Arroyo Barril International,19.25,-69.5,974,,America/Santo_Domingo,EPS,DO,Las Terrenas,Samana,,AP
 EPT,AYEL,Eliptamin,-5.04175185,141.67824597773895,4753,,Pacific/Port_Moresby,EPT,PG,,,,AP
 EPU,EEPU,Parnu,58.41979255,24.470041647645797,45,,Europe/Tallinn,EPU,EE,Sauga,Paernumaa,Sauga vald,AP
 EQS,SAVE,Esquel Airport,-42.90427405,-71.13444374688999,2565,,America/Argentina/Catamarca,EQS,AR,Esquel,Chubut,Departamento de Futaleufu,AP
@@ -2351,7 +2337,6 @@ EVV,KEVV,Evansville Regional Airport,38.04188775,-87.5296839642167,377,,America/
 EVW,KEVW,Evanston,41.266666,-110.96667,6765,,America/Denver,EVW,US,Evanston,Wyoming,Uinta County,AP
 EVX,LFOE,Evreux,49.016666,1.15,393,,Europe/Paris,EVX,FR,Evreux,Haute-Normandie,Departement de l'Eure,AP
 EWB,KEWB,New Bedford Airport,41.6765725,-70.95929008264703,62,,America/New_York,EWB,US,New Bedford,Massachusetts,Bristol County,AP
-EWD,,Wildman Lake,56.45639,-159.76222,36,,America/Anchorage,EWD,US,,,,AP
 EWE,,Ewer,-5.4949737,138.080500210884,36,,Asia/Jayapura,EWE,ID,,,,AP
 EWI,WABT,Enarotali,-3.966667,136.33333,6679,,Asia/Jayapura,EWI,ID,Enarotali,Papua,,AP
 EWK,KEWK,City-County,38.033333,-97.36667,1456,http://www.newtonkansas.com/index.aspx?page=40,America/Chicago,EWK,US,Newton,Kansas,Harvey County,AP
@@ -2381,7 +2366,6 @@ FAH,OAFR,Farah,32.3655368,62.16252289843064,2194,,Asia/Kabul,FAH,AF,Farah,Farah,
 FAI,PAFA,Fairbanks International Airport,64.81761,-147.86784231862563,442,,America/Anchorage,FAI,US,,,,AP
 FAJ,TJFA,Diego Jimenez Torres,18.338888,-65.50222,0,,America/Puerto_Rico,FAJ,PR,Luis M. Cintron,Fajardo,,AP
 FAK,2Z6,False Island,57.5324682,-135.2132601,0,,America/Sitka,FAK,US,,,,AP
-FAL,,Falcon State,26.583332,-99.13333,328,,America/Chicago,FAL,US,Nueva Ciudad Guerrero,Tamaulipas,,AP
 FAM,KFAM,Regional,37.780834,-90.42167,925,http://farmington-mo.gov/airport.cfm,America/Chicago,FAM,US,Farmington,Missouri,Saint Francois County,AP
 FAO,LPFR,Faro Airport,37.017459599999995,-7.973911065722614,29,http://www.ana.pt/en-US/Aeroportos/algarve/Faro/Pages/HomeFaro.aspx,Europe/Lisbon,FAO,PT,,,,AP
 FAQ,AYFR,Freida River,-4.616667,141.95833,226,,Pacific/Port_Moresby,FAQ,PG,,,,AP
@@ -2409,7 +2393,6 @@ FCM,KFCM,Flying Cloud Airport,44.983334,-93.26667,902,http://www.metroairports.o
 FCN,ETMN,Cuxhaven/Nordholz,53.7721471,8.662276556603832,45,,Europe/Berlin,FCN,DE,Midlum,Lower Saxony,,AP
 FCO,LIRF,Leonardo da Vinci-Fiumicino Airport,41.8144309,12.226901204880779,32,http://www.adr.it/portal/portal/adr/Fiumicino/Leonardo_da_vinci/Header_Window?action=2,Europe/Rome,ROM,IT,Fiumicino-Isola Sacra,Latium,Citta metropolitana di Roma Capitale,AP
 FCS,KFCS,Butts AAF,38.833332,-104.816666,6030,,America/Denver,COS,US,Colorado Springs,Colorado,El Paso County,AP
-FCT,,Firing Center AAF,46.6,-120.51667,1059,,America/Los_Angeles,YKM,US,,,,AP
 FCY,KFCY,Municipal,34.95,-90.76667,246,http://www.fly.arkansas.gov/Airports/ForrestCity/FORREST_CITY-2.pdf,America/Chicago,FCY,US,Forrest City,Arkansas,Saint Francis County,AP
 FDE,ENBL,Bringeland Airport,61.39153845,5.760503549358087,1056,https://avinor.no/en/airport/forde-airport/,Europe/Oslo,FDE,NO,Sande,Sogn og Fjordane,Gaular,AP
 FDF,TFFF,Martinique Aime Cesaire International Airport,14.5906832,-61.00559445393026,26,http://www.martinique.aeroport.fr/,America/Martinique,FDF,MQ,Le Lamentin,Martinique,Martinique,AP
@@ -2427,9 +2410,7 @@ FEK,DIFK,Ferkessedougou,9.6000004,-5.1999998,1020,,Africa/Abidjan,FEK,CI,Ferkess
 FEL,ETSF,Fuerstenfeldbruck,48.2,11.266667,1709,,Europe/Berlin,FEL,DE,Maisach,Bavaria,Upper Bavaria,AP
 FEN,SBFN,Fernando De Noronha Airport,-3.8546858,-32.4227495764598,150,,America/Noronha,FEN,BR,Fernando de Noronha (Distrito Estadual),Pernambuco,Fernando De Noronha,AP
 FEP,KFEP,Albertus,42.24424695,-89.58328993042613,830,http://www.ci.freeport.il.us/business/albertus.htm,America/Chicago,FEP,US,Freeport,Illinois,Stephenson County,AP
-FES,,San Fernando,36.466667,-6.183333,22,,Europe/Madrid,FES,ES,San Fernando,Andalusia,Provincia de Cadiz,AP
 FET,KFET,Municipal,41.433334,-96.5,1217,http://www.fremontne.gov/index.aspx?nid=398,America/Chicago,FET,US,Fremont,Nebraska,Dodge County,AP
-FEW,,Warren AFB,41.14232855,-104.87201176270457,6148,,America/Denver,CYS,US,Cheyenne,Wyoming,Laramie County,AP
 FEZ,GMFF,Fes-Saiss Airport,33.929115949999996,-4.979095413023916,1883,,Africa/Casablanca,FEZ,MA,Oulad Tayeb,Fes-Boulemane,Fes,AP
 FFA,KFFA,First Flight,36.0176628,-75.67153016364745,26,,America/New_York,FFA,US,Kill Devil Hills,North Carolina,Dare County,AP
 FFD,EGVA,Fairford RAF Station,51.733334,-1.783333,377,,Europe/London,FFD,GB,Fairford,England,Gloucestershire,AP
@@ -2440,12 +2421,9 @@ FFT,KFFT,Capital City,38.18222,-84.905,774,http://cca.ky.gov/Pages/default.aspx,
 FFU,SCFT,Futaleufu,-43.1889648,-71.85031648848118,1125,,America/Santiago,FFU,CL,Futaleufu,Los Lagos,Provincia de Palena,AP
 FGD,GQPF,Fderik,22.6733397,-12.7288263,961,,Africa/Nouakchott,FGD,MR,,,,AP
 FGI,NSFI,Fagali I Airport,-13.8495609,-171.73900401758772,111,,Pacific/Apia,APW,WS,Apia,Tuamasaga,,AP
-FGL,,Fox Glacier,-43.466667,170.01666,524,,Pacific/Auckland,FGL,NZ,,,,AP
-FGR,,Fuengirola,36.533333,-4.633333,32,,Europe/Madrid,FGR,ES,Fuengirola,Andalusia,Provincia de Malaga,AP
 FGU,NTGB,Fangatau,-16.05,-141.83333,0,,Pacific/Tahiti,FGU,PF,,,,AP
 FHU,KFHU,Municipal,31.588888,-110.343056,4625,,America/Phoenix,FHU,US,Huachuca City,Arizona,Cochise County,AP
 FHZ,NTKH,Fakahina,-15.9916371,-140.1647412,32,,Pacific/Tahiti,FHZ,PF,,,,AP
-FIC,,Fire Cove,55.77778,-131.5375,0,,America/Juneau,FIC,US,,,,AP
 FID,0B8,Elizabeth Field,41.0,-72.0,0,https://www.dot.ny.gov/divisions/operating/opdm/aviation/repository/air_dir2/Elizabeth-revised.pdf,America/New_York,FID,US,,,,AP
 FIE,EGEF,Fair Isle,59.5347796,-1.6284978260484486,259,http://www.fairisle.org.uk/egef/index.htm,Europe/London,SDZ,GB,,,,AP
 FIG,GUFA,Fria,10.3515213,-13.5691599,547,,Africa/Conakry,FIG,GN,Fria,Boke,Fria,AP
@@ -2453,7 +2431,6 @@ FIH,FZAA,N'djili Airport,-4.389588,15.447338,1010,,Africa/Kinshasa,FIH,CD,Masina
 FIK,YFNE,Finke,-25.566668,134.58333,928,,Australia/Darwin,FIK,AU,,,,AP
 FIL,KFOM,Municipal,38.958332,-112.3625,4967,,America/Denver,FIL,US,Fillmore,Utah,Millard County,AP
 FIN,AYFI,Finschhafen,-6.6207783,147.8537867495256,65,,Pacific/Port_Moresby,FIN,PG,,,,AP
-FIV,,Five Finger,57.266666,-133.63333,0,,America/Juneau,FIV,US,,,,AP
 FIZ,YFTZ,Fitzroy Crossing,-18.1818248,125.55918151085643,400,,Australia/Perth,FIZ,AU,,,,AP
 FJR,OMFJ,Al-Fujairah International,25.1102772,56.32334682899914,95,,Asia/Dubai,FJR,AE,Al Fujayrah,Al Fujayrah,,AP
 FKB,EDSB,Baden-Airpark,48.7787136,8.081971309890005,406,http://www.baden-airpark.de/startseite.html,Europe/Berlin,FKB,DE,Hugelsheim,Baden-Wuerttemberg,Karlsruhe Region,AP
@@ -2465,13 +2442,11 @@ FKQ,WASF,Fak Fak Airport,-2.916667,132.3,511,,Asia/Jayapura,FKQ,ID,Fakfak,Papua,
 FKS,RJSF,Fukushima Airport,37.2272,140.4306,1194,http://www.fks-ab.co.jp/,Asia/Tokyo,FKS,JP,Sukagawa,Fukushima,,AP
 FLA,SKFL,Capitolio Airport,1.588889,-75.55889,761,,America/Bogota,FLA,CO,Florencia,Caqueta,,AP
 FLB,SNQG,Cangapara,-6.8,-43.033333,442,,America/Fortaleza,FLB,BR,Floriano,Piaui,Floriano,AP
-FLC,,Falls Creek,-36.833332,143.28334,1151,,Australia/Melbourne,FLC,AU,Maryborough,Victoria,Central Goldfields,AP
 FLD,KFLD,Fond Du Lac,43.771667,-88.48444,790,http://www.fdlco.wi.gov/departments/departments-a-e/airport,America/Chicago,FLD,US,North Fond du Lac,Wisconsin,Fond du Lac County,AP
 FLF,EDXF,Schaferhaus,54.77174585,9.37996456704682,111,,Europe/Berlin,FLF,DE,Harrislee,Schleswig-Holstein,,AP
 FLG,KFLG,Flagstaff Pulliam Airport,35.140398250000004,-111.67020441781051,7004,,America/Phoenix,GCN,US,Kachina Village,Arizona,Coconino County,AP
 FLH,EGZR,Flotta,58.5,-3.0,0,,Europe/London,FLH,GB,,,,AP
 FLI,BIHT,Flateyri,65.98333,-23.7,1906,,Atlantic/Reykjavik,FLI,IS,,,,AP
-FLJ,,Falls Bay,60.0325,-148.00833,393,,America/Anchorage,FLJ,US,,,,AP
 FLL,KFLL,Fort Lauderdale-Hollywood International Airport,26.072017000000002,-80.15099673135214,45,http://www.broward.org/airport,America/New_York,FLL,US,,,,AP
 FLM,SGFI,Filadelfia,-22.357841,-60.053753667301976,495,,America/Asuncion,FLM,PY,Filadelfia,Boqueron,,AP
 FLN,SBFL,Hercilio Luz International Airport,-27.670113450000002,-48.54468648648172,19,http://www.infraero.gov.br/usa/aero_prev_home.php?ai=228,America/Sao_Paulo,FLN,BR,Carianos,Santa Catarina,Florianopolis,AP
