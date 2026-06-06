@@ -11,3 +11,15 @@ If you like this project, give it a star on GitHub, and consider supporting its 
 
 [![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/lxndrblz/)
 
+If you use this dataset in a commercial context, please consider supporting the project with a donation via Ko-fi:
+
+https://ko-fi.com/lxndrblz/
+
+Or consider using the hosted API service:
+
+https://rapidapi.com/travel-tools-travel-tools-default/api/iata-airports/
+
+## Data License
+
+All data in this repository is licensed under [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)](https://creativecommons.org/licenses/by-sa/4.0/).
+
