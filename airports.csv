@@ -1852,6 +1852,7 @@ DJJ,WAJJ,Sentani Airport,-2.5782397,140.5184882521964,269,https://sentani-airpor
 DJM,FCBD,Djambala,-2.515203,14.755771029863677,2493,,Africa/Brazzaville,DJM,CG,,,,AP
 DJN,D66,Delta Junction,64.0488787,-145.7171901,1122,,America/Anchorage,DJN,US,,,,AP
 DJO,DIDL,Daloa,6.866944,-6.466667,790,,Africa/Abidjan,DJO,CI,Daloa,Haut-Sassandra,,AP
+DJT,KDJT,President Donald J. Trump International Airport,26.6859478,-80.09248650717163,32,http://flydjt.org,America/New_York,PBI,US,Haverhill,Florida,Palm Beach County,AP
 DJU,BIDV,Djupivogur,64.6430303,-14.2775558,16,,Atlantic/Reykjavik,DJU,IS,Reydarfjoerdur,East,,AP
 DKA,,Katsina,13.0057213,7.659455216289262,1617,http://www.faannigeria.org/nigeria-airport.php?airport=18,Africa/Lagos,DKA,NG,Katsina,Katsina,,AP
 DKI,YDKI,Dunk Island,-17.9371869,146.140759,49,,Australia/Brisbane,DKI,AU,,,,AP
@@ -1988,6 +1989,7 @@ DTN,KDTN,Shreveport Downtown,32.54041615,-93.74500728259136,187,http://www.shrev
 DTR,WN07,Decatur Island,48.5034859,-122.813495,39,,America/Los_Angeles,DTR,US,,,,AP
 DTU,ZYDU,Wudalianchi Dedu Airport,48.442918399999996,126.13780921753956,941,,Asia/Shanghai,DTU,CN,Baoquan,Heilongjiang Sheng,,AP
 DTW,KDTW,Detroit Metropolitan Wayne County Airport,42.205699100000004,-83.35297537621658,636,http://www.metroairport.com/,America/Detroit,DTT,US,Romulus,Michigan,Wayne County,AP
+DTX,KTKI,McKinney National Airport,33.177898,-96.5905,585,https://www.flytki.com/,America/Chicago,DFW,US,McKinney,Texas,Collin County,AP
 DUA,KDUA,Eaker,33.983334,-96.416664,682,,America/Chicago,DUA,US,Durant,Oklahoma,Bryan County,AP
 DUB,EIDW,Dublin Airport,53.4288026,-6.247592522077657,246,http://www.dublinairport.com/,Europe/Dublin,DUB,IE,Beaumont,Leinster,,AP
 DUC,KDUC,Halliburton Field,34.4720262,-97.960035,1099,,America/Chicago,DUC,US,Duncan,Oklahoma,Stephens County,AP
@@ -3346,7 +3348,7 @@ INB,MZSV,Independence,17.547222,-88.3,19,,America/Belize,INB,BZ,,,,AP
 INC,ZLIC,Yinchuan Hedong International Airport,38.3211525,106.38861654513931,3766,http://www.ningxiaairport.com/,Asia/Shanghai,INC,CN,Yanghe,Ningxia Huizu Zizhiqu,,AP
 IND,KIND,Indianapolis International Airport,39.7162533,-86.29508388539975,797,http://www.indianapolisairport.com/,America/Indiana/Indianapolis,IND,US,Speedway,Indiana,Marion County,AP
 INE,,Chinde,-18.616667,36.4,42,,Africa/Maputo,INE,MZ,,,,AP
-INF,DATG,Newark Liberty International,19.616667,5.866667,1545,,Africa/Algiers,INF,DZ,,,,AP
+INF,DATG,In Guezzam Airport,19.560556,5.75,1325,,Africa/Algiers,INF,DZ,,,,AP
 INH,FQIN,Inhambane Airport,-23.874443,35.408333,55,,Africa/Maputo,INH,MZ,Inhambane,Inhambane,,AP
 INI,LYNI,Nis Constantine the Great Airport,43.336109,21.85733488617226,613,,Europe/Belgrade,INI,RS,Nis,Central Serbia,Nisavski Okrug,AP
 INJ,YINJ,Injune,-25.8526452,148.5518976,1269,,Australia/Brisbane,INJ,AU,,,,AP
@@ -5984,7 +5986,6 @@ PBE,SKPR,Puerto Berrio,6.483333,-74.48333,524,,America/Bogota,PBE,CO,Puerto Berr
 PBF,KPBF,Grider Field,34.1744743,-91.9366952,127,http://www.pbaviation.com,America/Chicago,PBF,US,Pine Bluff,Arkansas,Jefferson County,AP
 PBG,KPBG,Plattsburgh International Airport,44.6689275,-73.4719379,206,http://www.plattsburghinternationalairport.com/,America/New_York,PBG,US,Plattsburgh West,New York,Clinton County,AP
 PBH,VQPR,Paro Airport,27.403184449999998,89.42341649453166,7293,,Asia/Thimphu,PBH,BT,Paro,Paro,,AP
-PBI,KPBI,Palm Beach International Airport,26.6859478,-80.09248650717163,32,http://www.pbia.org,America/New_York,PBI,US,Haverhill,Florida,Palm Beach County,AP
 PBJ,NVSI,Paama,-16.432021900000002,168.23523696852922,45,,Pacific/Efate,PBJ,VU,,,,AP
 PBL,SVPC,Puerto Cabello,10.4789026,-68.07287449307714,59,,America/Caracas,PBL,VE,Puerto Cabello,Carabobo,Municipio Puerto Cabello,AP
 PBM,SMJP,Zanderij International Airport,5.45209655,-55.18802501876111,52,http://www.japi-airport.com,America/Paramaribo,PBM,SR,Onverwacht,Para,,AP
