@@ -1219,7 +1219,7 @@ CBZ,,Cabin Creek,55.38333,-132.41667,843,,America/Sitka,CBZ,US,,,,AP
 CCA,SLCH,Chaffee AFB,35.316666,-94.3,482,,America/Chicago,CCA,US,,,,AP
 CCB,KCCB,Cable Airport,34.11242505,-117.6853957695332,1414,,America/Los_Angeles,CCB,US,Claremont,California,Los Angeles County,AP
 CCC,MUCC,Jardines del Rey Airport,22.5125,-78.50833,29,,America/Havana,CCC,CU,Moron,Ciego de Avila,,AP
-CCE,HECP,Grand Case,18.05,-63.11667,52,http://www.avit.com.eg/index.php/projects/item/138-katameya-airport,America/Marigot,SFG,MF,,,,AP
+CCE,HECP,Capital International Airport,30.075833,31.833333,833,https://www.civilaviation.gov.eg/Airport/getAirport/23,Africa/Cairo,CAI,EG,,,,AP
 CCF,LFMK,Carcassonne Airport,43.216667,2.316667,370,,Europe/Paris,CCF,FR,Pennautier,Languedoc-Roussillon,Departement de l'Aude,AP
 CCG,E13,Crane County Airport,31.41140455,-102.35929573280173,2552,,America/Chicago,CCG,US,Crane,Texas,Crane County,AP
 CCH,SCCC,Chile Chico,-46.5823172,-71.68903562065907,1000,,America/Santiago,CCH,CL,Chile Chico,Aisen,Provincia General Carrera,AP
@@ -3175,7 +3175,7 @@ HUS,PAHU,Hughes Municipal Airport,66.04056,-154.26334,62,,America/Anchorage,HUS,
 HUT,KHUT,Hutchinson,38.068054,-97.861115,1519,http://www.hutchgov.com/department/?fDD=20-0,America/Chicago,HUT,US,Hutchinson,Kansas,Reno County,AP
 HUU,SPNC,Huanuco Airport,-9.8786937,-76.2050280466014,6072,,America/Lima,HUU,PE,Huanuco,Huanuco,Provincia de Huanuco,AP
 HUV,ESNH,Hudiksvall,61.76782215,17.081638942254507,45,,Europe/Stockholm,HUV,SE,Hudiksvall,Gaevleborg,Hudiksvalls Kommun,AP
-HUW,SWHT,Humaita,53.583447,-0.348669,59,,America/Manaus,HUW,BR,,,,AP
+HUW,SWHT,Humaita,-7.548611,-63.072222,167,,America/Manaus,HUW,BR,,,,AP
 HUX,MMBT,Huatulco Airport,15.7759827,-96.25869871122916,423,,America/Mexico_City,HUX,MX,Sector H Tres,Oaxaca,Santa Maria Huatulco,AP
 HUY,EGNJ,Humberside Airport,53.5713963,-0.3534607323460707,285,http://www.humbersideairport.com/,Europe/London,HUY,GB,Croxton,England,North Lincolnshire,AP
 HUZ,ZGHZ,Huizhou Airport,23.083332,114.36667,574,,Asia/Shanghai,HUZ,CN,Longfeng,Guangdong,,AP
@@ -3303,7 +3303,7 @@ IJX,,Municipal,39.774166,-90.23722,606,,America/Chicago,IJX,US,Jacksonville,Illi
 IKA,OIIE,Imam Khomeini International Airport,35.4164909,51.144760916142786,3261,http://www.ikia.ir/,Asia/Tehran,THR,IR,Robat Karim,Tehran,,AP
 IKB,KUKF,Wilkes County,36.15,-81.15,1010,http://wilkescounty.net/airport/,America/New_York,IKB,US,North Wilkesboro,North Carolina,Wilkes County,AP
 IKI,RJDB,Iki Airport,33.749026,129.785263,32,,Asia/Tokyo,IKI,JP,Karatsu,Saga Prefecture,,AP
-IKK,KIKK,Greater Kankakee,41.38333,-88.25,501,http://kvaa.com/,America/Chicago,IKK,US,Channahon,Illinois,Will County,AP
+IKK,KIKK,Greater Kankakee,41.06653869604128,-87.85403467363285,620,http://kvaa.com/,America/Chicago,IKK,US,Kankakee,Illinois,Kankakee County,AP
 IKL,FZGV,Ikela,-1.666667,23.666668,1584,,Africa/Kinshasa,IKL,CD,,,,AP
 IKO,PAKO,Nikolski AFS,52.941666,-168.85,52,,America/Anchorage,IKO,US,,,,AP
 IKP,YIKM,Inkerman,-16.25,141.5,82,,Australia/Brisbane,IKP,AU,,,,AP
@@ -3490,7 +3490,7 @@ JAA,OAJL,Jalalabad,34.39979555,70.49910110579532,1801,,Asia/Kabul,JAA,AF,Jalalab
 JAB,YJAB,Jabiru,-12.6583004,132.8930054,49,,Australia/Darwin,JAB,AU,,,,AP
 JAC,KJAC,Jackson Hole Airport,43.6087926,-110.73803248494762,6469,,America/Denver,JAC,US,Jackson,Wyoming,Teton County,AP
 JAD,YPJT,Jandakot,-32.0976113,115.87474821252181,65,,Australia/Perth,PER,AU,Willetton,Western Australia,Canning,AP
-JAE,SPJE,Shumba Airport,33.638058,-84.424446,994,,America/New_York,CIX,PE,,,,AP
+JAE,SPJE,Shumba Airport,-5.593056,-78.773611,2470,,America/Lima,JAE,PE,,,,AP
 JAF,VCCJ,Kankesanturai,9.792629949999998,80.0689781508496,39,,Asia/Colombo,JAF,LK,Valvedditturai,Northern Province,,AP
 JAG,OPJA,Jacobabad,28.28384345,68.45826131062442,177,,Asia/Karachi,JAG,PK,Jacobabad,Sindh,,AP
 JAI,VIJP,Jaipur Airport,26.8281087,75.8059454340161,1250,https://www.jaipurairport.com/,Asia/Kolkata,JAI,IN,Jaipur,Rajasthan,Jaipur,AP
