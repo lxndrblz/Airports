@@ -1,2 +1,3 @@
 .venv/
-utils/
+utils/check_urls.py
+check_urls.py
