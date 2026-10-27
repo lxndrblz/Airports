@@ -11,6 +11,7 @@ import csv
 import httpx
 from tqdm.asyncio import tqdm
 import sys
+from urllib.parse import urlsplit
 
 TIMEOUT = 10.0
 MAX_CONCURRENT = 50
@@ -20,13 +21,15 @@ async def check_url(client: httpx.AsyncClient, semaphore: asyncio.Semaphore, ori
         return idx, original_url, "none", ""
 
     url = original_url.strip()
-    if url.startswith("http://"):
-        domain_part = url[7:]
-    elif url.startswith("https://"):
-        domain_part = url[8:]
-    else:
-        domain_part = url
-        url = "http://" + domain_part
+    if not url.startswith(("http://", "https://")):
+        url = "http://" + url
+
+    parsed = urlsplit(url)
+    domain_part = parsed.netloc + parsed.path
+    if parsed.query:
+        domain_part += "?" + parsed.query
+    if parsed.fragment:
+        domain_part += "#" + parsed.fragment
 
     https_url = "https://" + domain_part
     http_url = "http://" + domain_part
@@ -34,7 +37,7 @@ async def check_url(client: httpx.AsyncClient, semaphore: asyncio.Semaphore, ori
     def is_success(status_code):
         # We consider 401 and 403 as success because the server is responding (likely a bot challenge).
         # We consider 405 (Method Not Allowed) as partial success and retry with GET.
-        return status_code < 400 or status_code in (401, 403, 405, 406, 429)
+        return status_code < 400 or status_code in frozenset((401, 403, 405, 406, 429))
 
     async def fetch(target_url):
         try:
